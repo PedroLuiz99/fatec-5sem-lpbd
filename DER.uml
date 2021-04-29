@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>1170f21c-869c-4500-bad2-6e4400894af2.SCHEMA:pbd.public</OriginalElement>
+  <nodes>
+    <node x="255.6029411764706" y="665.0588235294117">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.partnership</node>
+    <node x="748.2800229741015" y="1380.0504201680674">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.trip_packages</node>
+    <node x="1244.1927323947123" y="635.5427807486632">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.salary</node>
+    <node x="1509.2090467836251" y="646.0427807486632">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.employee</node>
+    <node x="1290.5322681704258" y="1584.6413292589766">1170f21c-869c-4500-bad2-6e4400894af2.VIEW:pbd.public.geography_columns</node>
+    <node x="1781.1036967418545" y="1584.6413292589764">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.spatial_ref_sys</node>
+    <node x="1066.038617320931" y="1595.1413292589766">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.truck</node>
+    <node x="15.692098589834558" y="1125.4033613445376">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.invoice_item</node>
+    <node x="1678.907179354356" y="1105.5">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.payroll_item</node>
+    <node x="504.0869707429224" y="687.0588235294117">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.third_company</node>
+    <node x="698.528259569378" y="1089.0">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user</node>
+    <node x="1041.0384456607203" y="881.0">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.department</node>
+    <node x="1328.707688338493" y="984.0">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.employee_department</node>
+    <node x="441.29631745808354" y="1054.8823529411766">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user_address</node>
+    <node x="680.528259569378" y="877.529411764706">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.contact_phone</node>
+    <node x="1041.0384456607203" y="657.0427807486632">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.agency</node>
+    <node x="1534.3179824561403" y="1584.6413292589766">1170f21c-869c-4500-bad2-6e4400894af2.VIEW:pbd.public.geometry_columns</node>
+    <node x="477.1194530443752" y="877.529411764706">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.third_company_contact</node>
+    <node x="268.9852941176471" y="1147.4033613445376">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.invoice</node>
+    <node x="1176.1235258612217" y="1138.5">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.role</node>
+    <node x="268.9852941176471" y="877.529411764706">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.partner_stop_point</node>
+    <node x="-7.58099100385806" y="865.7941176470589">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.location</node>
+    <node x="274.8850649909084" y="1380.0504201680674">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.travel_plan_step</node>
+    <node x="-229.65844039968562" y="819.5">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.city</node>
+    <node x="-272.5008678112393" y="1198.109243697479">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.package</node>
+    <node x="720.8678445378155" y="665.0588235294117">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.contract</node>
+    <node x="15.692098589834558" y="1462.0">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.travel_plan</node>
+    <node x="1688.907179354356" y="814.0">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.payroll</node>
+    <node x="955.7602016806724" y="1043.2647058823532">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.document</node>
+    <node x="1056.3159781556162" y="1336.0504201680674">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.trip</node>
+    <node x="1330.2090467836251" y="814.5">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.department_manager</node>
+    <node x="1345.3179824561403" y="1358.0504201680674">1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.driver</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.department_manager" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.department" relationship="REFERENCES">
+      <point x="-89.5" y="45.0" />
+      <point x="66.0" y="0.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.employee" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user" relationship="REFERENCES">
+      <point x="-15.0" y="61.5" />
+      <point x="1566.2090467836251" y="1235.0" />
+      <point x="66.0" y="62.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.partnership" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.third_company" relationship="REFERENCES">
+      <point x="69.0" y="11.0" />
+      <point x="-81.5" y="0.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.location" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.city" relationship="REFERENCES">
+      <point x="-89.5" y="-98.0" />
+      <point x="66.0" y="3.294117647058897" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.agency" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.location" relationship="REFERENCES">
+      <point x="0.0" y="-50.5" />
+      <point x="1107.0384456607203" y="536.1149732620321" />
+      <point x="81.91900899614194" y="536.1149732620321" />
+      <point x="0.0" y="-105.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.partner_stop_point" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.location" relationship="REFERENCES">
+      <point x="-81.5" y="32.26470588235293" />
+      <point x="89.5" y="0.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.employee_department" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.employee" relationship="REFERENCES">
+      <point x="93.0" y="0.0" />
+      <point x="1596.2090467836251" y="1056.0" />
+      <point x="15.0" y="61.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.department_manager" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.employee" relationship="REFERENCES">
+      <point x="89.5" y="0.0" />
+      <point x="1551.2090467836251" y="886.5" />
+      <point x="-30.0" y="61.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.travel_plan" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.package" relationship="REFERENCES">
+      <point x="-67.0" y="-11.890756302520913" />
+      <point x="81.5" y="142.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.document" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user" relationship="REFERENCES">
+      <point x="-81.49999999999989" y="0.0" />
+      <point x="66.0" y="-67.73529411764684" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.trip_packages" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.travel_plan_step" relationship="REFERENCES">
+      <point x="-67.0" y="0.0" />
+      <point x="83.0" y="-66.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user_address" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.location" relationship="REFERENCES">
+      <point x="-66.0" y="-47.08823529411757" />
+      <point x="89.5" y="98.00000000000011" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.invoice" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user" relationship="REFERENCES">
+      <point x="71.5" y="0.0" />
+      <point x="-66.0" y="47.40336134453764" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.salary" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.employee" relationship="REFERENCES">
+      <point x="71.5" y="0.0" />
+      <point x="-72.0" y="0.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.role" relationship="REFERENCES">
+      <point x="66.0" y="11.264705882353155" />
+      <point x="-66.0" y="5.764705882353155" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.agency" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user" relationship="REFERENCES">
+      <point x="-66.0" y="0.0" />
+      <point x="920.5762032085563" y="707.5427807486632" />
+      <point x="920.5762032085563" y="1062.3823529411766" />
+      <point x="764.528259569378" y="1062.3823529411766" />
+      <point x="0.0" y="-83.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.partnership" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.contract" relationship="REFERENCES">
+      <point x="0.0" y="-72.5" />
+      <point x="324.6029411764706" y="618.0427807486632" />
+      <point x="802.3678445378155" y="618.0427807486632" />
+      <point x="0.0" y="-94.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.trip" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.driver" relationship="REFERENCES">
+      <point x="81.5" y="11.0" />
+      <point x="-94.5" y="0.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.department" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.agency" relationship="REFERENCES">
+      <point x="0.0" y="-50.5" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user_address" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user" relationship="REFERENCES">
+      <point x="66.0" y="0.0" />
+      <point x="-66.0" y="-56.11764705882342" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.third_company_contact" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.third_company" relationship="REFERENCES">
+      <point x="23.016405625246875" y="-61.5" />
+      <point x="594.635858669622" y="699.1470588235295" />
+      <point x="585.5869707429224" y="699.1470588235295" />
+      <point x="0.0" y="61.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.payroll" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.employee" relationship="REFERENCES">
+      <point x="0.0" y="-72.5" />
+      <point x="1760.407179354356" y="707.5427807486632" />
+      <point x="72.0" y="0.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.invoice_item" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.invoice" relationship="REFERENCES">
+      <point x="67.0" y="11.0" />
+      <point x="-71.5" y="0.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.driver" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.employee" relationship="REFERENCES">
+      <point x="94.5" y="0.0" />
+      <point x="1611.2090467836251" y="1452.5504201680674" />
+      <point x="30.0" y="61.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.third_company_contact" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user" relationship="REFERENCES">
+      <point x="23.79708629863478" y="61.5" />
+      <point x="595.41653934301" y="1101.3823529411766" />
+      <point x="-66.0" y="-71.11764705882342" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.package" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.location" relationship="REFERENCES">
+      <point x="-15.0" y="-149.5" />
+      <point x="-206.0008678112393" y="941.2941176470589" />
+      <point x="-89.5" y="-30.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.trip_packages" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.trip" relationship="REFERENCES">
+      <point x="67.0" y="0.0" />
+      <point x="-81.5" y="0.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.payroll_item" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.payroll" relationship="REFERENCES">
+      <point x="0.0" y="-72.5" />
+      <point x="0.0" y="72.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.invoice_item" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.package" relationship="REFERENCES">
+      <point x="-67.0" y="0.0" />
+      <point x="81.5" y="-138.70588235294144" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.partner_stop_point" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.partnership" relationship="REFERENCES">
+      <point x="0.0" y="-61.5" />
+      <point x="350.4852941176471" y="762.6176470588236" />
+      <point x="324.6029411764706" y="762.6176470588236" />
+      <point x="0.0" y="72.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.package" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user" relationship="REFERENCES">
+      <point x="81.5" y="-29.05882352941171" />
+      <point x="749.528259569378" y="1318.5504201680674" />
+      <point x="-15.0" y="83.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.trip" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.truck" relationship="REFERENCES">
+      <point x="9.722639165314831" y="105.5" />
+      <point x="0.0" y="-83.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.contact_phone" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.user" relationship="REFERENCES">
+      <point x="-15.0" y="61.5" />
+      <point x="-15.0" y="-83.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.travel_plan_step" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.travel_plan" relationship="REFERENCES">
+      <point x="-83.0" y="-6.050420168067376" />
+      <point x="67.0" y="0.0" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.trip_packages" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.package" relationship="REFERENCES">
+      <point x="0.0" y="61.5" />
+      <point x="815.2800229741015" y="1673.5504201680674" />
+      <point x="-191.0008678112393" y="1673.5504201680674" />
+      <point x="0.0" y="149.5" />
+    </edge>
+    <edge source="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.employee_department" target="1170f21c-869c-4500-bad2-6e4400894af2.TABLE:pbd.public.department" relationship="REFERENCES">
+      <point x="-93.0" y="-30.235294117646845" />
+      <point x="1107.0384456607203" y="1025.7647058823532" />
+      <point x="0.0" y="50.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.9999999999999997" showDependencies="false" x="104.88568215892076" y="1130.0000000000002" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+

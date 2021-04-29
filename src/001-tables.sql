@@ -1,3 +1,5 @@
+CREATE EXTENSION IF NOT EXISTS postgis;
+
 DROP TABLE IF EXISTS trip_packages;
 DROP TABLE IF EXISTS trip;
 DROP TABLE IF EXISTS truck;
@@ -14,11 +16,11 @@ DROP TABLE IF EXISTS payroll_item;
 DROP TABLE IF EXISTS payroll;
 DROP TABLE IF EXISTS driver;
 DROP TABLE IF EXISTS employee;
-DROP TABLE IF EXISTS third_company;
-DROP TABLE IF EXISTS contract;
-DROP TABLE IF EXISTS company_contact;
-DROP TABLE IF EXISTS partnership;
+DROP TABLE IF EXISTS third_company_contact;
 DROP TABLE IF EXISTS partner_stop_point;
+DROP TABLE IF EXISTS partnership;
+DROP TABLE IF EXISTS contract;
+DROP TABLE IF EXISTS third_company;
 DROP TABLE IF EXISTS agency;
 DROP TABLE IF EXISTS contact_phone;
 DROP TABLE IF EXISTS user_address;
@@ -120,6 +122,9 @@ CREATE TABLE agency
     location_id INTEGER NOT NULL,
     owner_id    INTEGER NOT NULL,
 
+    CONSTRAINT fk_agency_location FOREIGN KEY (location_id)
+        REFERENCES location (id),
+
     CONSTRAINT fk_owner_user FOREIGN KEY (owner_id)
         REFERENCES "user" (id)
 );
@@ -129,7 +134,10 @@ CREATE TABLE employee
     id             SERIAL PRIMARY KEY,
     user_id        INTEGER NOT NULL,
     hire_date      DATE    NOT NULL,
-    demission_date DATE    NOT NULL
+    demission_date DATE    NOT NULL,
+
+    CONSTRAINT fk_employee_user FOREIGN KEY (user_id)
+        REFERENCES "user" (id)
 );
 
 CREATE TABLE department
@@ -448,7 +456,10 @@ CREATE TABLE partnership
     description TEXT         NOT NULL,
 
     CONSTRAINT fk_partnership_third_company FOREIGN KEY (company_id)
-        REFERENCES third_company (id)
+        REFERENCES third_company (id),
+
+    CONSTRAINT fk_partnership_contract FOREIGN KEY (contract_id)
+        REFERENCES contract (id)
 );
 
 CREATE TABLE partner_stop_point
