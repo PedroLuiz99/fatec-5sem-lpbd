@@ -1,15 +1,14 @@
 CREATE EXTENSION IF NOT EXISTS postgis;
 
-DROP TABLE IF EXISTS trip_packages;
-DROP TABLE IF EXISTS trip;
+DROP TABLE IF EXISTS travel_packages;
+DROP TABLE IF EXISTS travel;
 DROP TABLE IF EXISTS truck;
-DROP TABLE IF EXISTS travel_plan_step;
+DROP TABLE IF EXISTS travel_plan;
 DROP TABLE IF EXISTS travel_plan;
 DROP TABLE IF EXISTS invoice_item;
 DROP TABLE IF EXISTS invoice;
 DROP TABLE IF EXISTS package;
 DROP TABLE IF EXISTS employee_department;
-DROP TABLE IF EXISTS department_manager;
 DROP TABLE IF EXISTS department;
 DROP TABLE IF EXISTS salary;
 DROP TABLE IF EXISTS payroll_item;
@@ -71,12 +70,23 @@ CREATE TABLE "user"
     id      SERIAL PRIMARY KEY,
     name    VARCHAR(255) NOT NULL,
     role_id INTEGER      NOT NULL,
-    email   VARCHAR(255) NOT NULL,
-    cpf     VARCHAR(16)  NOT NULL,
+    email   VARCHAR(255) NOT NULL UNIQUE,
+    cpf     VARCHAR(16)  NOT NULL UNIQUE,
     enabled BOOLEAN      NOT NULL,
 
     CONSTRAINT fk_user_role FOREIGN KEY (role_id)
         REFERENCES role (id)
+);
+
+CREATE TABLE document
+(
+    id          SERIAL PRIMARY KEY,
+    file        BYTEA   NOT NULL,
+    user_id     INTEGER NOT NULL,
+    description VARCHAR(255),
+
+    CONSTRAINT fk_document_user FOREIGN KEY (user_id)
+        REFERENCES "user" (id)
 );
 
 CREATE TYPE address_type AS ENUM (
@@ -120,19 +130,19 @@ CREATE TABLE agency
 (
     id          SERIAL PRIMARY KEY,
     location_id INTEGER NOT NULL,
-    owner_id    INTEGER NOT NULL,
+    manager_id    INTEGER NOT NULL,
 
     CONSTRAINT fk_agency_location FOREIGN KEY (location_id)
         REFERENCES location (id),
 
-    CONSTRAINT fk_owner_user FOREIGN KEY (owner_id)
-        REFERENCES "user" (id)
+    CONSTRAINT fk_owner_employee FOREIGN KEY (manager_id)
+        REFERENCES employee (id)
 );
 
 CREATE TABLE employee
 (
     id             SERIAL PRIMARY KEY,
-    user_id        INTEGER NOT NULL,
+    user_id        INTEGER NOT NULL UNIQUE,
     hire_date      DATE    NOT NULL,
     demission_date DATE    NOT NULL,
 
@@ -150,27 +160,13 @@ CREATE TABLE department
         REFERENCES agency (id)
 );
 
-CREATE TABLE department_manager
-(
-    id            SERIAL  NOT NULL,
-    employee_id   INTEGER NOT NULL,
-    department_id INTEGER NOT NULL,
-    from_date     DATE    NOT NULL,
-    to_date       DATE,
-
-    CONSTRAINT fk_department_manager_employee FOREIGN KEY (employee_id)
-        REFERENCES employee (id),
-
-    CONSTRAINT fk_department_manager_department FOREIGN KEY (department_id)
-        REFERENCES department (id)
-);
-
 CREATE TABLE employee_department
 (
     id            SERIAL  NOT NULL,
     employee_id   INTEGER NOT NULL,
     department_id INTEGER NOT NULL,
     from_date     DATE    NOT NULL,
+    manager       BOOLEAN NOT NULL,
     to_date       DATE,
 
     CONSTRAINT fk_employe_department_employee FOREIGN KEY (employee_id)
@@ -289,15 +285,6 @@ CREATE TABLE invoice_item
         REFERENCES package (id)
 );
 
-CREATE TABLE travel_plan
-(
-    id         SERIAL PRIMARY KEY,
-    package_id INTEGER NOT NULL,
-
-    CONSTRAINT fk_travel_plan_package FOREIGN KEY (package_id)
-        REFERENCES package (id)
-);
-
 CREATE TYPE travel_step_status AS ENUM (
     'waiting',
     'in_transit',
@@ -307,10 +294,10 @@ CREATE TYPE travel_step_status AS ENUM (
     'completed'
     );
 
-CREATE TABLE travel_plan_step
+CREATE TABLE travel_plan
 (
     id             SERIAL PRIMARY KEY,
-    travel_plan_id INTEGER            NOT NULL,
+    package_id     INTEGER            NOT NULL,
     step_number    INTEGER            NOT NULL,
     step_started   TIMESTAMP,
     step_finished  TIMESTAMP,
@@ -320,20 +307,20 @@ CREATE TABLE travel_plan_step
     description    VARCHAR(255)       NOT NULL,
     status         travel_step_status NOT NULL,
 
-    CONSTRAINT fk_travel_plan_step_travel_plan FOREIGN KEY (travel_plan_id)
-        REFERENCES travel_plan (id)
+    CONSTRAINT fk_travel_plan_package FOREIGN KEY (package_id)
+        REFERENCES package (id)
 );
 
 CREATE TYPE truck_status AS ENUM (
     'dispatched',
     'on_hold',
-    'sold'
+    'maintenance'
     );
 
 CREATE TABLE truck
 (
     id            SERIAL PRIMARY KEY,
-    license_plate DECIMAL NOT NULL,
+    license_plate VARCHAR(8) NOT NULL UNIQUE,
     box_volume    DECIMAL NOT NULL,
     max_weight    INTEGER NOT NULL,
     description   VARCHAR(255),
@@ -349,7 +336,7 @@ CREATE TYPE driver_status AS ENUM (
 CREATE TABLE driver
 (
     id                      SERIAL PRIMARY KEY,
-    employee_id             INTEGER     NOT NULL,
+    employee_id             INTEGER     NOT NULL UNIQUE,
     driver_license          VARCHAR(64) NOT NULL,
     license_issuer          VARCHAR(32) NOT NULL,
     license_type            VARCHAR(16) NOT NULL,
@@ -360,7 +347,7 @@ CREATE TABLE driver
         REFERENCES employee (id)
 );
 
-CREATE TABLE trip
+CREATE TABLE travel
 (
     id          SERIAL PRIMARY KEY,
     truck_id    INTEGER NOT NULL,
@@ -371,54 +358,32 @@ CREATE TABLE trip
     arrival     TIMESTAMP,
     description VARCHAR(255),
 
-    CONSTRAINT fk_trip_truck FOREIGN KEY (truck_id)
+    CONSTRAINT fk_travel_truck FOREIGN KEY (truck_id)
         REFERENCES truck (id),
-    CONSTRAINT fk_trip_driver FOREIGN KEY (driver_id)
+    CONSTRAINT fk_travel_driver FOREIGN KEY (driver_id)
         REFERENCES driver (id)
 );
 
-CREATE TABLE trip_packages
+CREATE TABLE travel_packages
 (
     id         SERIAL PRIMARY KEY,
-    trip_id    INTEGER NOT NULL,
+    travel_id  INTEGER NOT NULL,
     package_id INTEGER NOT NULL,
     step_id    INTEGER NOT NULL,
 
-    CONSTRAINT fk_trip_packages_trip FOREIGN KEY (trip_id)
-        REFERENCES trip (id),
-    CONSTRAINT fk_trip_packages_package FOREIGN KEY (package_id)
+    CONSTRAINT fk_travel_packages_travel FOREIGN KEY (travel_id)
+        REFERENCES travel (id),
+    CONSTRAINT fk_travel_packages_package FOREIGN KEY (package_id)
         REFERENCES package (id),
-    CONSTRAINT fk_trip_packages_step FOREIGN KEY (step_id)
-        REFERENCES travel_plan_step (id)
-);
-
--- ---------------------------------------------- WIP: EDUARDO
-
--- CREATE TABLE exam
--- (
---     id        SERIAL PRIMARY KEY,
---     driver_id INTEGER NOT NULL,
---
---     CONSTRAINT fk_exam_driver FOREIGN KEY (driver_id)
---         REFERENCES driver (id)
--- );
---
-CREATE TABLE document
-(
-    id          SERIAL PRIMARY KEY,
-    file        BYTEA   NOT NULL,
-    user_id     INTEGER NOT NULL,
-    description VARCHAR(255),
-
-    CONSTRAINT fk_document_user FOREIGN KEY (user_id)
-        REFERENCES "user" (id)
+    CONSTRAINT fk_travel_packages_step FOREIGN KEY (step_id)
+        REFERENCES travel_plan (id)
 );
 
 CREATE TABLE third_company
 (
     id          SERIAL PRIMARY KEY,
     name        VARCHAR(255) NOT NULL,
-    register    VARCHAR(64)  NOT NULL,
+    register    VARCHAR(64)  NOT NULL UNIQUE,
     description VARCHAR(255)
 );
 
