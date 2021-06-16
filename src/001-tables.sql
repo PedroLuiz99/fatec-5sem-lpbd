@@ -1,9 +1,7 @@
 CREATE EXTENSION IF NOT EXISTS postgis;
-
 DROP TABLE IF EXISTS travel_packages;
 DROP TABLE IF EXISTS travel;
 DROP TABLE IF EXISTS truck;
-DROP TABLE IF EXISTS travel_plan;
 DROP TABLE IF EXISTS travel_plan;
 DROP TABLE IF EXISTS invoice_item;
 DROP TABLE IF EXISTS invoice;
@@ -14,13 +12,13 @@ DROP TABLE IF EXISTS salary;
 DROP TABLE IF EXISTS payroll_item;
 DROP TABLE IF EXISTS payroll;
 DROP TABLE IF EXISTS driver;
+DROP TABLE IF EXISTS agency;
 DROP TABLE IF EXISTS employee;
 DROP TABLE IF EXISTS third_company_contact;
 DROP TABLE IF EXISTS partner_stop_point;
 DROP TABLE IF EXISTS partnership;
 DROP TABLE IF EXISTS contract;
 DROP TABLE IF EXISTS third_company;
-DROP TABLE IF EXISTS agency;
 DROP TABLE IF EXISTS contact_phone;
 DROP TABLE IF EXISTS user_address;
 DROP TABLE IF EXISTS document;
@@ -54,6 +52,7 @@ CREATE TABLE location
     city              INTEGER    NOT NULL,
     state             VARCHAR(2) NOT NULL,
     geolocation       GEOMETRY   NOT NULL,
+    notes             VARCHAR(128),
 
     CONSTRAINT fk_location_city FOREIGN KEY (city)
         REFERENCES city (id)
@@ -126,10 +125,22 @@ CREATE TABLE contact_phone
         REFERENCES "user" (id)
 );
 
+CREATE TABLE employee
+(
+    id             SERIAL PRIMARY KEY,
+    user_id        INTEGER NOT NULL UNIQUE,
+    hire_date      DATE    NOT NULL,
+    demission_date DATE,
+
+    CONSTRAINT fk_employee_user FOREIGN KEY (user_id)
+        REFERENCES "user" (id)
+);
+
 CREATE TABLE agency
 (
     id          SERIAL PRIMARY KEY,
     location_id INTEGER NOT NULL,
+    description VARCHAR(256) NOT NULL,
     manager_id    INTEGER NOT NULL,
 
     CONSTRAINT fk_agency_location FOREIGN KEY (location_id)
@@ -137,17 +148,6 @@ CREATE TABLE agency
 
     CONSTRAINT fk_owner_employee FOREIGN KEY (manager_id)
         REFERENCES employee (id)
-);
-
-CREATE TABLE employee
-(
-    id             SERIAL PRIMARY KEY,
-    user_id        INTEGER NOT NULL UNIQUE,
-    hire_date      DATE    NOT NULL,
-    demission_date DATE    NOT NULL,
-
-    CONSTRAINT fk_employee_user FOREIGN KEY (user_id)
-        REFERENCES "user" (id)
 );
 
 CREATE TABLE department
