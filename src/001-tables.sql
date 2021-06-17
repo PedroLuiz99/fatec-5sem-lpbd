@@ -139,9 +139,9 @@ CREATE TABLE employee
 CREATE TABLE agency
 (
     id          SERIAL PRIMARY KEY,
-    location_id INTEGER NOT NULL,
+    location_id INTEGER      NOT NULL,
     description VARCHAR(256) NOT NULL,
-    manager_id    INTEGER NOT NULL,
+    manager_id  INTEGER      NOT NULL,
 
     CONSTRAINT fk_agency_location FOREIGN KEY (location_id)
         REFERENCES location (id),
@@ -178,7 +178,7 @@ CREATE TABLE employee_department
 
 CREATE TABLE salary
 (
-    id          INTEGER NOT NULL,
+    id          SERIAL  NOT NULL,
     employee_id INTEGER NOT NULL,
     salary      DECIMAL NOT NULL,
     from_date   DATE    NOT NULL,
@@ -296,16 +296,16 @@ CREATE TYPE travel_step_status AS ENUM (
 
 CREATE TABLE travel_plan
 (
-    id             SERIAL PRIMARY KEY,
-    package_id     INTEGER            NOT NULL,
-    step_number    INTEGER            NOT NULL,
-    step_started   TIMESTAMP,
-    step_finished  TIMESTAMP,
-    source         INTEGER            NOT NULL,
-    destination    INTEGER            NOT NULL,
-    notes          TEXT,
-    description    VARCHAR(255)       NOT NULL,
-    status         travel_step_status NOT NULL,
+    id            SERIAL PRIMARY KEY,
+    package_id    INTEGER            NOT NULL,
+    step_number   INTEGER            NOT NULL,
+    step_started  TIMESTAMP,
+    step_finished TIMESTAMP,
+    source        INTEGER            NOT NULL,
+    destination   INTEGER            NOT NULL,
+    notes         TEXT,
+    description   VARCHAR(255)       NOT NULL,
+    status        travel_step_status NOT NULL,
 
     CONSTRAINT fk_travel_plan_package FOREIGN KEY (package_id)
         REFERENCES package (id)
@@ -321,8 +321,8 @@ CREATE TABLE truck
 (
     id            SERIAL PRIMARY KEY,
     license_plate VARCHAR(8) NOT NULL UNIQUE,
-    box_volume    DECIMAL NOT NULL,
-    max_weight    INTEGER NOT NULL,
+    box_volume    DECIMAL    NOT NULL,
+    max_weight    INTEGER    NOT NULL,
     description   VARCHAR(255),
     status        truck_status
 );
