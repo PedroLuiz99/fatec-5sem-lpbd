@@ -21,7 +21,6 @@ DROP TABLE IF EXISTS contract;
 DROP TABLE IF EXISTS third_company;
 DROP TABLE IF EXISTS contact_phone;
 DROP TABLE IF EXISTS user_address;
-DROP TABLE IF EXISTS document;
 DROP TABLE IF EXISTS "user";
 DROP TABLE IF EXISTS role;
 DROP TABLE IF EXISTS location;
@@ -75,17 +74,6 @@ CREATE TABLE "user"
 
     CONSTRAINT fk_user_role FOREIGN KEY (role_id)
         REFERENCES role (id)
-);
-
-CREATE TABLE document
-(
-    id          SERIAL PRIMARY KEY,
-    file        BYTEA   NOT NULL,
-    user_id     INTEGER NOT NULL,
-    description VARCHAR(255),
-
-    CONSTRAINT fk_document_user FOREIGN KEY (user_id)
-        REFERENCES "user" (id)
 );
 
 CREATE TYPE address_type AS ENUM (
