@@ -14,11 +14,6 @@ DROP TABLE IF EXISTS payroll;
 DROP TABLE IF EXISTS driver;
 DROP TABLE IF EXISTS agency;
 DROP TABLE IF EXISTS employee;
-DROP TABLE IF EXISTS third_company_contact;
-DROP TABLE IF EXISTS partner_stop_point;
-DROP TABLE IF EXISTS partnership;
-DROP TABLE IF EXISTS contract;
-DROP TABLE IF EXISTS third_company;
 DROP TABLE IF EXISTS contact_phone;
 DROP TABLE IF EXISTS user_address;
 DROP TABLE IF EXISTS "user";
@@ -365,66 +360,4 @@ CREATE TABLE travel_packages
         REFERENCES package (id),
     CONSTRAINT fk_travel_packages_step FOREIGN KEY (step_id)
         REFERENCES travel_plan (id)
-);
-
-CREATE TABLE third_company
-(
-    id          SERIAL PRIMARY KEY,
-    name        VARCHAR(255) NOT NULL,
-    register    VARCHAR(64)  NOT NULL UNIQUE,
-    description VARCHAR(255)
-);
-
-CREATE TABLE third_company_contact
-(
-    id         SERIAL PRIMARY KEY,
-    contact_id INTEGER NOT NULL,
-    company_id INTEGER NOT NULL,
-    notes      VARCHAR(255),
-
-    CONSTRAINT fk_third_company_contact_user FOREIGN KEY (contact_id)
-        REFERENCES "user" (id),
-
-    CONSTRAINT fk_third_company_contact_third_company FOREIGN KEY (company_id)
-        REFERENCES third_company (id)
-);
-
-CREATE TABLE contract
-(
-    id          SERIAL PRIMARY KEY,
-    name        VARCHAR(255) NOT NULL,
-    file        BYTEA        NOT NULL,
-    description VARCHAR(255),
-    start_date  DATE         NOT NULL,
-    end_date    DATE         NOT NULL,
-    active      BOOLEAN      NOT NULL
-);
-
-CREATE TABLE partnership
-(
-    id          SERIAL PRIMARY KEY,
-    name        VARCHAR(255) NOT NULL,
-    company_id  INTEGER      NOT NULL,
-    contract_id INTEGER      NOT NULL,
-    description TEXT         NOT NULL,
-
-    CONSTRAINT fk_partnership_third_company FOREIGN KEY (company_id)
-        REFERENCES third_company (id),
-
-    CONSTRAINT fk_partnership_contract FOREIGN KEY (contract_id)
-        REFERENCES contract (id)
-);
-
-CREATE TABLE partner_stop_point
-(
-    id          SERIAL PRIMARY KEY,
-    description VARCHAR(255),
-    partner_id  INTEGER NOT NULL,
-    location_id INTEGER NOT NULL,
-
-    CONSTRAINT fk_partner_stop_point FOREIGN KEY (partner_id)
-        REFERENCES partnership (id),
-
-    CONSTRAINT fk_partner_stop_point_location FOREIGN KEY (location_id)
-        REFERENCES location (id)
 );

@@ -74,3 +74,57 @@ INSERT INTO travel_plan (id,package_id,step_number,step_started,step_finished,de
 (DEFAULT,8,1,'2021-06-19 14:33:00',NULL,'Objeto Postado',51,52,'completed',NULL),
 (DEFAULT,8,2,NULL,NULL,'Transferência entre centros de distribuição',52,53,'waiting',NULL),
 (DEFAULT,8,3,NULL,NULL,'Entrega ao destinatário',53,54,'waiting',NULL);
+
+INSERT INTO invoice VALUES
+(DEFAULT,1,'2021-06-18',73.65,'paid'),
+(DEFAULT,10,'2021-06-15',22.13,'paid'),
+(DEFAULT,13,'2021-06-17',18.74,'paid'),
+(DEFAULT,15,'2021-06-19',49.2,'paid'),
+(DEFAULT,16,'2021-06-19',61.82,'paid'),
+(DEFAULT,26,'2021-06-19',76.54,'paid'),
+(DEFAULT,29,'2021-06-19',69.48,'paid'),
+(DEFAULT,32,'2021-06-19',31.96,'paid');
+
+
+INSERT INTO invoice_item VALUES
+(DEFAULT,1,1,'package',73.65,NULL),
+(DEFAULT,2,2,'package',22.13,NULL),
+(DEFAULT,3,3,'package',18.74,NULL),
+(DEFAULT,4,4,'package',49.2,NULL),
+(DEFAULT,5,5,'package',61.82,NULL),
+(DEFAULT,6,6,'package',76.54,NULL),
+(DEFAULT,7,7,'package',69.48,NULL),
+(DEFAULT,8,8,'package',31.96,NULL);
+
+
+INSERT INTO truck VALUES
+(DEFAULT,'EPZ-0737',70,41500,'','on_hold'),
+(DEFAULT,'ABR-9153',70,41500,'','dispatched'),
+(DEFAULT,'CKK-9261',70,41500,'','on_hold'),
+(DEFAULT,'WVV-4753',70,41500,'','on_hold'),
+(DEFAULT,'JAE-0844',70,41500,'','on_hold'),
+(DEFAULT,'PMA-8088',70,41500,'','on_hold'),
+(DEFAULT,'JNJ-6892',70,41500,'','on_hold'),
+(DEFAULT,'NCD-0622',70,41500,'','on_hold'),
+(DEFAULT,'OQM-1687',70,41500,'','on_hold'),
+(DEFAULT,'IZK-0592',70,41500,'','on_hold'),
+(DEFAULT,'PPP-2456',70,41500,'','on_hold'),
+(DEFAULT,'JNI-4373',70,41500,'','on_hold'),
+(DEFAULT,'SWX-3426',70,41500,'','on_hold'),
+(DEFAULT,'CCP-9327',70,41500,'','on_hold'),
+(DEFAULT,'ZFT-4779',70,41500,'','on_hold'),
+(DEFAULT,'YXL-3054',70,41500,'','on_hold'),
+(DEFAULT,'XIJ-1198',70,41500,'','on_hold'),
+(DEFAULT,'AEU-8858',70,41500,'','on_hold');
+
+INSERT INTO travel VALUES
+(DEFAULT,1,1,21,22,'2021-06-20 00:00:00','2021-06-20 12:00:00.000000'),
+(DEFAULT,2,2,22,23,'2021-06-20 12:00:00',NULL),
+(DEFAULT,3,3,32,33,'2021-06-18 09:00:00','2021-06-18 10:00:00.000000'),
+(DEFAULT,4,4,33,34,'2021-06-18 14:00:00','2021-06-18 16:00:00.000000');
+
+INSERT INTO travel_packages VALUES
+(DEFAULT,1,1,3),
+(DEFAULT,2,1,4),
+(DEFAULT,3,4,8),
+(DEFAULT,4,4,9);
