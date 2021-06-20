@@ -1,0 +1,101 @@
+Location | name: NA / type: package / id: 1
+         LineString point 0: POINT (-46.446762 -23.529366)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Dr. Rodrigo Pereira Barreto, 33', '', 'Itaquera', '08210540', 1, 'SP', 'POINT (-46.446762 -23.529366)', 'Package 1 - 0 step');
+         LineString point 1: POINT (-46.480408 -23.450018)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Av. Monteiro Lobato, 5665', '', 'Aeroporto', '07184030', 5, 'SP', 'POINT (-46.480408 -23.450018)', 'Package 1 - 1 step');
+         LineString point 2: POINT (-43.167343 -22.910333)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Praça Sen. Salgado Filho, 982', '', 'Centro', '20021340', 2, 'RJ', 'POINT (-43.167343 -22.910333)', 'Package 1 - 2 step');
+         LineString point 3: POINT (-43.244934 -22.900846)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Licínio Cardoso, 436', '', 'São Francisco Xavier', '20960015', 2, 'RJ', 'POINT (-43.244934 -22.900846)', 'Package 1 - 3 step');
+         LineString point 4: POINT (-43.337631 -22.864155)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Tatuí, 177', '', 'Madureira', '21360100', 2, 'RJ', 'POINT (-43.337631 -22.864155)', 'Package 1 - 4 step');
+         LineString point 5: POINT (-43.342953 -22.83837)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Praça Zuinara, 11', '', 'Colégio', '21545330', 2, 'RJ', 'POINT (-43.342953 -22.83837)', 'Package 1 - 5 step');
+
+
+
+Location | name: NA / type: package / id: 2
+         LineString point 0: POINT (-43.475647 -22.876808)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Cavani, 125a', '', 'Bangu', '21830010', 2, 'RJ', 'POINT (-43.475647 -22.876808)', 'Package 2 - 0 step');
+         LineString point 1: POINT (-43.334885 -22.864155)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Manoel José Daniel, 132', '', 'Madureira', '21360120', 2, 'RJ', 'POINT (-43.334885 -22.864155)', 'Package 2 - 1 step');
+         LineString point 2: POINT (-43.317075 -22.887602)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Guarani, 67', '', 'Quintino Bocaiuva', '21380230', 2, 'RJ', 'POINT (-43.317075 -22.887602)', 'Package 2 - 2 step');
+
+
+
+Location | name: NA / type: package / id: 3
+         LineString point 0: POINT (-43.571777 -22.730274)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Rod. Pres. Dutra, 365', '', 'Vila Pindorama', '26311', 4, 'RJ', 'POINT (-43.571777 -22.730274)', 'Package 3 - 0 step');
+         LineString point 1: POINT (-43.475647 -22.878073)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Cavani, 5', '', 'Bangu', '21830010', 2, 'RJ', 'POINT (-43.475647 -22.878073)', 'Package 3 - 1 step');
+         LineString point 2: POINT (-43.519163 -22.874277)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Ivan Pessoa, 898', '', 'Santíssimo', '23094140', 2, 'RJ', 'POINT (-43.519163 -22.874277)', 'Package 3 - 2 step');
+
+
+
+Location | name: NA / type: package / id: 4
+         LineString point 0: POINT (-46.674986 -23.487258)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Rua Thomaz Antônio Villani, 200', '', 'Vila Santa Maria', '02562000', 1, 'SP', 'POINT (-46.674986 -23.487258)', 'Package 4 - 0 step');
+         LineString point 1: POINT (-46.661768 -23.492611)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Zilda, 818', '', 'Casa Verde', '02545000', 1, 'SP', 'POINT (-46.661768 -23.492611)', 'Package 4 - 1 step');
+         LineString point 2: POINT (-46.603661 -23.540383)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Rua Belo Horizonte, 279', '', 'Parque Novo Mundo', '03052040', 1, 'SP', 'POINT (-46.603661 -23.540383)', 'Package 4 - 2 step');
+         LineString point 3: POINT (-46.528988 -23.570753)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Av. Monsenhor Antônio Castro, 84', '', 'Jardim Vila Formosa', '03461000', 1, 'SP', 'POINT (-46.528988 -23.570753)', 'Package 4 - 3 step');
+         LineString point 4: POINT (-46.490557 -23.646392)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Patagônia, 71', '', 'Parque Capuava', '09270080', Santo André, 'SP', 'POINT (-46.490557 -23.646392)', 'Package 4 - 4 step');
+
+
+
+Location | name: NA / type: package / id: 5
+         LineString point 0: POINT (-46.839212 -23.335242)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Ver. Joaquim Soares de Araújo, 237', '', 'Jardim Nova Jordanésia', '07750000', 3, 'SP', 'POINT (-46.839212 -23.335242)', 'Package 5 - 0 step');
+         LineString point 1: POINT (-46.838365 -23.344758)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Interna de Empresa, 192, Cajamar', '', 'SP', '07750000', 3, 'SP', 'POINT (-46.838365 -23.344758)', 'Package 5 - 1 step');
+         LineString point 2: POINT (-46.661682 -23.492847)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Prof. Saúl Lintz, 3c', '', 'Casa Verde', '02545070', 1, 'SP', 'POINT (-46.661682 -23.492847)', 'Package 5 - 2 step');
+         LineString point 3: POINT (-46.581345 -23.469545)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Tv. Orfeu, 4', '', 'Jardim Consorcio', '02259050', 1, 'SP', 'POINT (-46.581345 -23.469545)', 'Package 5 - 3 step');
+
+
+
+Location | name: NA / type: package / id: 6
+         LineString point 0: POINT (-46.535211 -23.736012)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Av. Gen. Barreto de Menezes, 413', '', 'Ferrazópolis', '09791150', São Bernardo do Campo, 'SP', 'POINT (-46.535211 -23.736012)', 'Package 6 - 0 step');
+         LineString point 1: POINT (-46.57156 -23.653487)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Av. São João Batista, 81', '', 'Vila Helena', '09635000', São Bernardo do Campo, 'SP', 'POINT (-46.57156 -23.653487)', 'Package 6 - 1 step');
+         LineString point 2: POINT (-46.482468 -23.448129)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Alameda Dois', '', 'Aeroporto', '07184090', 07184, 'SP', 'POINT (-46.482468 -23.448129)', 'Package 6 - 2 step');
+         LineString point 3: POINT (-43.166313 -22.912547)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Aeroporto Santos Dumont, 262', '', 'Centro', '20021340', 2, 'RJ', 'POINT (-43.166313 -22.912547)', 'Package 6 - 3 step');
+         LineString point 4: POINT (-43.188629 -22.952071)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Rua Dona Mariana, 73', '', 'Botafogo', '22280020', 2, 'RJ', 'POINT (-43.188629 -22.952071)', 'Package 6 - 4 step');
+         LineString point 5: POINT (-43.182278 -22.953612)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Rua São Manuel, 21', '', 'Botafogo', '22290010', 2, 'RJ', 'POINT (-43.182278 -22.953612)', 'Package 6 - 5 step');
+
+
+
+Location | name: NA / type: package / id: 7
+         LineString point 0: POINT (-43.210945 -22.982417)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Redentor, 241', '', 'Ipanema', '22421030', 2, 'RJ', 'POINT (-43.210945 -22.982417)', 'Package 7 - 0 step');
+         LineString point 1: POINT (-43.166742 -22.911915)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Praça Sen. Salgado Filho, s/n', '', 'Centro', '20021340', 2, 'RJ', 'POINT (-43.166742 -22.911915)', 'Package 7 - 1 step');
+         LineString point 2: POINT (-46.481438 -23.449703)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Alameda Dragao 22. Base Aerea de São Paulo Cumbica Guarulhos SP', '', 'Aeroporto', '07180', 07180, 'SP', 'POINT (-46.481438 -23.449703)', 'Package 7 - 2 step');
+         LineString point 3: POINT (-46.604347 -23.540383)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Rua Belo Horizonte, 233', '', 'Brás', '03052040', 1, 'SP', 'POINT (-46.604347 -23.540383)', 'Package 7 - 3 step');
+         LineString point 4: POINT (-46.615076 -23.548606)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Alegria, 295', '', 'Brás', '03043010', 1, 'SP', 'POINT (-46.615076 -23.548606)', 'Package 7 - 4 step');
+
+
+
+Location | name: NA / type: package / id: 8
+         LineString point 0: POINT (-46.522593 -23.429977)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. João Batista, 68', '', 'Morros', '07131410', 5, 'SP', 'POINT (-46.522593 -23.429977)', 'Package 8 - 0 step');
+         LineString point 1: POINT (-46.520877 -23.449388)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Av.Brigadeiro Faria Lima, 661', '', 'Jardim Toscana', '07130000', 5, 'SP', 'POINT (-46.520877 -23.449388)', 'Package 8 - 1 step');
+         LineString point 2: POINT (-46.446419 -23.530625)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'Via de Pedestre Tapia', '', 'Guaçu', '08210790', 1, 'SP', 'POINT (-46.446419 -23.530625)', 'Package 8 - 2 step');
+         LineString point 3: POINT (-46.337242 -23.504811)
+Possibly insert: INSERT INTO location VALUES(DEFAULT, 'R. Araçoiaba, 780', '', 'Jardim do Algarve', '08571840', Itaquaquecetuba, 'SP', 'POINT (-46.337242 -23.504811)', 'Package 8 - 3 step');

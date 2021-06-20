@@ -1,4796 +1,4603 @@
-INSERT INTO salary VALUES (DEFAULT, 2, 5000, '2019-09-21', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 3, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 4, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 5, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 6, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 7, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 8, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 9, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 10, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 11, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 12, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 13, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 14, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 15, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 16, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 17, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 18, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 19, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 20, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 2, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 21, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 3, 5000, '2020-11-09', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 3, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 22, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 3, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 23, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 3, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 24, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 3, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 25, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 3, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 26, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 3, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 27, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 3, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 28, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 8, 5000, '2020-11-13', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 8, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 29, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 8, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 30, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 8, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 31, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 8, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 32, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 8, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 33, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 8, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 34, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 8, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 35, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 12, 5000, '2020-03-03', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 36, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 37, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 38, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 39, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 40, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 41, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 42, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 43, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 44, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 45, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 46, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 47, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 48, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 49, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 12, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 50, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 13, 5000, '2020-07-09', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 13, 5000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 51, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 13, 5000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 52, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 13, 5000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 53, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 13, 5000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 54, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 13, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 55, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 13, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 56, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 13, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 57, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 13, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 58, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 13, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 59, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 13, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 60, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 13, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 61, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 14, 5000, '2020-06-29', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 62, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 63, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 64, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 65, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 66, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 67, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 68, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 69, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 70, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 71, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 72, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 14, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 73, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 17, 5000, '2019-08-05', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2019-09-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 74, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 75, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 76, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 77, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 78, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 79, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 80, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 81, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 82, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 83, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 84, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 85, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 86, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 87, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 88, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 89, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 90, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 91, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 92, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 93, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 94, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 17, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 95, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 19, 5000, '2021-04-18', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 19, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 96, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 19, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 97, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 20, 5000, '2019-10-15', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 98, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 99, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 100, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 101, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 102, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 103, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 104, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 105, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 106, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 107, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 108, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 109, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 110, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 111, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 112, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 113, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 114, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 115, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 116, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 20, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 117, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 21, 5000, '2020-12-09', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 21, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 118, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 21, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 119, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 21, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 120, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 21, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 121, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 21, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 122, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 21, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 123, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 22, 5000, '2020-03-29', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 124, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 125, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 126, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 127, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 128, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 129, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 130, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 131, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 132, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 133, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 134, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 135, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 136, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 137, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 22, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 138, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 23, 5000, '2020-11-28', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 23, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 139, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 23, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 140, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 23, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 141, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 23, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 142, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 23, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 143, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 23, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 144, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 23, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 145, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 26, 5000, '2020-10-17', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 26, 5000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 146, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 26, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 147, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 26, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 148, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 26, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 149, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 26, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 150, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 26, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 151, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 26, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 152, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 26, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 153, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 29, 5000, '2021-05-28', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 29, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 154, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 31, 5000, '2020-08-24', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 31, 5000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 155, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 31, 5000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 156, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 31, 5000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 157, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 31, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 158, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 31, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 159, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 31, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 160, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 31, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 161, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 31, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 162, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 31, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 163, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 31, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 164, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 32, 5000, '2020-03-19', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 165, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 166, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 167, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 168, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 169, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 170, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 171, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 172, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 173, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 174, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 175, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 176, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 177, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 178, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 32, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 179, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 37, 5000, '2020-11-17', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 37, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 180, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 37, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 181, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 37, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 182, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 37, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 183, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 37, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 184, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 37, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 185, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 37, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 186, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 39, 5000, '2020-10-27', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 39, 5000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 187, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 39, 5000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 188, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 39, 5000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 189, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 39, 5000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 190, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 39, 5000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 191, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 39, 5000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 192, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 39, 5000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 193, 'Salário', 'salary', 5000);
-INSERT INTO payroll VALUES(DEFAULT, 39, 5000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 194, 'Salário', 'salary', 5000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 1, 1800, '2020-04-04', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 195, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 196, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 197, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 198, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 199, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 200, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 201, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 202, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 203, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 204, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 205, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 206, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 207, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 1, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 208, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 4, 2000, '2021-05-31', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 4, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 209, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 5, 1700, '2020-04-15', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 210, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 211, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 212, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 213, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 214, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 215, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 216, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 217, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 218, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 219, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 220, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 221, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 222, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 5, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 223, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 6, 1700, '2021-05-17', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 6, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 224, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 7, 1700, '2021-05-26', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 7, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 225, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 9, 1800, '2021-03-12', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 9, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 226, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 9, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 227, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 9, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 228, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 10, 2000, '2019-09-19', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 229, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 230, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 231, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 232, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 233, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 234, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 235, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 236, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 237, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 238, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 239, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 240, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 241, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 242, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 243, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 244, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 245, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 246, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 247, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 248, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 10, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 249, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 11, 1700, '2019-10-22', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 250, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 251, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 252, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 253, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 254, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 255, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 256, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 257, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 258, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 259, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 260, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 261, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 262, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 263, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 264, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 265, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 266, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 267, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 268, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 11, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 269, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 15, 1700, '2021-05-03', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 15, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 270, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 16, 1700, '2019-11-03', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 271, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 272, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 273, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 274, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 275, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 276, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 277, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 278, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 279, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 280, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 281, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 282, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 283, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 284, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 285, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 286, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 287, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 288, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 16, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 289, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 18, 1800, '2021-05-29', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 18, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 290, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 24, 2000, '2020-09-06', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 24, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 291, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 24, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 292, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 24, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 293, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 24, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 294, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 24, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 295, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 24, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 296, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 24, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 297, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 24, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 298, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 24, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 299, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 25, 1700, '2020-12-06', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 25, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 300, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 25, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 301, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 25, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 302, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 25, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 303, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 25, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 304, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 25, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 305, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 27, 1700, '2020-06-25', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 306, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 307, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 308, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 309, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 310, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 311, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 312, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 313, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 314, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 315, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 316, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 27, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 317, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 28, 1700, '2020-04-09', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 318, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 319, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 320, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 321, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 322, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 323, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 324, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 325, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 326, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 327, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 328, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 329, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 330, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 28, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 331, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 30, 1800, '2020-03-02', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 332, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 333, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 334, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 335, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 336, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 337, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 338, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 339, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 340, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 341, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 342, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 343, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 344, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 345, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 30, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 346, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 33, 2000, '2020-05-08', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 347, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 348, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 349, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 350, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 351, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 352, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 353, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 354, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 355, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 356, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 357, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 358, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 33, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 359, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 34, 1700, '2020-11-06', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 34, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 360, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 34, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 361, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 34, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 362, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 34, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 363, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 34, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 364, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 34, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 365, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 34, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 366, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 35, 1700, '2020-07-18', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 35, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 367, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 35, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 368, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 35, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 369, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 35, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 370, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 35, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 371, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 35, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 372, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 35, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 373, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 35, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 374, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 35, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 375, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 35, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 376, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 35, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 377, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 36, 1700, '2020-02-15', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 378, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 379, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 380, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 381, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 382, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 383, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 384, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 385, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 386, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 387, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 388, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 389, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 390, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 391, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 392, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 36, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 393, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 38, 1800, '2019-12-06', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 394, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 395, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 396, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 397, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 398, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 399, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 400, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 401, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 402, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 403, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 404, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 405, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 406, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 407, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 408, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 409, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 410, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 38, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 411, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 40, 2000, '2021-06-15', NULL);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 41, 1700, '2020-08-19', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 41, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 412, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 41, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 413, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 41, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 414, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 41, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 415, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 41, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 416, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 41, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 417, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 41, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 418, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 41, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 419, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 41, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 420, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 41, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 421, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 42, 1700, '2021-03-10', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 42, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 422, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 42, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 423, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 42, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 424, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 43, 1700, '2021-03-07', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 43, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 425, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 43, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 426, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 43, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 427, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 44, 1800, '2019-11-18', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 428, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 429, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 430, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 431, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 432, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 433, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 434, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 435, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 436, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 437, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 438, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 439, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 440, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 441, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 442, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 443, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 444, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 445, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 44, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 446, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 45, 2000, '2020-10-16', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 45, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 447, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 45, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 448, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 45, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 449, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 45, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 450, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 45, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 451, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 45, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 452, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 45, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 453, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 45, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 454, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 46, 1700, '2020-10-02', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 46, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 455, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 46, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 456, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 46, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 457, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 46, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 458, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 46, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 459, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 46, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 460, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 46, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 461, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 46, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 462, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 47, 1700, '2020-06-01', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 463, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 464, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 465, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 466, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 467, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 468, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 469, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 470, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 471, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 472, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 473, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 47, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 474, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 48, 1700, '2021-03-27', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 48, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 475, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 48, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 476, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 48, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 477, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 49, 1800, '2020-02-10', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 478, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 479, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 480, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 481, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 482, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 483, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 484, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 485, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 486, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 487, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 488, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 489, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 490, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 491, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 492, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 49, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 493, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 50, 2000, '2021-01-13', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 50, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 494, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 50, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 495, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 50, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 496, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 50, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 497, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 50, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 498, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 51, 1700, '2021-01-05', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 51, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 499, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 51, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 500, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 51, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 501, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 51, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 502, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 51, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 503, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 52, 1700, '2021-01-26', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 52, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 504, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 52, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 505, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 52, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 506, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 52, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 507, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 52, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 508, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 53, 1700, '2020-05-11', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 509, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 510, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 511, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 512, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 513, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 514, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 515, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 516, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 517, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 518, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 519, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 520, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 53, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 521, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 54, 1800, '2020-09-19', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 54, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 522, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 54, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 523, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 54, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 524, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 54, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 525, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 54, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 526, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 54, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 527, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 54, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 528, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 54, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 529, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 54, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 530, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 55, 2000, '2020-11-29', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 55, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 531, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 55, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 532, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 55, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 533, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 55, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 534, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 55, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 535, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 55, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 536, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 55, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 537, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 56, 1700, '2020-01-06', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 538, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 539, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 540, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 541, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 542, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 543, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 544, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 545, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 546, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 547, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 548, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 549, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 550, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 551, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 552, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 553, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 56, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 554, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 57, 1700, '2021-01-19', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 57, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 555, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 57, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 556, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 57, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 557, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 57, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 558, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 57, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 559, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 58, 1700, '2019-09-28', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 560, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 561, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 562, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 563, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 564, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 565, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 566, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 567, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 568, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 569, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 570, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 571, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 572, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 573, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 574, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 575, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 576, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 577, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 578, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 579, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 58, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 580, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 59, 1800, '2020-04-13', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 581, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 582, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 583, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 584, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 585, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 586, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 587, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 588, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 589, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 590, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 591, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 592, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 593, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 59, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 594, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 60, 2000, '2021-01-20', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 60, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 595, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 60, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 596, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 60, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 597, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 60, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 598, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 60, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 599, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 61, 1700, '2020-04-11', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 600, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 601, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 602, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 603, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 604, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 605, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 606, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 607, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 608, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 609, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 610, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 611, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 612, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 61, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 613, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 62, 1700, '2021-04-22', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 62, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 614, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 62, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 615, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 63, 1700, '2020-03-08', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 616, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 617, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 618, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 619, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 620, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 621, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 622, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 623, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 624, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 625, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 626, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 627, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 628, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 629, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 63, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 630, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 64, 1800, '2019-11-18', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 631, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 632, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 633, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 634, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 635, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 636, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 637, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 638, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 639, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 640, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 641, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 642, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 643, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 644, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 645, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 646, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 647, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 648, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 64, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 649, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 65, 2000, '2020-04-10', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 650, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 651, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 652, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 653, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 654, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 655, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 656, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 657, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 658, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 659, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 660, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 661, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 662, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 65, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 663, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 66, 1700, '2021-02-25', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 66, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 664, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 66, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 665, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 66, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 666, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 66, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 667, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 67, 1700, '2020-12-21', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 67, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 668, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 67, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 669, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 67, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 670, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 67, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 671, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 67, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 672, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 67, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 673, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 68, 1700, '2020-03-15', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 674, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 675, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 676, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 677, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 678, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 679, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 680, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 681, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 682, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 683, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 684, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 685, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 686, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 687, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 68, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 688, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 69, 1800, '2020-09-01', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 69, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 689, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 69, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 690, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 69, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 691, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 69, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 692, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 69, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 693, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 69, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 694, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 69, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 695, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 69, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 696, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 69, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 697, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 70, 2000, '2019-10-05', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 698, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 699, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 700, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 701, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 702, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 703, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 704, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 705, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 706, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 707, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 708, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 709, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 710, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 711, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 712, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 713, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 714, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 715, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 716, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 70, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 717, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 71, 1700, '2021-05-01', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 71, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 718, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 72, 1700, '2019-10-06', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 719, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 720, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 721, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 722, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 723, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 724, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 725, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 726, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 727, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 728, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 729, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 730, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 731, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 732, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 733, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 734, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 735, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 736, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 737, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 72, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 738, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 73, 1700, '2020-10-26', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 73, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 739, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 73, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 740, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 73, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 741, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 73, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 742, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 73, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 743, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 73, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 744, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 73, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 745, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 73, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 746, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 74, 1800, '2020-01-21', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 747, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 748, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 749, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 750, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 751, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 752, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 753, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 754, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 755, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 756, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 757, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 758, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 759, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 760, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 761, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 762, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 74, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 763, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 75, 2000, '2019-09-30', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 764, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 765, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 766, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 767, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 768, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 769, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 770, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 771, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 772, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 773, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 774, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 775, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 776, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 777, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 778, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 779, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 780, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 781, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 782, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 783, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 75, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 784, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 76, 1700, '2020-08-31', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 76, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 785, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 76, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 786, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 76, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 787, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 76, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 788, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 76, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 789, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 76, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 790, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 76, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 791, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 76, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 792, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 76, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 793, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 76, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 794, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 77, 1700, '2019-10-04', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 795, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 796, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 797, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 798, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 799, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 800, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 801, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 802, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 803, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 804, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 805, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 806, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 807, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 808, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 809, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 810, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 811, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 812, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 813, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 77, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 814, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 78, 1700, '2020-07-16', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 78, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 815, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 78, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 816, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 78, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 817, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 78, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 818, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 78, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 819, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 78, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 820, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 78, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 821, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 78, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 822, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 78, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 823, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 78, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 824, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 78, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 825, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 79, 1800, '2019-09-30', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 826, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 827, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 828, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 829, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 830, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 831, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 832, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 833, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 834, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 835, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 836, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 837, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 838, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 839, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 840, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 841, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 842, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 843, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 844, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 845, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 79, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 846, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 80, 2000, '2019-12-03', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 847, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 848, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 849, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 850, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 851, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 852, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 853, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 854, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 855, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 856, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 857, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 858, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 859, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 860, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 861, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 862, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 863, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 80, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 864, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 81, 1700, '2020-12-11', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 81, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 865, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 81, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 866, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 81, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 867, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 81, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 868, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 81, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 869, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 81, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 870, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 82, 1700, '2020-01-31', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 871, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 872, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 873, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 874, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 875, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 876, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 877, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 878, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 879, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 880, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 881, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 882, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 883, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 884, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 885, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 886, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 82, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 887, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 83, 1700, '2021-06-06', NULL);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 84, 1800, '2020-06-17', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 888, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 889, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 890, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 891, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 892, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 893, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 894, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 895, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 896, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 897, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 898, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 84, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 899, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 85, 2000, '2020-07-08', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 85, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 900, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 85, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 901, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 85, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 902, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 85, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 903, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 85, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 904, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 85, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 905, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 85, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 906, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 85, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 907, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 85, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 908, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 85, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 909, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 85, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 910, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 86, 1700, '2021-01-29', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 86, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 911, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 86, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 912, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 86, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 913, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 86, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 914, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 86, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 915, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 87, 1700, '2021-01-24', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 87, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 916, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 87, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 917, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 87, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 918, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 87, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 919, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 87, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 920, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 88, 1700, '2020-05-13', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 921, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 922, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 923, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 924, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 925, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 926, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 927, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 928, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 929, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 930, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 931, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 932, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 88, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 933, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 89, 1800, '2020-08-12', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 89, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 934, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 89, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 935, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 89, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 936, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 89, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 937, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 89, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 938, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 89, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 939, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 89, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 940, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 89, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 941, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 89, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 942, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 89, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 943, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 90, 2000, '2019-12-02', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 944, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 945, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 946, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 947, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 948, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 949, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 950, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 951, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 952, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 953, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 954, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 955, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 956, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 957, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 958, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 959, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 960, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 90, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 961, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 91, 1700, '2019-08-31', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2019-09-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 962, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 963, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 964, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 965, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 966, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 967, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 968, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 969, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 970, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 971, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 972, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 973, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 974, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 975, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 976, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 977, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 978, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 979, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 980, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 981, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 982, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 91, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 983, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 92, 1700, '2019-12-28', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 984, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 985, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 986, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 987, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 988, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 989, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 990, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 991, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 992, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 993, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 994, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 995, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 996, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 997, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 998, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 999, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1000, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 92, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1001, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 93, 1700, '2020-06-16', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1002, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1003, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1004, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1005, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1006, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1007, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1008, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1009, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1010, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1011, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1012, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 93, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1013, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 94, 1800, '2021-04-29', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 94, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1014, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 94, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1015, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 95, 2000, '2021-01-23', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 95, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1016, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 95, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1017, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 95, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1018, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 95, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1019, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 95, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1020, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 96, 1700, '2019-09-29', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1021, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1022, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1023, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1024, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1025, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1026, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1027, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1028, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1029, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1030, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1031, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1032, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1033, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1034, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1035, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1036, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1037, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1038, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1039, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1040, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 96, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1041, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 97, 1700, '2020-07-30', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 97, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1042, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 97, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1043, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 97, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1044, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 97, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1045, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 97, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1046, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 97, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1047, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 97, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1048, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 97, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1049, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 97, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1050, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 97, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1051, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 97, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1052, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 98, 1700, '2020-12-21', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 98, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1053, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 98, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1054, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 98, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1055, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 98, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1056, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 98, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1057, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 98, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1058, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 99, 1800, '2020-12-05', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 99, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1059, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 99, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1060, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 99, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1061, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 99, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1062, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 99, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1063, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 99, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1064, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 100, 2000, '2020-07-19', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 100, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1065, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 100, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1066, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 100, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1067, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 100, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1068, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 100, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1069, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 100, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1070, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 100, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1071, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 100, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1072, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 100, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1073, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 100, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1074, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 100, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1075, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 101, 1700, '2021-04-22', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 101, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1076, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 101, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1077, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 102, 1700, '2020-03-08', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1078, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1079, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1080, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1081, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1082, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1083, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1084, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1085, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1086, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1087, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1088, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1089, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1090, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1091, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 102, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1092, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 103, 1700, '2019-11-18', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1093, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1094, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1095, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1096, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1097, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1098, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1099, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1100, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1101, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1102, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1103, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1104, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1105, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1106, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1107, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1108, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1109, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1110, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 103, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1111, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 104, 1800, '2020-04-10', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1112, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1113, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1114, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1115, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1116, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1117, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1118, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1119, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1120, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1121, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1122, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1123, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1124, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 104, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1125, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 105, 2000, '2021-02-25', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 105, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1126, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 105, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1127, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 105, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1128, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 105, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1129, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 106, 1700, '2020-12-21', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 106, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1130, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 106, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1131, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 106, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1132, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 106, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1133, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 106, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1134, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 106, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1135, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 107, 1700, '2020-03-15', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1136, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1137, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1138, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1139, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1140, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1141, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1142, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1143, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1144, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1145, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1146, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1147, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1148, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1149, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 107, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1150, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 108, 1700, '2020-09-01', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 108, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1151, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 108, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1152, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 108, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1153, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 108, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1154, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 108, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1155, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 108, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1156, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 108, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1157, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 108, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1158, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 108, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1159, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 109, 1800, '2019-10-05', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1160, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1161, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1162, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1163, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1164, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1165, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1166, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1167, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1168, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1169, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1170, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1171, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1172, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1173, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1174, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1175, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1176, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1177, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1178, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 109, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1179, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 110, 2000, '2021-05-01', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 110, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1180, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 111, 1700, '2019-10-06', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1181, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1182, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1183, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1184, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1185, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1186, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1187, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1188, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1189, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1190, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1191, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1192, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1193, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1194, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1195, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1196, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1197, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1198, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1199, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 111, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1200, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 112, 1700, '2020-10-26', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 112, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1201, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 112, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1202, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 112, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1203, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 112, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1204, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 112, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1205, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 112, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1206, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 112, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1207, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 112, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1208, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 113, 1700, '2020-01-21', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1209, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1210, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1211, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1212, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1213, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1214, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1215, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1216, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1217, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1218, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1219, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1220, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1221, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1222, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1223, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1224, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 113, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1225, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 114, 1800, '2019-09-30', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1226, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1227, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1228, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1229, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1230, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1231, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1232, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1233, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1234, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1235, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1236, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1237, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1238, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1239, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1240, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1241, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1242, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1243, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1244, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1245, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 114, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1246, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 115, 2000, '2020-08-31', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 115, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1247, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 115, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1248, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 115, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1249, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 115, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1250, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 115, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1251, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 115, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1252, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 115, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1253, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 115, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1254, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 115, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1255, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 115, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1256, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 116, 1700, '2019-10-04', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1257, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1258, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1259, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1260, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1261, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1262, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1263, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1264, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1265, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1266, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1267, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1268, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1269, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1270, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1271, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1272, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1273, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1274, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1275, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 116, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1276, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 117, 1700, '2020-07-16', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 117, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1277, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 117, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1278, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 117, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1279, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 117, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1280, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 117, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1281, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 117, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1282, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 117, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1283, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 117, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1284, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 117, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1285, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 117, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1286, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 117, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1287, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 118, 1700, '2019-09-30', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1288, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1289, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1290, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1291, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1292, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1293, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1294, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1295, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1296, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1297, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1298, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1299, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1300, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1301, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1302, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1303, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1304, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1305, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1306, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1307, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 118, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1308, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 119, 1800, '2019-12-03', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1309, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1310, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1311, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1312, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1313, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1314, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1315, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1316, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1317, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1318, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1319, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1320, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1321, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1322, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1323, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1324, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1325, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 119, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1326, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 120, 2000, '2020-12-11', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 120, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1327, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 120, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1328, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 120, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1329, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 120, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1330, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 120, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1331, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 120, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1332, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 121, 1700, '2020-01-31', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1333, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1334, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1335, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1336, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1337, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1338, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1339, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1340, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1341, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1342, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1343, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1344, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1345, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1346, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1347, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1348, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 121, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1349, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 122, 1700, '2021-06-06', NULL);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 123, 1700, '2020-06-17', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1350, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1351, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1352, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1353, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1354, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1355, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1356, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1357, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1358, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1359, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1360, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 123, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1361, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 124, 1800, '2020-07-08', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 124, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1362, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 124, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1363, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 124, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1364, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 124, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1365, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 124, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1366, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 124, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1367, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 124, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1368, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 124, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1369, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 124, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1370, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 124, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1371, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 124, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1372, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 125, 2000, '2021-01-29', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 125, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1373, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 125, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1374, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 125, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1375, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 125, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1376, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 125, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1377, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 126, 1700, '2021-01-24', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 126, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1378, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 126, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1379, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 126, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1380, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 126, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1381, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 126, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1382, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 127, 1700, '2020-05-13', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1383, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1384, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1385, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1386, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1387, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1388, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1389, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1390, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1391, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1392, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1393, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1394, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 127, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1395, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 128, 1700, '2020-08-12', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 128, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1396, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 128, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1397, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 128, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1398, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 128, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1399, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 128, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1400, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 128, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1401, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 128, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1402, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 128, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1403, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 128, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1404, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 128, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1405, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 129, 1800, '2019-12-02', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1406, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1407, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1408, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1409, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1410, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1411, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1412, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1413, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1414, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1415, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1416, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1417, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1418, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1419, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1420, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1421, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1422, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 129, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1423, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 130, 2000, '2019-08-31', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2019-09-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1424, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1425, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1426, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1427, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1428, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1429, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1430, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1431, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1432, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1433, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1434, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1435, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1436, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1437, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1438, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1439, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1440, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1441, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1442, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1443, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1444, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 130, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1445, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 131, 1700, '2019-12-28', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1446, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1447, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1448, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1449, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1450, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1451, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1452, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1453, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1454, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1455, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1456, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1457, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1458, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1459, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1460, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1461, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1462, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 131, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1463, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 132, 1700, '2020-06-16', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1464, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1465, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1466, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1467, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1468, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1469, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1470, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1471, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1472, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1473, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1474, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 132, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1475, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 133, 1700, '2021-04-29', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 133, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1476, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 133, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1477, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 134, 1800, '2021-01-23', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 134, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1478, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 134, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1479, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 134, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1480, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 134, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1481, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 134, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1482, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 135, 2000, '2019-09-29', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1483, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1484, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1485, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1486, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1487, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1488, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1489, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1490, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1491, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1492, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1493, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1494, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1495, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1496, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1497, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1498, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1499, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1500, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1501, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1502, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 135, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1503, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 136, 1700, '2020-07-30', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 136, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1504, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 136, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1505, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 136, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1506, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 136, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1507, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 136, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1508, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 136, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1509, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 136, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1510, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 136, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1511, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 136, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1512, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 136, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1513, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 136, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1514, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 137, 1700, '2020-12-21', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 137, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1515, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 137, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1516, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 137, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1517, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 137, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1518, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 137, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1519, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 137, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1520, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 138, 1700, '2020-12-05', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 138, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1521, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 138, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1522, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 138, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1523, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 138, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1524, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 138, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1525, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 138, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1526, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 139, 1800, '2020-07-19', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 139, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1527, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 139, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1528, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 139, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1529, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 139, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1530, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 139, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1531, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 139, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1532, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 139, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1533, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 139, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1534, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 139, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1535, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 139, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1536, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 139, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1537, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 140, 2000, '2020-12-07', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 140, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1538, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 140, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1539, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 140, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1540, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 140, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1541, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 140, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1542, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 140, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1543, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 141, 1700, '2021-05-03', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 141, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1544, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 142, 1700, '2020-03-06', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1545, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1546, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1547, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1548, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1549, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1550, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1551, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1552, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1553, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1554, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1555, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1556, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1557, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1558, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 142, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1559, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 143, 1700, '2020-04-04', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1560, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1561, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1562, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1563, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1564, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1565, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1566, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1567, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1568, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1569, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1570, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1571, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1572, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 143, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1573, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 144, 1800, '2020-05-01', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1574, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1575, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1576, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1577, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1578, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1579, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1580, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1581, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1582, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1583, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1584, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1585, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 144, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1586, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 145, 2000, '2019-12-31', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1587, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1588, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1589, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1590, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1591, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1592, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1593, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1594, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1595, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1596, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1597, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1598, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1599, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1600, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1601, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1602, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1603, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 145, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1604, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 146, 1700, '2020-02-28', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1605, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1606, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1607, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1608, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1609, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1610, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1611, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1612, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1613, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1614, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1615, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1616, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1617, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1618, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1619, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 146, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1620, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 147, 1700, '2019-11-07', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1621, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1622, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1623, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1624, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1625, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1626, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1627, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1628, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1629, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1630, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1631, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1632, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1633, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1634, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1635, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1636, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1637, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1638, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 147, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1639, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 148, 1700, '2020-12-15', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 148, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1640, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 148, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1641, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 148, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1642, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 148, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1643, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 148, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1644, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 148, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1645, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 149, 1800, '2020-01-24', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1646, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1647, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1648, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1649, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1650, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1651, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1652, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1653, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1654, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1655, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1656, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1657, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1658, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1659, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1660, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1661, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 149, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1662, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 150, 2000, '2020-06-21', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1663, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1664, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1665, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1666, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1667, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1668, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1669, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1670, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1671, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1672, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1673, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 150, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1674, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 151, 1700, '2021-01-27', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 151, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1675, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 151, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1676, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 151, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1677, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 151, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1678, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 151, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1679, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 152, 1700, '2021-01-21', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 152, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1680, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 152, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1681, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 152, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1682, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 152, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1683, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 152, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1684, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 153, 1700, '2019-09-03', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1685, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1686, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1687, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1688, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1689, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1690, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1691, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1692, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1693, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1694, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1695, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1696, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1697, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1698, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1699, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1700, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1701, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1702, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1703, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1704, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 153, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1705, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 154, 1800, '2020-12-15', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 154, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1706, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 154, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1707, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 154, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1708, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 154, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1709, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 154, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1710, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 154, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1711, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 155, 2000, '2021-02-20', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 155, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1712, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 155, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1713, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 155, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1714, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 155, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1715, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 156, 1700, '2021-05-08', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 156, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1716, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 157, 1700, '2019-11-03', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1717, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1718, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1719, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1720, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1721, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1722, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1723, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1724, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1725, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1726, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1727, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1728, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1729, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1730, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1731, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1732, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1733, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1734, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 157, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1735, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 158, 1700, '2020-12-18', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 158, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1736, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 158, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1737, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 158, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1738, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 158, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1739, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 158, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1740, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 158, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1741, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 159, 1800, '2020-11-01', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 159, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1742, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 159, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1743, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 159, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1744, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 159, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1745, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 159, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1746, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 159, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1747, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 159, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1748, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 160, 2000, '2020-03-25', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1749, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1750, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1751, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1752, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1753, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1754, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1755, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1756, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1757, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1758, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1759, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1760, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1761, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1762, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 160, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1763, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 161, 1700, '2020-11-07', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 161, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1764, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 161, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1765, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 161, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1766, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 161, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1767, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 161, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1768, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 161, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1769, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 161, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1770, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 162, 1700, '2020-08-11', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 162, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1771, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 162, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1772, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 162, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1773, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 162, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1774, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 162, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1775, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 162, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1776, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 162, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1777, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 162, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1778, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 162, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1779, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 162, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1780, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 163, 1700, '2020-01-18', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1781, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1782, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1783, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1784, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1785, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1786, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1787, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1788, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1789, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1790, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1791, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1792, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1793, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1794, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1795, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1796, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 163, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1797, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 164, 1800, '2019-09-18', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1798, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1799, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1800, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1801, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1802, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1803, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1804, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1805, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1806, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1807, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1808, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1809, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1810, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1811, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1812, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1813, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1814, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1815, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1816, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1817, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 164, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1818, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 165, 2000, '2020-10-11', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 165, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1819, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 165, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1820, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 165, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1821, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 165, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1822, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 165, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1823, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 165, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1824, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 165, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1825, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 165, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1826, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 166, 1700, '2020-11-23', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 166, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1827, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 166, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1828, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 166, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1829, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 166, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1830, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 166, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1831, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 166, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1832, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 166, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1833, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 167, 1700, '2019-10-17', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1834, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1835, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1836, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1837, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1838, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1839, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1840, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1841, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1842, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1843, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1844, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1845, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1846, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1847, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1848, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1849, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1850, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1851, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1852, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 167, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1853, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 168, 1700, '2020-08-01', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 168, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1854, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 168, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1855, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 168, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1856, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 168, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1857, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 168, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1858, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 168, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1859, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 168, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1860, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 168, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1861, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 168, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1862, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 168, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1863, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 169, 1800, '2020-09-16', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 169, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1864, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 169, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1865, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 169, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1866, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 169, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1867, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 169, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1868, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 169, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1869, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 169, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1870, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 169, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1871, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 169, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1872, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 170, 2000, '2020-07-01', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 170, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1873, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 170, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1874, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 170, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1875, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 170, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1876, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 170, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1877, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 170, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1878, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 170, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1879, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 170, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1880, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 170, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1881, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 170, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1882, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 170, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1883, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 171, 1700, '2020-12-06', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 171, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1884, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 171, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1885, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 171, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1886, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 171, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1887, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 171, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1888, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 171, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1889, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 172, 1700, '2020-02-14', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1890, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1891, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1892, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1893, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1894, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1895, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1896, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1897, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1898, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1899, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1900, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1901, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1902, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1903, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1904, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 172, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1905, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 173, 1700, '2020-06-27', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1906, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1907, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1908, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1909, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1910, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1911, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1912, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1913, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1914, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1915, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1916, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 173, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1917, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 174, 1800, '2021-02-20', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 174, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1918, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 174, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1919, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 174, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1920, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 174, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1921, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 175, 2000, '2020-05-12', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1922, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1923, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1924, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1925, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1926, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1927, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1928, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1929, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1930, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1931, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1932, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1933, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 175, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1934, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 176, 1700, '2020-12-12', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 176, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1935, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 176, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1936, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 176, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1937, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 176, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1938, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 176, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1939, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 176, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1940, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 177, 1700, '2020-03-24', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1941, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1942, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1943, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1944, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1945, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1946, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1947, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1948, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1949, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1950, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1951, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1952, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1953, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1954, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 177, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1955, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 178, 1700, '2020-10-31', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 178, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1956, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 178, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1957, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 178, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1958, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 178, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1959, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 178, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1960, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 178, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1961, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 178, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1962, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 178, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1963, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 179, 1800, '2020-05-24', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1964, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1965, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1966, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1967, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1968, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1969, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1970, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1971, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1972, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1973, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1974, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1975, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 179, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1976, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 180, 2000, '2021-04-21', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 180, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1977, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 180, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1978, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 181, 1700, '2021-01-01', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 181, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1979, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 181, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1980, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 181, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1981, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 181, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1982, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 181, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1983, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 182, 1700, '2021-05-17', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 182, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1984, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 183, 1700, '2019-09-22', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2019-10-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1985, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1986, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1987, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1988, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1989, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1990, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1991, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1992, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1993, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 1994, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1995, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1996, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1997, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 1998, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 1999, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2000, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2001, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2002, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2003, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2004, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 183, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2005, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 184, 1800, '2020-10-26', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 184, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2006, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 184, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2007, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 184, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2008, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 184, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2009, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 184, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2010, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 184, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2011, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 184, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2012, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 184, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2013, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 185, 2000, '2020-02-27', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2014, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2015, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2016, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2017, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2018, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2019, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2020, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2021, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2022, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2023, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2024, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2025, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2026, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2027, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2028, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 185, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2029, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 186, 1700, '2020-07-12', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 186, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2030, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 186, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2031, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 186, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2032, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 186, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2033, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 186, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2034, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 186, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2035, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 186, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2036, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 186, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2037, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 186, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2038, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 186, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2039, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 186, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2040, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 187, 1700, '2020-02-17', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2041, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2042, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2043, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2044, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2045, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2046, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2047, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2048, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2049, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2050, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2051, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2052, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2053, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2054, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2055, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 187, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2056, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 188, 1700, '2019-10-21', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2057, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2058, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2059, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2060, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2061, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2062, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2063, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2064, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2065, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2066, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2067, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2068, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2069, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2070, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2071, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2072, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2073, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2074, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2075, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 188, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2076, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 189, 1800, '2021-06-05', NULL);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 190, 2000, '2021-01-16', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 190, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2077, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 190, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2078, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 190, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2079, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 190, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2080, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 190, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2081, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 191, 1700, '2019-10-20', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2082, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2083, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2084, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2085, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2086, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2087, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2088, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2089, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2090, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2091, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2092, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2093, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2094, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2095, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2096, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2097, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2098, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2099, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2100, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 191, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2101, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 192, 1700, '2020-05-27', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2102, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2103, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2104, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2105, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2106, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2107, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2108, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2109, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2110, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2111, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2112, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2113, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 192, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2114, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 193, 1700, '2021-01-05', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 193, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2115, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 193, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2116, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 193, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2117, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 193, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2118, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 193, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2119, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 194, 1800, '2019-10-17', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2019-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2120, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2121, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2122, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2123, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2124, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2125, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2126, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2127, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2128, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2129, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2130, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2131, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2132, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2133, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2134, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2135, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2136, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2137, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2138, 'Salário', 'salary', 1800);
-INSERT INTO payroll VALUES(DEFAULT, 194, 1800, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2139, 'Salário', 'salary', 1800);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 195, 2000, '2020-03-15', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2140, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2141, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2142, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2143, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2144, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2145, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2146, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2147, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2148, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2149, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2150, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2151, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2152, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2153, 'Salário', 'salary', 2000);
-INSERT INTO payroll VALUES(DEFAULT, 195, 2000, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2154, 'Salário', 'salary', 2000);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 196, 1700, '2020-08-13', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 196, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2155, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 196, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2156, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 196, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2157, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 196, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2158, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 196, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2159, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 196, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2160, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 196, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2161, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 196, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2162, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 196, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2163, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 196, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2164, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 197, 1700, '2019-11-18', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2019-12-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2165, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-01-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2166, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2167, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2168, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2169, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2170, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2171, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2172, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2173, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2174, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2175, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2176, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2177, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2178, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2179, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2180, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2181, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2182, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 197, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2183, 'Salário', 'salary', 1700);
--- END EPLOYEE
-INSERT INTO salary VALUES (DEFAULT, 198, 1700, '2020-01-08', NULL);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2020-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2184, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2020-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2185, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2020-04-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2186, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2020-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2187, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2020-06-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2188, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2020-07-03');
-INSERT INTO payroll_item VALUES(DEFAULT, 2189, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2020-08-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2190, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2020-09-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2191, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2020-10-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2192, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2020-11-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2193, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2020-12-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2194, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2021-01-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2195, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2021-02-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2196, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2021-03-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2197, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2021-04-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2198, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2021-05-05');
-INSERT INTO payroll_item VALUES(DEFAULT, 2199, 'Salário', 'salary', 1700);
-INSERT INTO payroll VALUES(DEFAULT, 198, 1700, true, '2021-06-04');
-INSERT INTO payroll_item VALUES(DEFAULT, 2200, 'Salário', 'salary', 1700);
--- END EPLOYEE
+INSERT INTO salary VALUES
+(DEFAULT, 2, 5000, '2019-09-21', NULL),
+(DEFAULT, 3, 5000, '2020-11-09', NULL),
+(DEFAULT, 8, 5000, '2020-11-13', NULL),
+(DEFAULT, 12, 5000, '2020-03-03', NULL),
+(DEFAULT, 13, 5000, '2020-07-09', NULL),
+(DEFAULT, 14, 5000, '2020-06-29', NULL),
+(DEFAULT, 17, 5000, '2019-08-05', NULL),
+(DEFAULT, 19, 5000, '2021-04-18', NULL),
+(DEFAULT, 20, 5000, '2019-10-15', NULL),
+(DEFAULT, 21, 5000, '2020-12-09', NULL),
+(DEFAULT, 22, 5000, '2020-03-29', NULL),
+(DEFAULT, 23, 5000, '2020-11-28', NULL),
+(DEFAULT, 26, 5000, '2020-10-17', NULL),
+(DEFAULT, 29, 5000, '2021-05-28', NULL),
+(DEFAULT, 31, 5000, '2020-08-24', NULL),
+(DEFAULT, 32, 5000, '2020-03-19', NULL),
+(DEFAULT, 37, 5000, '2020-11-17', NULL),
+(DEFAULT, 39, 5000, '2020-10-27', NULL),
+(DEFAULT, 1, 1800, '2020-04-04', NULL),
+(DEFAULT, 4, 2000, '2021-05-31', NULL),
+(DEFAULT, 5, 1700, '2020-04-15', NULL),
+(DEFAULT, 6, 1700, '2021-05-17', NULL),
+(DEFAULT, 7, 1700, '2021-05-26', NULL),
+(DEFAULT, 9, 1800, '2021-03-12', NULL),
+(DEFAULT, 10, 2000, '2019-09-19', NULL),
+(DEFAULT, 11, 1700, '2019-10-22', NULL),
+(DEFAULT, 15, 1700, '2021-05-03', NULL),
+(DEFAULT, 16, 1700, '2019-11-03', NULL),
+(DEFAULT, 18, 1800, '2021-05-29', NULL),
+(DEFAULT, 24, 2000, '2020-09-06', NULL),
+(DEFAULT, 25, 1700, '2020-12-06', NULL),
+(DEFAULT, 27, 1700, '2020-06-25', NULL),
+(DEFAULT, 28, 1700, '2020-04-09', NULL),
+(DEFAULT, 30, 1800, '2020-03-02', NULL),
+(DEFAULT, 33, 2000, '2020-05-08', NULL),
+(DEFAULT, 34, 1700, '2020-11-06', NULL),
+(DEFAULT, 35, 1700, '2020-07-18', NULL),
+(DEFAULT, 36, 1700, '2020-02-15', NULL),
+(DEFAULT, 38, 1800, '2019-12-06', NULL),
+(DEFAULT, 40, 2000, '2021-06-15', NULL),
+(DEFAULT, 41, 1700, '2020-08-19', NULL),
+(DEFAULT, 42, 1700, '2021-03-10', NULL),
+(DEFAULT, 43, 1700, '2021-03-07', NULL),
+(DEFAULT, 44, 1800, '2019-11-18', NULL),
+(DEFAULT, 45, 2000, '2020-10-16', NULL),
+(DEFAULT, 46, 1700, '2020-10-02', NULL),
+(DEFAULT, 47, 1700, '2020-06-01', NULL),
+(DEFAULT, 48, 1700, '2021-03-27', NULL),
+(DEFAULT, 49, 1800, '2020-02-10', NULL),
+(DEFAULT, 50, 2000, '2021-01-13', NULL),
+(DEFAULT, 51, 1700, '2021-01-05', NULL),
+(DEFAULT, 52, 1700, '2021-01-26', NULL),
+(DEFAULT, 53, 1700, '2020-05-11', NULL),
+(DEFAULT, 54, 1800, '2020-09-19', NULL),
+(DEFAULT, 55, 2000, '2020-11-29', NULL),
+(DEFAULT, 56, 1700, '2020-01-06', NULL),
+(DEFAULT, 57, 1700, '2021-01-19', NULL),
+(DEFAULT, 58, 1700, '2019-09-28', NULL),
+(DEFAULT, 59, 1800, '2020-04-13', NULL),
+(DEFAULT, 60, 2000, '2021-01-20', NULL),
+(DEFAULT, 61, 1700, '2020-04-11', NULL),
+(DEFAULT, 62, 1700, '2021-04-22', NULL),
+(DEFAULT, 63, 1700, '2020-03-08', NULL),
+(DEFAULT, 64, 1800, '2019-11-18', NULL),
+(DEFAULT, 65, 2000, '2020-04-10', NULL),
+(DEFAULT, 66, 1700, '2021-02-25', NULL),
+(DEFAULT, 67, 1700, '2020-12-21', NULL),
+(DEFAULT, 68, 1700, '2020-03-15', NULL),
+(DEFAULT, 69, 1800, '2020-09-01', NULL),
+(DEFAULT, 70, 2000, '2019-10-05', NULL),
+(DEFAULT, 71, 1700, '2021-05-01', NULL),
+(DEFAULT, 72, 1700, '2019-10-06', NULL),
+(DEFAULT, 73, 1700, '2020-10-26', NULL),
+(DEFAULT, 74, 1800, '2020-01-21', NULL),
+(DEFAULT, 75, 2000, '2019-09-30', NULL),
+(DEFAULT, 76, 1700, '2020-08-31', NULL),
+(DEFAULT, 77, 1700, '2019-10-04', NULL),
+(DEFAULT, 78, 1700, '2020-07-16', NULL),
+(DEFAULT, 79, 1800, '2019-09-30', NULL),
+(DEFAULT, 80, 2000, '2019-12-03', NULL),
+(DEFAULT, 81, 1700, '2020-12-11', NULL),
+(DEFAULT, 82, 1700, '2020-01-31', NULL),
+(DEFAULT, 83, 1700, '2021-06-06', NULL),
+(DEFAULT, 84, 1800, '2020-06-17', NULL),
+(DEFAULT, 85, 2000, '2020-07-08', NULL),
+(DEFAULT, 86, 1700, '2021-01-29', NULL),
+(DEFAULT, 87, 1700, '2021-01-24', NULL),
+(DEFAULT, 88, 1700, '2020-05-13', NULL),
+(DEFAULT, 89, 1800, '2020-08-12', NULL),
+(DEFAULT, 90, 2000, '2019-12-02', NULL),
+(DEFAULT, 91, 1700, '2019-08-31', NULL),
+(DEFAULT, 92, 1700, '2019-12-28', NULL),
+(DEFAULT, 93, 1700, '2020-06-16', NULL),
+(DEFAULT, 94, 1800, '2021-04-29', NULL),
+(DEFAULT, 95, 2000, '2021-01-23', NULL),
+(DEFAULT, 96, 1700, '2019-09-29', NULL),
+(DEFAULT, 97, 1700, '2020-07-30', NULL),
+(DEFAULT, 98, 1700, '2020-12-21', NULL),
+(DEFAULT, 99, 1800, '2020-12-05', NULL),
+(DEFAULT, 100, 2000, '2020-07-19', NULL),
+(DEFAULT, 101, 1700, '2021-04-22', NULL),
+(DEFAULT, 102, 1700, '2020-03-08', NULL),
+(DEFAULT, 103, 1700, '2019-11-18', NULL),
+(DEFAULT, 104, 1800, '2020-04-10', NULL),
+(DEFAULT, 105, 2000, '2021-02-25', NULL),
+(DEFAULT, 106, 1700, '2020-12-21', NULL),
+(DEFAULT, 107, 1700, '2020-03-15', NULL),
+(DEFAULT, 108, 1700, '2020-09-01', NULL),
+(DEFAULT, 109, 1800, '2019-10-05', NULL),
+(DEFAULT, 110, 2000, '2021-05-01', NULL),
+(DEFAULT, 111, 1700, '2019-10-06', NULL),
+(DEFAULT, 112, 1700, '2020-10-26', NULL),
+(DEFAULT, 113, 1700, '2020-01-21', NULL),
+(DEFAULT, 114, 1800, '2019-09-30', NULL),
+(DEFAULT, 115, 2000, '2020-08-31', NULL),
+(DEFAULT, 116, 1700, '2019-10-04', NULL),
+(DEFAULT, 117, 1700, '2020-07-16', NULL),
+(DEFAULT, 118, 1700, '2019-09-30', NULL),
+(DEFAULT, 119, 1800, '2019-12-03', NULL),
+(DEFAULT, 120, 2000, '2020-12-11', NULL),
+(DEFAULT, 121, 1700, '2020-01-31', NULL),
+(DEFAULT, 122, 1700, '2021-06-06', NULL),
+(DEFAULT, 123, 1700, '2020-06-17', NULL),
+(DEFAULT, 124, 1800, '2020-07-08', NULL),
+(DEFAULT, 125, 2000, '2021-01-29', NULL),
+(DEFAULT, 126, 1700, '2021-01-24', NULL),
+(DEFAULT, 127, 1700, '2020-05-13', NULL),
+(DEFAULT, 128, 1700, '2020-08-12', NULL),
+(DEFAULT, 129, 1800, '2019-12-02', NULL),
+(DEFAULT, 130, 2000, '2019-08-31', NULL),
+(DEFAULT, 131, 1700, '2019-12-28', NULL),
+(DEFAULT, 132, 1700, '2020-06-16', NULL),
+(DEFAULT, 133, 1700, '2021-04-29', NULL),
+(DEFAULT, 134, 1800, '2021-01-23', NULL),
+(DEFAULT, 135, 2000, '2019-09-29', NULL),
+(DEFAULT, 136, 1700, '2020-07-30', NULL),
+(DEFAULT, 137, 1700, '2020-12-21', NULL),
+(DEFAULT, 138, 1700, '2020-12-05', NULL),
+(DEFAULT, 139, 1800, '2020-07-19', NULL),
+(DEFAULT, 140, 2000, '2020-12-07', NULL),
+(DEFAULT, 141, 1700, '2021-05-03', NULL),
+(DEFAULT, 142, 1700, '2020-03-06', NULL),
+(DEFAULT, 143, 1700, '2020-04-04', NULL),
+(DEFAULT, 144, 1800, '2020-05-01', NULL),
+(DEFAULT, 145, 2000, '2019-12-31', NULL),
+(DEFAULT, 146, 1700, '2020-02-28', NULL),
+(DEFAULT, 147, 1700, '2019-11-07', NULL),
+(DEFAULT, 148, 1700, '2020-12-15', NULL),
+(DEFAULT, 149, 1800, '2020-01-24', NULL),
+(DEFAULT, 150, 2000, '2020-06-21', NULL),
+(DEFAULT, 151, 1700, '2021-01-27', NULL),
+(DEFAULT, 152, 1700, '2021-01-21', NULL),
+(DEFAULT, 153, 1700, '2019-09-03', NULL),
+(DEFAULT, 154, 1800, '2020-12-15', NULL),
+(DEFAULT, 155, 2000, '2021-02-20', NULL),
+(DEFAULT, 156, 1700, '2021-05-08', NULL),
+(DEFAULT, 157, 1700, '2019-11-03', NULL),
+(DEFAULT, 158, 1700, '2020-12-18', NULL),
+(DEFAULT, 159, 1800, '2020-11-01', NULL),
+(DEFAULT, 160, 2000, '2020-03-25', NULL),
+(DEFAULT, 161, 1700, '2020-11-07', NULL),
+(DEFAULT, 162, 1700, '2020-08-11', NULL),
+(DEFAULT, 163, 1700, '2020-01-18', NULL),
+(DEFAULT, 164, 1800, '2019-09-18', NULL),
+(DEFAULT, 165, 2000, '2020-10-11', NULL),
+(DEFAULT, 166, 1700, '2020-11-23', NULL),
+(DEFAULT, 167, 1700, '2019-10-17', NULL),
+(DEFAULT, 168, 1700, '2020-08-01', NULL),
+(DEFAULT, 169, 1800, '2020-09-16', NULL),
+(DEFAULT, 170, 2000, '2020-07-01', NULL),
+(DEFAULT, 171, 1700, '2020-12-06', NULL),
+(DEFAULT, 172, 1700, '2020-02-14', NULL),
+(DEFAULT, 173, 1700, '2020-06-27', NULL),
+(DEFAULT, 174, 1800, '2021-02-20', NULL),
+(DEFAULT, 175, 2000, '2020-05-12', NULL),
+(DEFAULT, 176, 1700, '2020-12-12', NULL),
+(DEFAULT, 177, 1700, '2020-03-24', NULL),
+(DEFAULT, 178, 1700, '2020-10-31', NULL),
+(DEFAULT, 179, 1800, '2020-05-24', NULL),
+(DEFAULT, 180, 2000, '2021-04-21', NULL),
+(DEFAULT, 181, 1700, '2021-01-01', NULL),
+(DEFAULT, 182, 1700, '2021-05-17', NULL),
+(DEFAULT, 183, 1700, '2019-09-22', NULL),
+(DEFAULT, 184, 1800, '2020-10-26', NULL),
+(DEFAULT, 185, 2000, '2020-02-27', NULL),
+(DEFAULT, 186, 1700, '2020-07-12', NULL),
+(DEFAULT, 187, 1700, '2020-02-17', NULL),
+(DEFAULT, 188, 1700, '2019-10-21', NULL),
+(DEFAULT, 189, 1800, '2021-06-05', NULL),
+(DEFAULT, 190, 2000, '2021-01-16', NULL),
+(DEFAULT, 191, 1700, '2019-10-20', NULL),
+(DEFAULT, 192, 1700, '2020-05-27', NULL),
+(DEFAULT, 193, 1700, '2021-01-05', NULL),
+(DEFAULT, 194, 1800, '2019-10-17', NULL),
+(DEFAULT, 195, 2000, '2020-03-15', NULL),
+(DEFAULT, 196, 1700, '2020-08-13', NULL),
+(DEFAULT, 197, 1700, '2019-11-18', NULL),
+(DEFAULT, 198, 1700, '2020-01-08', NULL);
+
+INSERT INTO payroll VALUES
+(DEFAULT, 2, 5000, true, '2019-10-04'),
+(DEFAULT, 2, 5000, true, '2019-11-05'),
+(DEFAULT, 2, 5000, true, '2019-12-05'),
+(DEFAULT, 2, 5000, true, '2020-01-03'),
+(DEFAULT, 2, 5000, true, '2020-02-05'),
+(DEFAULT, 2, 5000, true, '2020-03-05'),
+(DEFAULT, 2, 5000, true, '2020-04-03'),
+(DEFAULT, 2, 5000, true, '2020-05-05'),
+(DEFAULT, 2, 5000, true, '2020-06-05'),
+(DEFAULT, 2, 5000, true, '2020-07-03'),
+(DEFAULT, 2, 5000, true, '2020-08-05'),
+(DEFAULT, 2, 5000, true, '2020-09-04'),
+(DEFAULT, 2, 5000, true, '2020-10-05'),
+(DEFAULT, 2, 5000, true, '2020-11-05'),
+(DEFAULT, 2, 5000, true, '2020-12-04'),
+(DEFAULT, 2, 5000, true, '2021-01-05'),
+(DEFAULT, 2, 5000, true, '2021-02-05'),
+(DEFAULT, 2, 5000, true, '2021-03-05'),
+(DEFAULT, 2, 5000, true, '2021-04-05'),
+(DEFAULT, 2, 5000, true, '2021-05-05'),
+(DEFAULT, 2, 5000, true, '2021-06-04'),
+(DEFAULT, 3, 5000, true, '2020-12-04'),
+(DEFAULT, 3, 5000, true, '2021-01-05'),
+(DEFAULT, 3, 5000, true, '2021-02-05'),
+(DEFAULT, 3, 5000, true, '2021-03-05'),
+(DEFAULT, 3, 5000, true, '2021-04-05'),
+(DEFAULT, 3, 5000, true, '2021-05-05'),
+(DEFAULT, 3, 5000, true, '2021-06-04'),
+(DEFAULT, 8, 5000, true, '2020-12-04'),
+(DEFAULT, 8, 5000, true, '2021-01-05'),
+(DEFAULT, 8, 5000, true, '2021-02-05'),
+(DEFAULT, 8, 5000, true, '2021-03-05'),
+(DEFAULT, 8, 5000, true, '2021-04-05'),
+(DEFAULT, 8, 5000, true, '2021-05-05'),
+(DEFAULT, 8, 5000, true, '2021-06-04'),
+(DEFAULT, 12, 5000, true, '2020-04-03'),
+(DEFAULT, 12, 5000, true, '2020-05-05'),
+(DEFAULT, 12, 5000, true, '2020-06-05'),
+(DEFAULT, 12, 5000, true, '2020-07-03'),
+(DEFAULT, 12, 5000, true, '2020-08-05'),
+(DEFAULT, 12, 5000, true, '2020-09-04'),
+(DEFAULT, 12, 5000, true, '2020-10-05'),
+(DEFAULT, 12, 5000, true, '2020-11-05'),
+(DEFAULT, 12, 5000, true, '2020-12-04'),
+(DEFAULT, 12, 5000, true, '2021-01-05'),
+(DEFAULT, 12, 5000, true, '2021-02-05'),
+(DEFAULT, 12, 5000, true, '2021-03-05'),
+(DEFAULT, 12, 5000, true, '2021-04-05'),
+(DEFAULT, 12, 5000, true, '2021-05-05'),
+(DEFAULT, 12, 5000, true, '2021-06-04'),
+(DEFAULT, 13, 5000, true, '2020-08-05'),
+(DEFAULT, 13, 5000, true, '2020-09-04'),
+(DEFAULT, 13, 5000, true, '2020-10-05'),
+(DEFAULT, 13, 5000, true, '2020-11-05'),
+(DEFAULT, 13, 5000, true, '2020-12-04'),
+(DEFAULT, 13, 5000, true, '2021-01-05'),
+(DEFAULT, 13, 5000, true, '2021-02-05'),
+(DEFAULT, 13, 5000, true, '2021-03-05'),
+(DEFAULT, 13, 5000, true, '2021-04-05'),
+(DEFAULT, 13, 5000, true, '2021-05-05'),
+(DEFAULT, 13, 5000, true, '2021-06-04'),
+(DEFAULT, 14, 5000, true, '2020-07-03'),
+(DEFAULT, 14, 5000, true, '2020-08-05'),
+(DEFAULT, 14, 5000, true, '2020-09-04'),
+(DEFAULT, 14, 5000, true, '2020-10-05'),
+(DEFAULT, 14, 5000, true, '2020-11-05'),
+(DEFAULT, 14, 5000, true, '2020-12-04'),
+(DEFAULT, 14, 5000, true, '2021-01-05'),
+(DEFAULT, 14, 5000, true, '2021-02-05'),
+(DEFAULT, 14, 5000, true, '2021-03-05'),
+(DEFAULT, 14, 5000, true, '2021-04-05'),
+(DEFAULT, 14, 5000, true, '2021-05-05'),
+(DEFAULT, 14, 5000, true, '2021-06-04'),
+(DEFAULT, 17, 5000, true, '2019-09-05'),
+(DEFAULT, 17, 5000, true, '2019-10-04'),
+(DEFAULT, 17, 5000, true, '2019-11-05'),
+(DEFAULT, 17, 5000, true, '2019-12-05'),
+(DEFAULT, 17, 5000, true, '2020-01-03'),
+(DEFAULT, 17, 5000, true, '2020-02-05'),
+(DEFAULT, 17, 5000, true, '2020-03-05'),
+(DEFAULT, 17, 5000, true, '2020-04-03'),
+(DEFAULT, 17, 5000, true, '2020-05-05'),
+(DEFAULT, 17, 5000, true, '2020-06-05'),
+(DEFAULT, 17, 5000, true, '2020-07-03'),
+(DEFAULT, 17, 5000, true, '2020-08-05'),
+(DEFAULT, 17, 5000, true, '2020-09-04'),
+(DEFAULT, 17, 5000, true, '2020-10-05'),
+(DEFAULT, 17, 5000, true, '2020-11-05'),
+(DEFAULT, 17, 5000, true, '2020-12-04'),
+(DEFAULT, 17, 5000, true, '2021-01-05'),
+(DEFAULT, 17, 5000, true, '2021-02-05'),
+(DEFAULT, 17, 5000, true, '2021-03-05'),
+(DEFAULT, 17, 5000, true, '2021-04-05'),
+(DEFAULT, 17, 5000, true, '2021-05-05'),
+(DEFAULT, 17, 5000, true, '2021-06-04'),
+(DEFAULT, 19, 5000, true, '2021-05-05'),
+(DEFAULT, 19, 5000, true, '2021-06-04'),
+(DEFAULT, 20, 5000, true, '2019-11-05'),
+(DEFAULT, 20, 5000, true, '2019-12-05'),
+(DEFAULT, 20, 5000, true, '2020-01-03'),
+(DEFAULT, 20, 5000, true, '2020-02-05'),
+(DEFAULT, 20, 5000, true, '2020-03-05'),
+(DEFAULT, 20, 5000, true, '2020-04-03'),
+(DEFAULT, 20, 5000, true, '2020-05-05'),
+(DEFAULT, 20, 5000, true, '2020-06-05'),
+(DEFAULT, 20, 5000, true, '2020-07-03'),
+(DEFAULT, 20, 5000, true, '2020-08-05'),
+(DEFAULT, 20, 5000, true, '2020-09-04'),
+(DEFAULT, 20, 5000, true, '2020-10-05'),
+(DEFAULT, 20, 5000, true, '2020-11-05'),
+(DEFAULT, 20, 5000, true, '2020-12-04'),
+(DEFAULT, 20, 5000, true, '2021-01-05'),
+(DEFAULT, 20, 5000, true, '2021-02-05'),
+(DEFAULT, 20, 5000, true, '2021-03-05'),
+(DEFAULT, 20, 5000, true, '2021-04-05'),
+(DEFAULT, 20, 5000, true, '2021-05-05'),
+(DEFAULT, 20, 5000, true, '2021-06-04'),
+(DEFAULT, 21, 5000, true, '2021-01-05'),
+(DEFAULT, 21, 5000, true, '2021-02-05'),
+(DEFAULT, 21, 5000, true, '2021-03-05'),
+(DEFAULT, 21, 5000, true, '2021-04-05'),
+(DEFAULT, 21, 5000, true, '2021-05-05'),
+(DEFAULT, 21, 5000, true, '2021-06-04'),
+(DEFAULT, 22, 5000, true, '2020-04-03'),
+(DEFAULT, 22, 5000, true, '2020-05-05'),
+(DEFAULT, 22, 5000, true, '2020-06-05'),
+(DEFAULT, 22, 5000, true, '2020-07-03'),
+(DEFAULT, 22, 5000, true, '2020-08-05'),
+(DEFAULT, 22, 5000, true, '2020-09-04'),
+(DEFAULT, 22, 5000, true, '2020-10-05'),
+(DEFAULT, 22, 5000, true, '2020-11-05'),
+(DEFAULT, 22, 5000, true, '2020-12-04'),
+(DEFAULT, 22, 5000, true, '2021-01-05'),
+(DEFAULT, 22, 5000, true, '2021-02-05'),
+(DEFAULT, 22, 5000, true, '2021-03-05'),
+(DEFAULT, 22, 5000, true, '2021-04-05'),
+(DEFAULT, 22, 5000, true, '2021-05-05'),
+(DEFAULT, 22, 5000, true, '2021-06-04'),
+(DEFAULT, 23, 5000, true, '2020-12-04'),
+(DEFAULT, 23, 5000, true, '2021-01-05'),
+(DEFAULT, 23, 5000, true, '2021-02-05'),
+(DEFAULT, 23, 5000, true, '2021-03-05'),
+(DEFAULT, 23, 5000, true, '2021-04-05'),
+(DEFAULT, 23, 5000, true, '2021-05-05'),
+(DEFAULT, 23, 5000, true, '2021-06-04'),
+(DEFAULT, 26, 5000, true, '2020-11-05'),
+(DEFAULT, 26, 5000, true, '2020-12-04'),
+(DEFAULT, 26, 5000, true, '2021-01-05'),
+(DEFAULT, 26, 5000, true, '2021-02-05'),
+(DEFAULT, 26, 5000, true, '2021-03-05'),
+(DEFAULT, 26, 5000, true, '2021-04-05'),
+(DEFAULT, 26, 5000, true, '2021-05-05'),
+(DEFAULT, 26, 5000, true, '2021-06-04'),
+(DEFAULT, 29, 5000, true, '2021-06-04'),
+(DEFAULT, 31, 5000, true, '2020-09-04'),
+(DEFAULT, 31, 5000, true, '2020-10-05'),
+(DEFAULT, 31, 5000, true, '2020-11-05'),
+(DEFAULT, 31, 5000, true, '2020-12-04'),
+(DEFAULT, 31, 5000, true, '2021-01-05'),
+(DEFAULT, 31, 5000, true, '2021-02-05'),
+(DEFAULT, 31, 5000, true, '2021-03-05'),
+(DEFAULT, 31, 5000, true, '2021-04-05'),
+(DEFAULT, 31, 5000, true, '2021-05-05'),
+(DEFAULT, 31, 5000, true, '2021-06-04'),
+(DEFAULT, 32, 5000, true, '2020-04-03'),
+(DEFAULT, 32, 5000, true, '2020-05-05'),
+(DEFAULT, 32, 5000, true, '2020-06-05'),
+(DEFAULT, 32, 5000, true, '2020-07-03'),
+(DEFAULT, 32, 5000, true, '2020-08-05'),
+(DEFAULT, 32, 5000, true, '2020-09-04'),
+(DEFAULT, 32, 5000, true, '2020-10-05'),
+(DEFAULT, 32, 5000, true, '2020-11-05'),
+(DEFAULT, 32, 5000, true, '2020-12-04'),
+(DEFAULT, 32, 5000, true, '2021-01-05'),
+(DEFAULT, 32, 5000, true, '2021-02-05'),
+(DEFAULT, 32, 5000, true, '2021-03-05'),
+(DEFAULT, 32, 5000, true, '2021-04-05'),
+(DEFAULT, 32, 5000, true, '2021-05-05'),
+(DEFAULT, 32, 5000, true, '2021-06-04'),
+(DEFAULT, 37, 5000, true, '2020-12-04'),
+(DEFAULT, 37, 5000, true, '2021-01-05'),
+(DEFAULT, 37, 5000, true, '2021-02-05'),
+(DEFAULT, 37, 5000, true, '2021-03-05'),
+(DEFAULT, 37, 5000, true, '2021-04-05'),
+(DEFAULT, 37, 5000, true, '2021-05-05'),
+(DEFAULT, 37, 5000, true, '2021-06-04'),
+(DEFAULT, 39, 5000, true, '2020-11-05'),
+(DEFAULT, 39, 5000, true, '2020-12-04'),
+(DEFAULT, 39, 5000, true, '2021-01-05'),
+(DEFAULT, 39, 5000, true, '2021-02-05'),
+(DEFAULT, 39, 5000, true, '2021-03-05'),
+(DEFAULT, 39, 5000, true, '2021-04-05'),
+(DEFAULT, 39, 5000, true, '2021-05-05'),
+(DEFAULT, 39, 5000, true, '2021-06-04'),
+(DEFAULT, 1, 1800, true, '2020-05-05'),
+(DEFAULT, 1, 1800, true, '2020-06-05'),
+(DEFAULT, 1, 1800, true, '2020-07-03'),
+(DEFAULT, 1, 1800, true, '2020-08-05'),
+(DEFAULT, 1, 1800, true, '2020-09-04'),
+(DEFAULT, 1, 1800, true, '2020-10-05'),
+(DEFAULT, 1, 1800, true, '2020-11-05'),
+(DEFAULT, 1, 1800, true, '2020-12-04'),
+(DEFAULT, 1, 1800, true, '2021-01-05'),
+(DEFAULT, 1, 1800, true, '2021-02-05'),
+(DEFAULT, 1, 1800, true, '2021-03-05'),
+(DEFAULT, 1, 1800, true, '2021-04-05'),
+(DEFAULT, 1, 1800, true, '2021-05-05'),
+(DEFAULT, 1, 1800, true, '2021-06-04'),
+(DEFAULT, 4, 2000, true, '2021-06-04'),
+(DEFAULT, 5, 1700, true, '2020-05-05'),
+(DEFAULT, 5, 1700, true, '2020-06-05'),
+(DEFAULT, 5, 1700, true, '2020-07-03'),
+(DEFAULT, 5, 1700, true, '2020-08-05'),
+(DEFAULT, 5, 1700, true, '2020-09-04'),
+(DEFAULT, 5, 1700, true, '2020-10-05'),
+(DEFAULT, 5, 1700, true, '2020-11-05'),
+(DEFAULT, 5, 1700, true, '2020-12-04'),
+(DEFAULT, 5, 1700, true, '2021-01-05'),
+(DEFAULT, 5, 1700, true, '2021-02-05'),
+(DEFAULT, 5, 1700, true, '2021-03-05'),
+(DEFAULT, 5, 1700, true, '2021-04-05'),
+(DEFAULT, 5, 1700, true, '2021-05-05'),
+(DEFAULT, 5, 1700, true, '2021-06-04'),
+(DEFAULT, 6, 1700, true, '2021-06-04'),
+(DEFAULT, 7, 1700, true, '2021-06-04'),
+(DEFAULT, 9, 1800, true, '2021-04-05'),
+(DEFAULT, 9, 1800, true, '2021-05-05'),
+(DEFAULT, 9, 1800, true, '2021-06-04'),
+(DEFAULT, 10, 2000, true, '2019-10-04'),
+(DEFAULT, 10, 2000, true, '2019-11-05'),
+(DEFAULT, 10, 2000, true, '2019-12-05'),
+(DEFAULT, 10, 2000, true, '2020-01-03'),
+(DEFAULT, 10, 2000, true, '2020-02-05'),
+(DEFAULT, 10, 2000, true, '2020-03-05'),
+(DEFAULT, 10, 2000, true, '2020-04-03'),
+(DEFAULT, 10, 2000, true, '2020-05-05'),
+(DEFAULT, 10, 2000, true, '2020-06-05'),
+(DEFAULT, 10, 2000, true, '2020-07-03'),
+(DEFAULT, 10, 2000, true, '2020-08-05'),
+(DEFAULT, 10, 2000, true, '2020-09-04'),
+(DEFAULT, 10, 2000, true, '2020-10-05'),
+(DEFAULT, 10, 2000, true, '2020-11-05'),
+(DEFAULT, 10, 2000, true, '2020-12-04'),
+(DEFAULT, 10, 2000, true, '2021-01-05'),
+(DEFAULT, 10, 2000, true, '2021-02-05'),
+(DEFAULT, 10, 2000, true, '2021-03-05'),
+(DEFAULT, 10, 2000, true, '2021-04-05'),
+(DEFAULT, 10, 2000, true, '2021-05-05'),
+(DEFAULT, 10, 2000, true, '2021-06-04'),
+(DEFAULT, 11, 1700, true, '2019-11-05'),
+(DEFAULT, 11, 1700, true, '2019-12-05'),
+(DEFAULT, 11, 1700, true, '2020-01-03'),
+(DEFAULT, 11, 1700, true, '2020-02-05'),
+(DEFAULT, 11, 1700, true, '2020-03-05'),
+(DEFAULT, 11, 1700, true, '2020-04-03'),
+(DEFAULT, 11, 1700, true, '2020-05-05'),
+(DEFAULT, 11, 1700, true, '2020-06-05'),
+(DEFAULT, 11, 1700, true, '2020-07-03'),
+(DEFAULT, 11, 1700, true, '2020-08-05'),
+(DEFAULT, 11, 1700, true, '2020-09-04'),
+(DEFAULT, 11, 1700, true, '2020-10-05'),
+(DEFAULT, 11, 1700, true, '2020-11-05'),
+(DEFAULT, 11, 1700, true, '2020-12-04'),
+(DEFAULT, 11, 1700, true, '2021-01-05'),
+(DEFAULT, 11, 1700, true, '2021-02-05'),
+(DEFAULT, 11, 1700, true, '2021-03-05'),
+(DEFAULT, 11, 1700, true, '2021-04-05'),
+(DEFAULT, 11, 1700, true, '2021-05-05'),
+(DEFAULT, 11, 1700, true, '2021-06-04'),
+(DEFAULT, 15, 1700, true, '2021-06-04'),
+(DEFAULT, 16, 1700, true, '2019-12-05'),
+(DEFAULT, 16, 1700, true, '2020-01-03'),
+(DEFAULT, 16, 1700, true, '2020-02-05'),
+(DEFAULT, 16, 1700, true, '2020-03-05'),
+(DEFAULT, 16, 1700, true, '2020-04-03'),
+(DEFAULT, 16, 1700, true, '2020-05-05'),
+(DEFAULT, 16, 1700, true, '2020-06-05'),
+(DEFAULT, 16, 1700, true, '2020-07-03'),
+(DEFAULT, 16, 1700, true, '2020-08-05'),
+(DEFAULT, 16, 1700, true, '2020-09-04'),
+(DEFAULT, 16, 1700, true, '2020-10-05'),
+(DEFAULT, 16, 1700, true, '2020-11-05'),
+(DEFAULT, 16, 1700, true, '2020-12-04'),
+(DEFAULT, 16, 1700, true, '2021-01-05'),
+(DEFAULT, 16, 1700, true, '2021-02-05'),
+(DEFAULT, 16, 1700, true, '2021-03-05'),
+(DEFAULT, 16, 1700, true, '2021-04-05'),
+(DEFAULT, 16, 1700, true, '2021-05-05'),
+(DEFAULT, 16, 1700, true, '2021-06-04'),
+(DEFAULT, 18, 1800, true, '2021-06-04'),
+(DEFAULT, 24, 2000, true, '2020-10-05'),
+(DEFAULT, 24, 2000, true, '2020-11-05'),
+(DEFAULT, 24, 2000, true, '2020-12-04'),
+(DEFAULT, 24, 2000, true, '2021-01-05'),
+(DEFAULT, 24, 2000, true, '2021-02-05'),
+(DEFAULT, 24, 2000, true, '2021-03-05'),
+(DEFAULT, 24, 2000, true, '2021-04-05'),
+(DEFAULT, 24, 2000, true, '2021-05-05'),
+(DEFAULT, 24, 2000, true, '2021-06-04'),
+(DEFAULT, 25, 1700, true, '2021-01-05'),
+(DEFAULT, 25, 1700, true, '2021-02-05'),
+(DEFAULT, 25, 1700, true, '2021-03-05'),
+(DEFAULT, 25, 1700, true, '2021-04-05'),
+(DEFAULT, 25, 1700, true, '2021-05-05'),
+(DEFAULT, 25, 1700, true, '2021-06-04'),
+(DEFAULT, 27, 1700, true, '2020-07-03'),
+(DEFAULT, 27, 1700, true, '2020-08-05'),
+(DEFAULT, 27, 1700, true, '2020-09-04'),
+(DEFAULT, 27, 1700, true, '2020-10-05'),
+(DEFAULT, 27, 1700, true, '2020-11-05'),
+(DEFAULT, 27, 1700, true, '2020-12-04'),
+(DEFAULT, 27, 1700, true, '2021-01-05'),
+(DEFAULT, 27, 1700, true, '2021-02-05'),
+(DEFAULT, 27, 1700, true, '2021-03-05'),
+(DEFAULT, 27, 1700, true, '2021-04-05'),
+(DEFAULT, 27, 1700, true, '2021-05-05'),
+(DEFAULT, 27, 1700, true, '2021-06-04'),
+(DEFAULT, 28, 1700, true, '2020-05-05'),
+(DEFAULT, 28, 1700, true, '2020-06-05'),
+(DEFAULT, 28, 1700, true, '2020-07-03'),
+(DEFAULT, 28, 1700, true, '2020-08-05'),
+(DEFAULT, 28, 1700, true, '2020-09-04'),
+(DEFAULT, 28, 1700, true, '2020-10-05'),
+(DEFAULT, 28, 1700, true, '2020-11-05'),
+(DEFAULT, 28, 1700, true, '2020-12-04'),
+(DEFAULT, 28, 1700, true, '2021-01-05'),
+(DEFAULT, 28, 1700, true, '2021-02-05'),
+(DEFAULT, 28, 1700, true, '2021-03-05'),
+(DEFAULT, 28, 1700, true, '2021-04-05'),
+(DEFAULT, 28, 1700, true, '2021-05-05'),
+(DEFAULT, 28, 1700, true, '2021-06-04'),
+(DEFAULT, 30, 1800, true, '2020-04-03'),
+(DEFAULT, 30, 1800, true, '2020-05-05'),
+(DEFAULT, 30, 1800, true, '2020-06-05'),
+(DEFAULT, 30, 1800, true, '2020-07-03'),
+(DEFAULT, 30, 1800, true, '2020-08-05'),
+(DEFAULT, 30, 1800, true, '2020-09-04'),
+(DEFAULT, 30, 1800, true, '2020-10-05'),
+(DEFAULT, 30, 1800, true, '2020-11-05'),
+(DEFAULT, 30, 1800, true, '2020-12-04'),
+(DEFAULT, 30, 1800, true, '2021-01-05'),
+(DEFAULT, 30, 1800, true, '2021-02-05'),
+(DEFAULT, 30, 1800, true, '2021-03-05'),
+(DEFAULT, 30, 1800, true, '2021-04-05'),
+(DEFAULT, 30, 1800, true, '2021-05-05'),
+(DEFAULT, 30, 1800, true, '2021-06-04'),
+(DEFAULT, 33, 2000, true, '2020-06-05'),
+(DEFAULT, 33, 2000, true, '2020-07-03'),
+(DEFAULT, 33, 2000, true, '2020-08-05'),
+(DEFAULT, 33, 2000, true, '2020-09-04'),
+(DEFAULT, 33, 2000, true, '2020-10-05'),
+(DEFAULT, 33, 2000, true, '2020-11-05'),
+(DEFAULT, 33, 2000, true, '2020-12-04'),
+(DEFAULT, 33, 2000, true, '2021-01-05'),
+(DEFAULT, 33, 2000, true, '2021-02-05'),
+(DEFAULT, 33, 2000, true, '2021-03-05'),
+(DEFAULT, 33, 2000, true, '2021-04-05'),
+(DEFAULT, 33, 2000, true, '2021-05-05'),
+(DEFAULT, 33, 2000, true, '2021-06-04'),
+(DEFAULT, 34, 1700, true, '2020-12-04'),
+(DEFAULT, 34, 1700, true, '2021-01-05'),
+(DEFAULT, 34, 1700, true, '2021-02-05'),
+(DEFAULT, 34, 1700, true, '2021-03-05'),
+(DEFAULT, 34, 1700, true, '2021-04-05'),
+(DEFAULT, 34, 1700, true, '2021-05-05'),
+(DEFAULT, 34, 1700, true, '2021-06-04'),
+(DEFAULT, 35, 1700, true, '2020-08-05'),
+(DEFAULT, 35, 1700, true, '2020-09-04'),
+(DEFAULT, 35, 1700, true, '2020-10-05'),
+(DEFAULT, 35, 1700, true, '2020-11-05'),
+(DEFAULT, 35, 1700, true, '2020-12-04'),
+(DEFAULT, 35, 1700, true, '2021-01-05'),
+(DEFAULT, 35, 1700, true, '2021-02-05'),
+(DEFAULT, 35, 1700, true, '2021-03-05'),
+(DEFAULT, 35, 1700, true, '2021-04-05'),
+(DEFAULT, 35, 1700, true, '2021-05-05'),
+(DEFAULT, 35, 1700, true, '2021-06-04'),
+(DEFAULT, 36, 1700, true, '2020-03-05'),
+(DEFAULT, 36, 1700, true, '2020-04-03'),
+(DEFAULT, 36, 1700, true, '2020-05-05'),
+(DEFAULT, 36, 1700, true, '2020-06-05'),
+(DEFAULT, 36, 1700, true, '2020-07-03'),
+(DEFAULT, 36, 1700, true, '2020-08-05'),
+(DEFAULT, 36, 1700, true, '2020-09-04'),
+(DEFAULT, 36, 1700, true, '2020-10-05'),
+(DEFAULT, 36, 1700, true, '2020-11-05'),
+(DEFAULT, 36, 1700, true, '2020-12-04'),
+(DEFAULT, 36, 1700, true, '2021-01-05'),
+(DEFAULT, 36, 1700, true, '2021-02-05'),
+(DEFAULT, 36, 1700, true, '2021-03-05'),
+(DEFAULT, 36, 1700, true, '2021-04-05'),
+(DEFAULT, 36, 1700, true, '2021-05-05'),
+(DEFAULT, 36, 1700, true, '2021-06-04'),
+(DEFAULT, 38, 1800, true, '2020-01-03'),
+(DEFAULT, 38, 1800, true, '2020-02-05'),
+(DEFAULT, 38, 1800, true, '2020-03-05'),
+(DEFAULT, 38, 1800, true, '2020-04-03'),
+(DEFAULT, 38, 1800, true, '2020-05-05'),
+(DEFAULT, 38, 1800, true, '2020-06-05'),
+(DEFAULT, 38, 1800, true, '2020-07-03'),
+(DEFAULT, 38, 1800, true, '2020-08-05'),
+(DEFAULT, 38, 1800, true, '2020-09-04'),
+(DEFAULT, 38, 1800, true, '2020-10-05'),
+(DEFAULT, 38, 1800, true, '2020-11-05'),
+(DEFAULT, 38, 1800, true, '2020-12-04'),
+(DEFAULT, 38, 1800, true, '2021-01-05'),
+(DEFAULT, 38, 1800, true, '2021-02-05'),
+(DEFAULT, 38, 1800, true, '2021-03-05'),
+(DEFAULT, 38, 1800, true, '2021-04-05'),
+(DEFAULT, 38, 1800, true, '2021-05-05'),
+(DEFAULT, 38, 1800, true, '2021-06-04'),
+(DEFAULT, 41, 1700, true, '2020-09-04'),
+(DEFAULT, 41, 1700, true, '2020-10-05'),
+(DEFAULT, 41, 1700, true, '2020-11-05'),
+(DEFAULT, 41, 1700, true, '2020-12-04'),
+(DEFAULT, 41, 1700, true, '2021-01-05'),
+(DEFAULT, 41, 1700, true, '2021-02-05'),
+(DEFAULT, 41, 1700, true, '2021-03-05'),
+(DEFAULT, 41, 1700, true, '2021-04-05'),
+(DEFAULT, 41, 1700, true, '2021-05-05'),
+(DEFAULT, 41, 1700, true, '2021-06-04'),
+(DEFAULT, 42, 1700, true, '2021-04-05'),
+(DEFAULT, 42, 1700, true, '2021-05-05'),
+(DEFAULT, 42, 1700, true, '2021-06-04'),
+(DEFAULT, 43, 1700, true, '2021-04-05'),
+(DEFAULT, 43, 1700, true, '2021-05-05'),
+(DEFAULT, 43, 1700, true, '2021-06-04'),
+(DEFAULT, 44, 1800, true, '2019-12-05'),
+(DEFAULT, 44, 1800, true, '2020-01-03'),
+(DEFAULT, 44, 1800, true, '2020-02-05'),
+(DEFAULT, 44, 1800, true, '2020-03-05'),
+(DEFAULT, 44, 1800, true, '2020-04-03'),
+(DEFAULT, 44, 1800, true, '2020-05-05'),
+(DEFAULT, 44, 1800, true, '2020-06-05'),
+(DEFAULT, 44, 1800, true, '2020-07-03'),
+(DEFAULT, 44, 1800, true, '2020-08-05'),
+(DEFAULT, 44, 1800, true, '2020-09-04'),
+(DEFAULT, 44, 1800, true, '2020-10-05'),
+(DEFAULT, 44, 1800, true, '2020-11-05'),
+(DEFAULT, 44, 1800, true, '2020-12-04'),
+(DEFAULT, 44, 1800, true, '2021-01-05'),
+(DEFAULT, 44, 1800, true, '2021-02-05'),
+(DEFAULT, 44, 1800, true, '2021-03-05'),
+(DEFAULT, 44, 1800, true, '2021-04-05'),
+(DEFAULT, 44, 1800, true, '2021-05-05'),
+(DEFAULT, 44, 1800, true, '2021-06-04'),
+(DEFAULT, 45, 2000, true, '2020-11-05'),
+(DEFAULT, 45, 2000, true, '2020-12-04'),
+(DEFAULT, 45, 2000, true, '2021-01-05'),
+(DEFAULT, 45, 2000, true, '2021-02-05'),
+(DEFAULT, 45, 2000, true, '2021-03-05'),
+(DEFAULT, 45, 2000, true, '2021-04-05'),
+(DEFAULT, 45, 2000, true, '2021-05-05'),
+(DEFAULT, 45, 2000, true, '2021-06-04'),
+(DEFAULT, 46, 1700, true, '2020-11-05'),
+(DEFAULT, 46, 1700, true, '2020-12-04'),
+(DEFAULT, 46, 1700, true, '2021-01-05'),
+(DEFAULT, 46, 1700, true, '2021-02-05'),
+(DEFAULT, 46, 1700, true, '2021-03-05'),
+(DEFAULT, 46, 1700, true, '2021-04-05'),
+(DEFAULT, 46, 1700, true, '2021-05-05'),
+(DEFAULT, 46, 1700, true, '2021-06-04'),
+(DEFAULT, 47, 1700, true, '2020-07-03'),
+(DEFAULT, 47, 1700, true, '2020-08-05'),
+(DEFAULT, 47, 1700, true, '2020-09-04'),
+(DEFAULT, 47, 1700, true, '2020-10-05'),
+(DEFAULT, 47, 1700, true, '2020-11-05'),
+(DEFAULT, 47, 1700, true, '2020-12-04'),
+(DEFAULT, 47, 1700, true, '2021-01-05'),
+(DEFAULT, 47, 1700, true, '2021-02-05'),
+(DEFAULT, 47, 1700, true, '2021-03-05'),
+(DEFAULT, 47, 1700, true, '2021-04-05'),
+(DEFAULT, 47, 1700, true, '2021-05-05'),
+(DEFAULT, 47, 1700, true, '2021-06-04'),
+(DEFAULT, 48, 1700, true, '2021-04-05'),
+(DEFAULT, 48, 1700, true, '2021-05-05'),
+(DEFAULT, 48, 1700, true, '2021-06-04'),
+(DEFAULT, 49, 1800, true, '2020-03-05'),
+(DEFAULT, 49, 1800, true, '2020-04-03'),
+(DEFAULT, 49, 1800, true, '2020-05-05'),
+(DEFAULT, 49, 1800, true, '2020-06-05'),
+(DEFAULT, 49, 1800, true, '2020-07-03'),
+(DEFAULT, 49, 1800, true, '2020-08-05'),
+(DEFAULT, 49, 1800, true, '2020-09-04'),
+(DEFAULT, 49, 1800, true, '2020-10-05'),
+(DEFAULT, 49, 1800, true, '2020-11-05'),
+(DEFAULT, 49, 1800, true, '2020-12-04'),
+(DEFAULT, 49, 1800, true, '2021-01-05'),
+(DEFAULT, 49, 1800, true, '2021-02-05'),
+(DEFAULT, 49, 1800, true, '2021-03-05'),
+(DEFAULT, 49, 1800, true, '2021-04-05'),
+(DEFAULT, 49, 1800, true, '2021-05-05'),
+(DEFAULT, 49, 1800, true, '2021-06-04'),
+(DEFAULT, 50, 2000, true, '2021-02-05'),
+(DEFAULT, 50, 2000, true, '2021-03-05'),
+(DEFAULT, 50, 2000, true, '2021-04-05'),
+(DEFAULT, 50, 2000, true, '2021-05-05'),
+(DEFAULT, 50, 2000, true, '2021-06-04'),
+(DEFAULT, 51, 1700, true, '2021-02-05'),
+(DEFAULT, 51, 1700, true, '2021-03-05'),
+(DEFAULT, 51, 1700, true, '2021-04-05'),
+(DEFAULT, 51, 1700, true, '2021-05-05'),
+(DEFAULT, 51, 1700, true, '2021-06-04'),
+(DEFAULT, 52, 1700, true, '2021-02-05'),
+(DEFAULT, 52, 1700, true, '2021-03-05'),
+(DEFAULT, 52, 1700, true, '2021-04-05'),
+(DEFAULT, 52, 1700, true, '2021-05-05'),
+(DEFAULT, 52, 1700, true, '2021-06-04'),
+(DEFAULT, 53, 1700, true, '2020-06-05'),
+(DEFAULT, 53, 1700, true, '2020-07-03'),
+(DEFAULT, 53, 1700, true, '2020-08-05'),
+(DEFAULT, 53, 1700, true, '2020-09-04'),
+(DEFAULT, 53, 1700, true, '2020-10-05'),
+(DEFAULT, 53, 1700, true, '2020-11-05'),
+(DEFAULT, 53, 1700, true, '2020-12-04'),
+(DEFAULT, 53, 1700, true, '2021-01-05'),
+(DEFAULT, 53, 1700, true, '2021-02-05'),
+(DEFAULT, 53, 1700, true, '2021-03-05'),
+(DEFAULT, 53, 1700, true, '2021-04-05'),
+(DEFAULT, 53, 1700, true, '2021-05-05'),
+(DEFAULT, 53, 1700, true, '2021-06-04'),
+(DEFAULT, 54, 1800, true, '2020-10-05'),
+(DEFAULT, 54, 1800, true, '2020-11-05'),
+(DEFAULT, 54, 1800, true, '2020-12-04'),
+(DEFAULT, 54, 1800, true, '2021-01-05'),
+(DEFAULT, 54, 1800, true, '2021-02-05'),
+(DEFAULT, 54, 1800, true, '2021-03-05'),
+(DEFAULT, 54, 1800, true, '2021-04-05'),
+(DEFAULT, 54, 1800, true, '2021-05-05'),
+(DEFAULT, 54, 1800, true, '2021-06-04'),
+(DEFAULT, 55, 2000, true, '2020-12-04'),
+(DEFAULT, 55, 2000, true, '2021-01-05'),
+(DEFAULT, 55, 2000, true, '2021-02-05'),
+(DEFAULT, 55, 2000, true, '2021-03-05'),
+(DEFAULT, 55, 2000, true, '2021-04-05'),
+(DEFAULT, 55, 2000, true, '2021-05-05'),
+(DEFAULT, 55, 2000, true, '2021-06-04'),
+(DEFAULT, 56, 1700, true, '2020-02-05'),
+(DEFAULT, 56, 1700, true, '2020-03-05'),
+(DEFAULT, 56, 1700, true, '2020-04-03'),
+(DEFAULT, 56, 1700, true, '2020-05-05'),
+(DEFAULT, 56, 1700, true, '2020-06-05'),
+(DEFAULT, 56, 1700, true, '2020-07-03'),
+(DEFAULT, 56, 1700, true, '2020-08-05'),
+(DEFAULT, 56, 1700, true, '2020-09-04'),
+(DEFAULT, 56, 1700, true, '2020-10-05'),
+(DEFAULT, 56, 1700, true, '2020-11-05'),
+(DEFAULT, 56, 1700, true, '2020-12-04'),
+(DEFAULT, 56, 1700, true, '2021-01-05'),
+(DEFAULT, 56, 1700, true, '2021-02-05'),
+(DEFAULT, 56, 1700, true, '2021-03-05'),
+(DEFAULT, 56, 1700, true, '2021-04-05'),
+(DEFAULT, 56, 1700, true, '2021-05-05'),
+(DEFAULT, 56, 1700, true, '2021-06-04'),
+(DEFAULT, 57, 1700, true, '2021-02-05'),
+(DEFAULT, 57, 1700, true, '2021-03-05'),
+(DEFAULT, 57, 1700, true, '2021-04-05'),
+(DEFAULT, 57, 1700, true, '2021-05-05'),
+(DEFAULT, 57, 1700, true, '2021-06-04'),
+(DEFAULT, 58, 1700, true, '2019-10-04'),
+(DEFAULT, 58, 1700, true, '2019-11-05'),
+(DEFAULT, 58, 1700, true, '2019-12-05'),
+(DEFAULT, 58, 1700, true, '2020-01-03'),
+(DEFAULT, 58, 1700, true, '2020-02-05'),
+(DEFAULT, 58, 1700, true, '2020-03-05'),
+(DEFAULT, 58, 1700, true, '2020-04-03'),
+(DEFAULT, 58, 1700, true, '2020-05-05'),
+(DEFAULT, 58, 1700, true, '2020-06-05'),
+(DEFAULT, 58, 1700, true, '2020-07-03'),
+(DEFAULT, 58, 1700, true, '2020-08-05'),
+(DEFAULT, 58, 1700, true, '2020-09-04'),
+(DEFAULT, 58, 1700, true, '2020-10-05'),
+(DEFAULT, 58, 1700, true, '2020-11-05'),
+(DEFAULT, 58, 1700, true, '2020-12-04'),
+(DEFAULT, 58, 1700, true, '2021-01-05'),
+(DEFAULT, 58, 1700, true, '2021-02-05'),
+(DEFAULT, 58, 1700, true, '2021-03-05'),
+(DEFAULT, 58, 1700, true, '2021-04-05'),
+(DEFAULT, 58, 1700, true, '2021-05-05'),
+(DEFAULT, 58, 1700, true, '2021-06-04'),
+(DEFAULT, 59, 1800, true, '2020-05-05'),
+(DEFAULT, 59, 1800, true, '2020-06-05'),
+(DEFAULT, 59, 1800, true, '2020-07-03'),
+(DEFAULT, 59, 1800, true, '2020-08-05'),
+(DEFAULT, 59, 1800, true, '2020-09-04'),
+(DEFAULT, 59, 1800, true, '2020-10-05'),
+(DEFAULT, 59, 1800, true, '2020-11-05'),
+(DEFAULT, 59, 1800, true, '2020-12-04'),
+(DEFAULT, 59, 1800, true, '2021-01-05'),
+(DEFAULT, 59, 1800, true, '2021-02-05'),
+(DEFAULT, 59, 1800, true, '2021-03-05'),
+(DEFAULT, 59, 1800, true, '2021-04-05'),
+(DEFAULT, 59, 1800, true, '2021-05-05'),
+(DEFAULT, 59, 1800, true, '2021-06-04'),
+(DEFAULT, 60, 2000, true, '2021-02-05'),
+(DEFAULT, 60, 2000, true, '2021-03-05'),
+(DEFAULT, 60, 2000, true, '2021-04-05'),
+(DEFAULT, 60, 2000, true, '2021-05-05'),
+(DEFAULT, 60, 2000, true, '2021-06-04'),
+(DEFAULT, 61, 1700, true, '2020-05-05'),
+(DEFAULT, 61, 1700, true, '2020-06-05'),
+(DEFAULT, 61, 1700, true, '2020-07-03'),
+(DEFAULT, 61, 1700, true, '2020-08-05'),
+(DEFAULT, 61, 1700, true, '2020-09-04'),
+(DEFAULT, 61, 1700, true, '2020-10-05'),
+(DEFAULT, 61, 1700, true, '2020-11-05'),
+(DEFAULT, 61, 1700, true, '2020-12-04'),
+(DEFAULT, 61, 1700, true, '2021-01-05'),
+(DEFAULT, 61, 1700, true, '2021-02-05'),
+(DEFAULT, 61, 1700, true, '2021-03-05'),
+(DEFAULT, 61, 1700, true, '2021-04-05'),
+(DEFAULT, 61, 1700, true, '2021-05-05'),
+(DEFAULT, 61, 1700, true, '2021-06-04'),
+(DEFAULT, 62, 1700, true, '2021-05-05'),
+(DEFAULT, 62, 1700, true, '2021-06-04'),
+(DEFAULT, 63, 1700, true, '2020-04-03'),
+(DEFAULT, 63, 1700, true, '2020-05-05'),
+(DEFAULT, 63, 1700, true, '2020-06-05'),
+(DEFAULT, 63, 1700, true, '2020-07-03'),
+(DEFAULT, 63, 1700, true, '2020-08-05'),
+(DEFAULT, 63, 1700, true, '2020-09-04'),
+(DEFAULT, 63, 1700, true, '2020-10-05'),
+(DEFAULT, 63, 1700, true, '2020-11-05'),
+(DEFAULT, 63, 1700, true, '2020-12-04'),
+(DEFAULT, 63, 1700, true, '2021-01-05'),
+(DEFAULT, 63, 1700, true, '2021-02-05'),
+(DEFAULT, 63, 1700, true, '2021-03-05'),
+(DEFAULT, 63, 1700, true, '2021-04-05'),
+(DEFAULT, 63, 1700, true, '2021-05-05'),
+(DEFAULT, 63, 1700, true, '2021-06-04'),
+(DEFAULT, 64, 1800, true, '2019-12-05'),
+(DEFAULT, 64, 1800, true, '2020-01-03'),
+(DEFAULT, 64, 1800, true, '2020-02-05'),
+(DEFAULT, 64, 1800, true, '2020-03-05'),
+(DEFAULT, 64, 1800, true, '2020-04-03'),
+(DEFAULT, 64, 1800, true, '2020-05-05'),
+(DEFAULT, 64, 1800, true, '2020-06-05'),
+(DEFAULT, 64, 1800, true, '2020-07-03'),
+(DEFAULT, 64, 1800, true, '2020-08-05'),
+(DEFAULT, 64, 1800, true, '2020-09-04'),
+(DEFAULT, 64, 1800, true, '2020-10-05'),
+(DEFAULT, 64, 1800, true, '2020-11-05'),
+(DEFAULT, 64, 1800, true, '2020-12-04'),
+(DEFAULT, 64, 1800, true, '2021-01-05'),
+(DEFAULT, 64, 1800, true, '2021-02-05'),
+(DEFAULT, 64, 1800, true, '2021-03-05'),
+(DEFAULT, 64, 1800, true, '2021-04-05'),
+(DEFAULT, 64, 1800, true, '2021-05-05'),
+(DEFAULT, 64, 1800, true, '2021-06-04'),
+(DEFAULT, 65, 2000, true, '2020-05-05'),
+(DEFAULT, 65, 2000, true, '2020-06-05'),
+(DEFAULT, 65, 2000, true, '2020-07-03'),
+(DEFAULT, 65, 2000, true, '2020-08-05'),
+(DEFAULT, 65, 2000, true, '2020-09-04'),
+(DEFAULT, 65, 2000, true, '2020-10-05'),
+(DEFAULT, 65, 2000, true, '2020-11-05'),
+(DEFAULT, 65, 2000, true, '2020-12-04'),
+(DEFAULT, 65, 2000, true, '2021-01-05'),
+(DEFAULT, 65, 2000, true, '2021-02-05'),
+(DEFAULT, 65, 2000, true, '2021-03-05'),
+(DEFAULT, 65, 2000, true, '2021-04-05'),
+(DEFAULT, 65, 2000, true, '2021-05-05'),
+(DEFAULT, 65, 2000, true, '2021-06-04'),
+(DEFAULT, 66, 1700, true, '2021-03-05'),
+(DEFAULT, 66, 1700, true, '2021-04-05'),
+(DEFAULT, 66, 1700, true, '2021-05-05'),
+(DEFAULT, 66, 1700, true, '2021-06-04'),
+(DEFAULT, 67, 1700, true, '2021-01-05'),
+(DEFAULT, 67, 1700, true, '2021-02-05'),
+(DEFAULT, 67, 1700, true, '2021-03-05'),
+(DEFAULT, 67, 1700, true, '2021-04-05'),
+(DEFAULT, 67, 1700, true, '2021-05-05'),
+(DEFAULT, 67, 1700, true, '2021-06-04'),
+(DEFAULT, 68, 1700, true, '2020-04-03'),
+(DEFAULT, 68, 1700, true, '2020-05-05'),
+(DEFAULT, 68, 1700, true, '2020-06-05'),
+(DEFAULT, 68, 1700, true, '2020-07-03'),
+(DEFAULT, 68, 1700, true, '2020-08-05'),
+(DEFAULT, 68, 1700, true, '2020-09-04'),
+(DEFAULT, 68, 1700, true, '2020-10-05'),
+(DEFAULT, 68, 1700, true, '2020-11-05'),
+(DEFAULT, 68, 1700, true, '2020-12-04'),
+(DEFAULT, 68, 1700, true, '2021-01-05'),
+(DEFAULT, 68, 1700, true, '2021-02-05'),
+(DEFAULT, 68, 1700, true, '2021-03-05'),
+(DEFAULT, 68, 1700, true, '2021-04-05'),
+(DEFAULT, 68, 1700, true, '2021-05-05'),
+(DEFAULT, 68, 1700, true, '2021-06-04'),
+(DEFAULT, 69, 1800, true, '2020-10-05'),
+(DEFAULT, 69, 1800, true, '2020-11-05'),
+(DEFAULT, 69, 1800, true, '2020-12-04'),
+(DEFAULT, 69, 1800, true, '2021-01-05'),
+(DEFAULT, 69, 1800, true, '2021-02-05'),
+(DEFAULT, 69, 1800, true, '2021-03-05'),
+(DEFAULT, 69, 1800, true, '2021-04-05'),
+(DEFAULT, 69, 1800, true, '2021-05-05'),
+(DEFAULT, 69, 1800, true, '2021-06-04'),
+(DEFAULT, 70, 2000, true, '2019-11-05'),
+(DEFAULT, 70, 2000, true, '2019-12-05'),
+(DEFAULT, 70, 2000, true, '2020-01-03'),
+(DEFAULT, 70, 2000, true, '2020-02-05'),
+(DEFAULT, 70, 2000, true, '2020-03-05'),
+(DEFAULT, 70, 2000, true, '2020-04-03'),
+(DEFAULT, 70, 2000, true, '2020-05-05'),
+(DEFAULT, 70, 2000, true, '2020-06-05'),
+(DEFAULT, 70, 2000, true, '2020-07-03'),
+(DEFAULT, 70, 2000, true, '2020-08-05'),
+(DEFAULT, 70, 2000, true, '2020-09-04'),
+(DEFAULT, 70, 2000, true, '2020-10-05'),
+(DEFAULT, 70, 2000, true, '2020-11-05'),
+(DEFAULT, 70, 2000, true, '2020-12-04'),
+(DEFAULT, 70, 2000, true, '2021-01-05'),
+(DEFAULT, 70, 2000, true, '2021-02-05'),
+(DEFAULT, 70, 2000, true, '2021-03-05'),
+(DEFAULT, 70, 2000, true, '2021-04-05'),
+(DEFAULT, 70, 2000, true, '2021-05-05'),
+(DEFAULT, 70, 2000, true, '2021-06-04'),
+(DEFAULT, 71, 1700, true, '2021-06-04'),
+(DEFAULT, 72, 1700, true, '2019-11-05'),
+(DEFAULT, 72, 1700, true, '2019-12-05'),
+(DEFAULT, 72, 1700, true, '2020-01-03'),
+(DEFAULT, 72, 1700, true, '2020-02-05'),
+(DEFAULT, 72, 1700, true, '2020-03-05'),
+(DEFAULT, 72, 1700, true, '2020-04-03'),
+(DEFAULT, 72, 1700, true, '2020-05-05'),
+(DEFAULT, 72, 1700, true, '2020-06-05'),
+(DEFAULT, 72, 1700, true, '2020-07-03'),
+(DEFAULT, 72, 1700, true, '2020-08-05'),
+(DEFAULT, 72, 1700, true, '2020-09-04'),
+(DEFAULT, 72, 1700, true, '2020-10-05'),
+(DEFAULT, 72, 1700, true, '2020-11-05'),
+(DEFAULT, 72, 1700, true, '2020-12-04'),
+(DEFAULT, 72, 1700, true, '2021-01-05'),
+(DEFAULT, 72, 1700, true, '2021-02-05'),
+(DEFAULT, 72, 1700, true, '2021-03-05'),
+(DEFAULT, 72, 1700, true, '2021-04-05'),
+(DEFAULT, 72, 1700, true, '2021-05-05'),
+(DEFAULT, 72, 1700, true, '2021-06-04'),
+(DEFAULT, 73, 1700, true, '2020-11-05'),
+(DEFAULT, 73, 1700, true, '2020-12-04'),
+(DEFAULT, 73, 1700, true, '2021-01-05'),
+(DEFAULT, 73, 1700, true, '2021-02-05'),
+(DEFAULT, 73, 1700, true, '2021-03-05'),
+(DEFAULT, 73, 1700, true, '2021-04-05'),
+(DEFAULT, 73, 1700, true, '2021-05-05'),
+(DEFAULT, 73, 1700, true, '2021-06-04'),
+(DEFAULT, 74, 1800, true, '2020-02-05'),
+(DEFAULT, 74, 1800, true, '2020-03-05'),
+(DEFAULT, 74, 1800, true, '2020-04-03'),
+(DEFAULT, 74, 1800, true, '2020-05-05'),
+(DEFAULT, 74, 1800, true, '2020-06-05'),
+(DEFAULT, 74, 1800, true, '2020-07-03'),
+(DEFAULT, 74, 1800, true, '2020-08-05'),
+(DEFAULT, 74, 1800, true, '2020-09-04'),
+(DEFAULT, 74, 1800, true, '2020-10-05'),
+(DEFAULT, 74, 1800, true, '2020-11-05'),
+(DEFAULT, 74, 1800, true, '2020-12-04'),
+(DEFAULT, 74, 1800, true, '2021-01-05'),
+(DEFAULT, 74, 1800, true, '2021-02-05'),
+(DEFAULT, 74, 1800, true, '2021-03-05'),
+(DEFAULT, 74, 1800, true, '2021-04-05'),
+(DEFAULT, 74, 1800, true, '2021-05-05'),
+(DEFAULT, 74, 1800, true, '2021-06-04'),
+(DEFAULT, 75, 2000, true, '2019-10-04'),
+(DEFAULT, 75, 2000, true, '2019-11-05'),
+(DEFAULT, 75, 2000, true, '2019-12-05'),
+(DEFAULT, 75, 2000, true, '2020-01-03'),
+(DEFAULT, 75, 2000, true, '2020-02-05'),
+(DEFAULT, 75, 2000, true, '2020-03-05'),
+(DEFAULT, 75, 2000, true, '2020-04-03'),
+(DEFAULT, 75, 2000, true, '2020-05-05'),
+(DEFAULT, 75, 2000, true, '2020-06-05'),
+(DEFAULT, 75, 2000, true, '2020-07-03'),
+(DEFAULT, 75, 2000, true, '2020-08-05'),
+(DEFAULT, 75, 2000, true, '2020-09-04'),
+(DEFAULT, 75, 2000, true, '2020-10-05'),
+(DEFAULT, 75, 2000, true, '2020-11-05'),
+(DEFAULT, 75, 2000, true, '2020-12-04'),
+(DEFAULT, 75, 2000, true, '2021-01-05'),
+(DEFAULT, 75, 2000, true, '2021-02-05'),
+(DEFAULT, 75, 2000, true, '2021-03-05'),
+(DEFAULT, 75, 2000, true, '2021-04-05'),
+(DEFAULT, 75, 2000, true, '2021-05-05'),
+(DEFAULT, 75, 2000, true, '2021-06-04'),
+(DEFAULT, 76, 1700, true, '2020-09-04'),
+(DEFAULT, 76, 1700, true, '2020-10-05'),
+(DEFAULT, 76, 1700, true, '2020-11-05'),
+(DEFAULT, 76, 1700, true, '2020-12-04'),
+(DEFAULT, 76, 1700, true, '2021-01-05'),
+(DEFAULT, 76, 1700, true, '2021-02-05'),
+(DEFAULT, 76, 1700, true, '2021-03-05'),
+(DEFAULT, 76, 1700, true, '2021-04-05'),
+(DEFAULT, 76, 1700, true, '2021-05-05'),
+(DEFAULT, 76, 1700, true, '2021-06-04'),
+(DEFAULT, 77, 1700, true, '2019-11-05'),
+(DEFAULT, 77, 1700, true, '2019-12-05'),
+(DEFAULT, 77, 1700, true, '2020-01-03'),
+(DEFAULT, 77, 1700, true, '2020-02-05'),
+(DEFAULT, 77, 1700, true, '2020-03-05'),
+(DEFAULT, 77, 1700, true, '2020-04-03'),
+(DEFAULT, 77, 1700, true, '2020-05-05'),
+(DEFAULT, 77, 1700, true, '2020-06-05'),
+(DEFAULT, 77, 1700, true, '2020-07-03'),
+(DEFAULT, 77, 1700, true, '2020-08-05'),
+(DEFAULT, 77, 1700, true, '2020-09-04'),
+(DEFAULT, 77, 1700, true, '2020-10-05'),
+(DEFAULT, 77, 1700, true, '2020-11-05'),
+(DEFAULT, 77, 1700, true, '2020-12-04'),
+(DEFAULT, 77, 1700, true, '2021-01-05'),
+(DEFAULT, 77, 1700, true, '2021-02-05'),
+(DEFAULT, 77, 1700, true, '2021-03-05'),
+(DEFAULT, 77, 1700, true, '2021-04-05'),
+(DEFAULT, 77, 1700, true, '2021-05-05'),
+(DEFAULT, 77, 1700, true, '2021-06-04'),
+(DEFAULT, 78, 1700, true, '2020-08-05'),
+(DEFAULT, 78, 1700, true, '2020-09-04'),
+(DEFAULT, 78, 1700, true, '2020-10-05'),
+(DEFAULT, 78, 1700, true, '2020-11-05'),
+(DEFAULT, 78, 1700, true, '2020-12-04'),
+(DEFAULT, 78, 1700, true, '2021-01-05'),
+(DEFAULT, 78, 1700, true, '2021-02-05'),
+(DEFAULT, 78, 1700, true, '2021-03-05'),
+(DEFAULT, 78, 1700, true, '2021-04-05'),
+(DEFAULT, 78, 1700, true, '2021-05-05'),
+(DEFAULT, 78, 1700, true, '2021-06-04'),
+(DEFAULT, 79, 1800, true, '2019-10-04'),
+(DEFAULT, 79, 1800, true, '2019-11-05'),
+(DEFAULT, 79, 1800, true, '2019-12-05'),
+(DEFAULT, 79, 1800, true, '2020-01-03'),
+(DEFAULT, 79, 1800, true, '2020-02-05'),
+(DEFAULT, 79, 1800, true, '2020-03-05'),
+(DEFAULT, 79, 1800, true, '2020-04-03'),
+(DEFAULT, 79, 1800, true, '2020-05-05'),
+(DEFAULT, 79, 1800, true, '2020-06-05'),
+(DEFAULT, 79, 1800, true, '2020-07-03'),
+(DEFAULT, 79, 1800, true, '2020-08-05'),
+(DEFAULT, 79, 1800, true, '2020-09-04'),
+(DEFAULT, 79, 1800, true, '2020-10-05'),
+(DEFAULT, 79, 1800, true, '2020-11-05'),
+(DEFAULT, 79, 1800, true, '2020-12-04'),
+(DEFAULT, 79, 1800, true, '2021-01-05'),
+(DEFAULT, 79, 1800, true, '2021-02-05'),
+(DEFAULT, 79, 1800, true, '2021-03-05'),
+(DEFAULT, 79, 1800, true, '2021-04-05'),
+(DEFAULT, 79, 1800, true, '2021-05-05'),
+(DEFAULT, 79, 1800, true, '2021-06-04'),
+(DEFAULT, 80, 2000, true, '2020-01-03'),
+(DEFAULT, 80, 2000, true, '2020-02-05'),
+(DEFAULT, 80, 2000, true, '2020-03-05'),
+(DEFAULT, 80, 2000, true, '2020-04-03'),
+(DEFAULT, 80, 2000, true, '2020-05-05'),
+(DEFAULT, 80, 2000, true, '2020-06-05'),
+(DEFAULT, 80, 2000, true, '2020-07-03'),
+(DEFAULT, 80, 2000, true, '2020-08-05'),
+(DEFAULT, 80, 2000, true, '2020-09-04'),
+(DEFAULT, 80, 2000, true, '2020-10-05'),
+(DEFAULT, 80, 2000, true, '2020-11-05'),
+(DEFAULT, 80, 2000, true, '2020-12-04'),
+(DEFAULT, 80, 2000, true, '2021-01-05'),
+(DEFAULT, 80, 2000, true, '2021-02-05'),
+(DEFAULT, 80, 2000, true, '2021-03-05'),
+(DEFAULT, 80, 2000, true, '2021-04-05'),
+(DEFAULT, 80, 2000, true, '2021-05-05'),
+(DEFAULT, 80, 2000, true, '2021-06-04'),
+(DEFAULT, 81, 1700, true, '2021-01-05'),
+(DEFAULT, 81, 1700, true, '2021-02-05'),
+(DEFAULT, 81, 1700, true, '2021-03-05'),
+(DEFAULT, 81, 1700, true, '2021-04-05'),
+(DEFAULT, 81, 1700, true, '2021-05-05'),
+(DEFAULT, 81, 1700, true, '2021-06-04'),
+(DEFAULT, 82, 1700, true, '2020-02-05'),
+(DEFAULT, 82, 1700, true, '2020-03-05'),
+(DEFAULT, 82, 1700, true, '2020-04-03'),
+(DEFAULT, 82, 1700, true, '2020-05-05'),
+(DEFAULT, 82, 1700, true, '2020-06-05'),
+(DEFAULT, 82, 1700, true, '2020-07-03'),
+(DEFAULT, 82, 1700, true, '2020-08-05'),
+(DEFAULT, 82, 1700, true, '2020-09-04'),
+(DEFAULT, 82, 1700, true, '2020-10-05'),
+(DEFAULT, 82, 1700, true, '2020-11-05'),
+(DEFAULT, 82, 1700, true, '2020-12-04'),
+(DEFAULT, 82, 1700, true, '2021-01-05'),
+(DEFAULT, 82, 1700, true, '2021-02-05'),
+(DEFAULT, 82, 1700, true, '2021-03-05'),
+(DEFAULT, 82, 1700, true, '2021-04-05'),
+(DEFAULT, 82, 1700, true, '2021-05-05'),
+(DEFAULT, 82, 1700, true, '2021-06-04'),
+(DEFAULT, 84, 1800, true, '2020-07-03'),
+(DEFAULT, 84, 1800, true, '2020-08-05'),
+(DEFAULT, 84, 1800, true, '2020-09-04'),
+(DEFAULT, 84, 1800, true, '2020-10-05'),
+(DEFAULT, 84, 1800, true, '2020-11-05'),
+(DEFAULT, 84, 1800, true, '2020-12-04'),
+(DEFAULT, 84, 1800, true, '2021-01-05'),
+(DEFAULT, 84, 1800, true, '2021-02-05'),
+(DEFAULT, 84, 1800, true, '2021-03-05'),
+(DEFAULT, 84, 1800, true, '2021-04-05'),
+(DEFAULT, 84, 1800, true, '2021-05-05'),
+(DEFAULT, 84, 1800, true, '2021-06-04'),
+(DEFAULT, 85, 2000, true, '2020-08-05'),
+(DEFAULT, 85, 2000, true, '2020-09-04'),
+(DEFAULT, 85, 2000, true, '2020-10-05'),
+(DEFAULT, 85, 2000, true, '2020-11-05'),
+(DEFAULT, 85, 2000, true, '2020-12-04'),
+(DEFAULT, 85, 2000, true, '2021-01-05'),
+(DEFAULT, 85, 2000, true, '2021-02-05'),
+(DEFAULT, 85, 2000, true, '2021-03-05'),
+(DEFAULT, 85, 2000, true, '2021-04-05'),
+(DEFAULT, 85, 2000, true, '2021-05-05'),
+(DEFAULT, 85, 2000, true, '2021-06-04'),
+(DEFAULT, 86, 1700, true, '2021-02-05'),
+(DEFAULT, 86, 1700, true, '2021-03-05'),
+(DEFAULT, 86, 1700, true, '2021-04-05'),
+(DEFAULT, 86, 1700, true, '2021-05-05'),
+(DEFAULT, 86, 1700, true, '2021-06-04'),
+(DEFAULT, 87, 1700, true, '2021-02-05'),
+(DEFAULT, 87, 1700, true, '2021-03-05'),
+(DEFAULT, 87, 1700, true, '2021-04-05'),
+(DEFAULT, 87, 1700, true, '2021-05-05'),
+(DEFAULT, 87, 1700, true, '2021-06-04'),
+(DEFAULT, 88, 1700, true, '2020-06-05'),
+(DEFAULT, 88, 1700, true, '2020-07-03'),
+(DEFAULT, 88, 1700, true, '2020-08-05'),
+(DEFAULT, 88, 1700, true, '2020-09-04'),
+(DEFAULT, 88, 1700, true, '2020-10-05'),
+(DEFAULT, 88, 1700, true, '2020-11-05'),
+(DEFAULT, 88, 1700, true, '2020-12-04'),
+(DEFAULT, 88, 1700, true, '2021-01-05'),
+(DEFAULT, 88, 1700, true, '2021-02-05'),
+(DEFAULT, 88, 1700, true, '2021-03-05'),
+(DEFAULT, 88, 1700, true, '2021-04-05'),
+(DEFAULT, 88, 1700, true, '2021-05-05'),
+(DEFAULT, 88, 1700, true, '2021-06-04'),
+(DEFAULT, 89, 1800, true, '2020-09-04'),
+(DEFAULT, 89, 1800, true, '2020-10-05'),
+(DEFAULT, 89, 1800, true, '2020-11-05'),
+(DEFAULT, 89, 1800, true, '2020-12-04'),
+(DEFAULT, 89, 1800, true, '2021-01-05'),
+(DEFAULT, 89, 1800, true, '2021-02-05'),
+(DEFAULT, 89, 1800, true, '2021-03-05'),
+(DEFAULT, 89, 1800, true, '2021-04-05'),
+(DEFAULT, 89, 1800, true, '2021-05-05'),
+(DEFAULT, 89, 1800, true, '2021-06-04'),
+(DEFAULT, 90, 2000, true, '2020-01-03'),
+(DEFAULT, 90, 2000, true, '2020-02-05'),
+(DEFAULT, 90, 2000, true, '2020-03-05'),
+(DEFAULT, 90, 2000, true, '2020-04-03'),
+(DEFAULT, 90, 2000, true, '2020-05-05'),
+(DEFAULT, 90, 2000, true, '2020-06-05'),
+(DEFAULT, 90, 2000, true, '2020-07-03'),
+(DEFAULT, 90, 2000, true, '2020-08-05'),
+(DEFAULT, 90, 2000, true, '2020-09-04'),
+(DEFAULT, 90, 2000, true, '2020-10-05'),
+(DEFAULT, 90, 2000, true, '2020-11-05'),
+(DEFAULT, 90, 2000, true, '2020-12-04'),
+(DEFAULT, 90, 2000, true, '2021-01-05'),
+(DEFAULT, 90, 2000, true, '2021-02-05'),
+(DEFAULT, 90, 2000, true, '2021-03-05'),
+(DEFAULT, 90, 2000, true, '2021-04-05'),
+(DEFAULT, 90, 2000, true, '2021-05-05'),
+(DEFAULT, 90, 2000, true, '2021-06-04'),
+(DEFAULT, 91, 1700, true, '2019-09-05'),
+(DEFAULT, 91, 1700, true, '2019-10-04'),
+(DEFAULT, 91, 1700, true, '2019-11-05'),
+(DEFAULT, 91, 1700, true, '2019-12-05'),
+(DEFAULT, 91, 1700, true, '2020-01-03'),
+(DEFAULT, 91, 1700, true, '2020-02-05'),
+(DEFAULT, 91, 1700, true, '2020-03-05'),
+(DEFAULT, 91, 1700, true, '2020-04-03'),
+(DEFAULT, 91, 1700, true, '2020-05-05'),
+(DEFAULT, 91, 1700, true, '2020-06-05'),
+(DEFAULT, 91, 1700, true, '2020-07-03'),
+(DEFAULT, 91, 1700, true, '2020-08-05'),
+(DEFAULT, 91, 1700, true, '2020-09-04'),
+(DEFAULT, 91, 1700, true, '2020-10-05'),
+(DEFAULT, 91, 1700, true, '2020-11-05'),
+(DEFAULT, 91, 1700, true, '2020-12-04'),
+(DEFAULT, 91, 1700, true, '2021-01-05'),
+(DEFAULT, 91, 1700, true, '2021-02-05'),
+(DEFAULT, 91, 1700, true, '2021-03-05'),
+(DEFAULT, 91, 1700, true, '2021-04-05'),
+(DEFAULT, 91, 1700, true, '2021-05-05'),
+(DEFAULT, 91, 1700, true, '2021-06-04'),
+(DEFAULT, 92, 1700, true, '2020-01-03'),
+(DEFAULT, 92, 1700, true, '2020-02-05'),
+(DEFAULT, 92, 1700, true, '2020-03-05'),
+(DEFAULT, 92, 1700, true, '2020-04-03'),
+(DEFAULT, 92, 1700, true, '2020-05-05'),
+(DEFAULT, 92, 1700, true, '2020-06-05'),
+(DEFAULT, 92, 1700, true, '2020-07-03'),
+(DEFAULT, 92, 1700, true, '2020-08-05'),
+(DEFAULT, 92, 1700, true, '2020-09-04'),
+(DEFAULT, 92, 1700, true, '2020-10-05'),
+(DEFAULT, 92, 1700, true, '2020-11-05'),
+(DEFAULT, 92, 1700, true, '2020-12-04'),
+(DEFAULT, 92, 1700, true, '2021-01-05'),
+(DEFAULT, 92, 1700, true, '2021-02-05'),
+(DEFAULT, 92, 1700, true, '2021-03-05'),
+(DEFAULT, 92, 1700, true, '2021-04-05'),
+(DEFAULT, 92, 1700, true, '2021-05-05'),
+(DEFAULT, 92, 1700, true, '2021-06-04'),
+(DEFAULT, 93, 1700, true, '2020-07-03'),
+(DEFAULT, 93, 1700, true, '2020-08-05'),
+(DEFAULT, 93, 1700, true, '2020-09-04'),
+(DEFAULT, 93, 1700, true, '2020-10-05'),
+(DEFAULT, 93, 1700, true, '2020-11-05'),
+(DEFAULT, 93, 1700, true, '2020-12-04'),
+(DEFAULT, 93, 1700, true, '2021-01-05'),
+(DEFAULT, 93, 1700, true, '2021-02-05'),
+(DEFAULT, 93, 1700, true, '2021-03-05'),
+(DEFAULT, 93, 1700, true, '2021-04-05'),
+(DEFAULT, 93, 1700, true, '2021-05-05'),
+(DEFAULT, 93, 1700, true, '2021-06-04'),
+(DEFAULT, 94, 1800, true, '2021-05-05'),
+(DEFAULT, 94, 1800, true, '2021-06-04'),
+(DEFAULT, 95, 2000, true, '2021-02-05'),
+(DEFAULT, 95, 2000, true, '2021-03-05'),
+(DEFAULT, 95, 2000, true, '2021-04-05'),
+(DEFAULT, 95, 2000, true, '2021-05-05'),
+(DEFAULT, 95, 2000, true, '2021-06-04'),
+(DEFAULT, 96, 1700, true, '2019-10-04'),
+(DEFAULT, 96, 1700, true, '2019-11-05'),
+(DEFAULT, 96, 1700, true, '2019-12-05'),
+(DEFAULT, 96, 1700, true, '2020-01-03'),
+(DEFAULT, 96, 1700, true, '2020-02-05'),
+(DEFAULT, 96, 1700, true, '2020-03-05'),
+(DEFAULT, 96, 1700, true, '2020-04-03'),
+(DEFAULT, 96, 1700, true, '2020-05-05'),
+(DEFAULT, 96, 1700, true, '2020-06-05'),
+(DEFAULT, 96, 1700, true, '2020-07-03'),
+(DEFAULT, 96, 1700, true, '2020-08-05'),
+(DEFAULT, 96, 1700, true, '2020-09-04'),
+(DEFAULT, 96, 1700, true, '2020-10-05'),
+(DEFAULT, 96, 1700, true, '2020-11-05'),
+(DEFAULT, 96, 1700, true, '2020-12-04'),
+(DEFAULT, 96, 1700, true, '2021-01-05'),
+(DEFAULT, 96, 1700, true, '2021-02-05'),
+(DEFAULT, 96, 1700, true, '2021-03-05'),
+(DEFAULT, 96, 1700, true, '2021-04-05'),
+(DEFAULT, 96, 1700, true, '2021-05-05'),
+(DEFAULT, 96, 1700, true, '2021-06-04'),
+(DEFAULT, 97, 1700, true, '2020-08-05'),
+(DEFAULT, 97, 1700, true, '2020-09-04'),
+(DEFAULT, 97, 1700, true, '2020-10-05'),
+(DEFAULT, 97, 1700, true, '2020-11-05'),
+(DEFAULT, 97, 1700, true, '2020-12-04'),
+(DEFAULT, 97, 1700, true, '2021-01-05'),
+(DEFAULT, 97, 1700, true, '2021-02-05'),
+(DEFAULT, 97, 1700, true, '2021-03-05'),
+(DEFAULT, 97, 1700, true, '2021-04-05'),
+(DEFAULT, 97, 1700, true, '2021-05-05'),
+(DEFAULT, 97, 1700, true, '2021-06-04'),
+(DEFAULT, 98, 1700, true, '2021-01-05'),
+(DEFAULT, 98, 1700, true, '2021-02-05'),
+(DEFAULT, 98, 1700, true, '2021-03-05'),
+(DEFAULT, 98, 1700, true, '2021-04-05'),
+(DEFAULT, 98, 1700, true, '2021-05-05'),
+(DEFAULT, 98, 1700, true, '2021-06-04'),
+(DEFAULT, 99, 1800, true, '2021-01-05'),
+(DEFAULT, 99, 1800, true, '2021-02-05'),
+(DEFAULT, 99, 1800, true, '2021-03-05'),
+(DEFAULT, 99, 1800, true, '2021-04-05'),
+(DEFAULT, 99, 1800, true, '2021-05-05'),
+(DEFAULT, 99, 1800, true, '2021-06-04'),
+(DEFAULT, 100, 2000, true, '2020-08-05'),
+(DEFAULT, 100, 2000, true, '2020-09-04'),
+(DEFAULT, 100, 2000, true, '2020-10-05'),
+(DEFAULT, 100, 2000, true, '2020-11-05'),
+(DEFAULT, 100, 2000, true, '2020-12-04'),
+(DEFAULT, 100, 2000, true, '2021-01-05'),
+(DEFAULT, 100, 2000, true, '2021-02-05'),
+(DEFAULT, 100, 2000, true, '2021-03-05'),
+(DEFAULT, 100, 2000, true, '2021-04-05'),
+(DEFAULT, 100, 2000, true, '2021-05-05'),
+(DEFAULT, 100, 2000, true, '2021-06-04'),
+(DEFAULT, 101, 1700, true, '2021-05-05'),
+(DEFAULT, 101, 1700, true, '2021-06-04'),
+(DEFAULT, 102, 1700, true, '2020-04-03'),
+(DEFAULT, 102, 1700, true, '2020-05-05'),
+(DEFAULT, 102, 1700, true, '2020-06-05'),
+(DEFAULT, 102, 1700, true, '2020-07-03'),
+(DEFAULT, 102, 1700, true, '2020-08-05'),
+(DEFAULT, 102, 1700, true, '2020-09-04'),
+(DEFAULT, 102, 1700, true, '2020-10-05'),
+(DEFAULT, 102, 1700, true, '2020-11-05'),
+(DEFAULT, 102, 1700, true, '2020-12-04'),
+(DEFAULT, 102, 1700, true, '2021-01-05'),
+(DEFAULT, 102, 1700, true, '2021-02-05'),
+(DEFAULT, 102, 1700, true, '2021-03-05'),
+(DEFAULT, 102, 1700, true, '2021-04-05'),
+(DEFAULT, 102, 1700, true, '2021-05-05'),
+(DEFAULT, 102, 1700, true, '2021-06-04'),
+(DEFAULT, 103, 1700, true, '2019-12-05'),
+(DEFAULT, 103, 1700, true, '2020-01-03'),
+(DEFAULT, 103, 1700, true, '2020-02-05'),
+(DEFAULT, 103, 1700, true, '2020-03-05'),
+(DEFAULT, 103, 1700, true, '2020-04-03'),
+(DEFAULT, 103, 1700, true, '2020-05-05'),
+(DEFAULT, 103, 1700, true, '2020-06-05'),
+(DEFAULT, 103, 1700, true, '2020-07-03'),
+(DEFAULT, 103, 1700, true, '2020-08-05'),
+(DEFAULT, 103, 1700, true, '2020-09-04'),
+(DEFAULT, 103, 1700, true, '2020-10-05'),
+(DEFAULT, 103, 1700, true, '2020-11-05'),
+(DEFAULT, 103, 1700, true, '2020-12-04'),
+(DEFAULT, 103, 1700, true, '2021-01-05'),
+(DEFAULT, 103, 1700, true, '2021-02-05'),
+(DEFAULT, 103, 1700, true, '2021-03-05'),
+(DEFAULT, 103, 1700, true, '2021-04-05'),
+(DEFAULT, 103, 1700, true, '2021-05-05'),
+(DEFAULT, 103, 1700, true, '2021-06-04'),
+(DEFAULT, 104, 1800, true, '2020-05-05'),
+(DEFAULT, 104, 1800, true, '2020-06-05'),
+(DEFAULT, 104, 1800, true, '2020-07-03'),
+(DEFAULT, 104, 1800, true, '2020-08-05'),
+(DEFAULT, 104, 1800, true, '2020-09-04'),
+(DEFAULT, 104, 1800, true, '2020-10-05'),
+(DEFAULT, 104, 1800, true, '2020-11-05'),
+(DEFAULT, 104, 1800, true, '2020-12-04'),
+(DEFAULT, 104, 1800, true, '2021-01-05'),
+(DEFAULT, 104, 1800, true, '2021-02-05'),
+(DEFAULT, 104, 1800, true, '2021-03-05'),
+(DEFAULT, 104, 1800, true, '2021-04-05'),
+(DEFAULT, 104, 1800, true, '2021-05-05'),
+(DEFAULT, 104, 1800, true, '2021-06-04'),
+(DEFAULT, 105, 2000, true, '2021-03-05'),
+(DEFAULT, 105, 2000, true, '2021-04-05'),
+(DEFAULT, 105, 2000, true, '2021-05-05'),
+(DEFAULT, 105, 2000, true, '2021-06-04'),
+(DEFAULT, 106, 1700, true, '2021-01-05'),
+(DEFAULT, 106, 1700, true, '2021-02-05'),
+(DEFAULT, 106, 1700, true, '2021-03-05'),
+(DEFAULT, 106, 1700, true, '2021-04-05'),
+(DEFAULT, 106, 1700, true, '2021-05-05'),
+(DEFAULT, 106, 1700, true, '2021-06-04'),
+(DEFAULT, 107, 1700, true, '2020-04-03'),
+(DEFAULT, 107, 1700, true, '2020-05-05'),
+(DEFAULT, 107, 1700, true, '2020-06-05'),
+(DEFAULT, 107, 1700, true, '2020-07-03'),
+(DEFAULT, 107, 1700, true, '2020-08-05'),
+(DEFAULT, 107, 1700, true, '2020-09-04'),
+(DEFAULT, 107, 1700, true, '2020-10-05'),
+(DEFAULT, 107, 1700, true, '2020-11-05'),
+(DEFAULT, 107, 1700, true, '2020-12-04'),
+(DEFAULT, 107, 1700, true, '2021-01-05'),
+(DEFAULT, 107, 1700, true, '2021-02-05'),
+(DEFAULT, 107, 1700, true, '2021-03-05'),
+(DEFAULT, 107, 1700, true, '2021-04-05'),
+(DEFAULT, 107, 1700, true, '2021-05-05'),
+(DEFAULT, 107, 1700, true, '2021-06-04'),
+(DEFAULT, 108, 1700, true, '2020-10-05'),
+(DEFAULT, 108, 1700, true, '2020-11-05'),
+(DEFAULT, 108, 1700, true, '2020-12-04'),
+(DEFAULT, 108, 1700, true, '2021-01-05'),
+(DEFAULT, 108, 1700, true, '2021-02-05'),
+(DEFAULT, 108, 1700, true, '2021-03-05'),
+(DEFAULT, 108, 1700, true, '2021-04-05'),
+(DEFAULT, 108, 1700, true, '2021-05-05'),
+(DEFAULT, 108, 1700, true, '2021-06-04'),
+(DEFAULT, 109, 1800, true, '2019-11-05'),
+(DEFAULT, 109, 1800, true, '2019-12-05'),
+(DEFAULT, 109, 1800, true, '2020-01-03'),
+(DEFAULT, 109, 1800, true, '2020-02-05'),
+(DEFAULT, 109, 1800, true, '2020-03-05'),
+(DEFAULT, 109, 1800, true, '2020-04-03'),
+(DEFAULT, 109, 1800, true, '2020-05-05'),
+(DEFAULT, 109, 1800, true, '2020-06-05'),
+(DEFAULT, 109, 1800, true, '2020-07-03'),
+(DEFAULT, 109, 1800, true, '2020-08-05'),
+(DEFAULT, 109, 1800, true, '2020-09-04'),
+(DEFAULT, 109, 1800, true, '2020-10-05'),
+(DEFAULT, 109, 1800, true, '2020-11-05'),
+(DEFAULT, 109, 1800, true, '2020-12-04'),
+(DEFAULT, 109, 1800, true, '2021-01-05'),
+(DEFAULT, 109, 1800, true, '2021-02-05'),
+(DEFAULT, 109, 1800, true, '2021-03-05'),
+(DEFAULT, 109, 1800, true, '2021-04-05'),
+(DEFAULT, 109, 1800, true, '2021-05-05'),
+(DEFAULT, 109, 1800, true, '2021-06-04'),
+(DEFAULT, 110, 2000, true, '2021-06-04'),
+(DEFAULT, 111, 1700, true, '2019-11-05'),
+(DEFAULT, 111, 1700, true, '2019-12-05'),
+(DEFAULT, 111, 1700, true, '2020-01-03'),
+(DEFAULT, 111, 1700, true, '2020-02-05'),
+(DEFAULT, 111, 1700, true, '2020-03-05'),
+(DEFAULT, 111, 1700, true, '2020-04-03'),
+(DEFAULT, 111, 1700, true, '2020-05-05'),
+(DEFAULT, 111, 1700, true, '2020-06-05'),
+(DEFAULT, 111, 1700, true, '2020-07-03'),
+(DEFAULT, 111, 1700, true, '2020-08-05'),
+(DEFAULT, 111, 1700, true, '2020-09-04'),
+(DEFAULT, 111, 1700, true, '2020-10-05'),
+(DEFAULT, 111, 1700, true, '2020-11-05'),
+(DEFAULT, 111, 1700, true, '2020-12-04'),
+(DEFAULT, 111, 1700, true, '2021-01-05'),
+(DEFAULT, 111, 1700, true, '2021-02-05'),
+(DEFAULT, 111, 1700, true, '2021-03-05'),
+(DEFAULT, 111, 1700, true, '2021-04-05'),
+(DEFAULT, 111, 1700, true, '2021-05-05'),
+(DEFAULT, 111, 1700, true, '2021-06-04'),
+(DEFAULT, 112, 1700, true, '2020-11-05'),
+(DEFAULT, 112, 1700, true, '2020-12-04'),
+(DEFAULT, 112, 1700, true, '2021-01-05'),
+(DEFAULT, 112, 1700, true, '2021-02-05'),
+(DEFAULT, 112, 1700, true, '2021-03-05'),
+(DEFAULT, 112, 1700, true, '2021-04-05'),
+(DEFAULT, 112, 1700, true, '2021-05-05'),
+(DEFAULT, 112, 1700, true, '2021-06-04'),
+(DEFAULT, 113, 1700, true, '2020-02-05'),
+(DEFAULT, 113, 1700, true, '2020-03-05'),
+(DEFAULT, 113, 1700, true, '2020-04-03'),
+(DEFAULT, 113, 1700, true, '2020-05-05'),
+(DEFAULT, 113, 1700, true, '2020-06-05'),
+(DEFAULT, 113, 1700, true, '2020-07-03'),
+(DEFAULT, 113, 1700, true, '2020-08-05'),
+(DEFAULT, 113, 1700, true, '2020-09-04'),
+(DEFAULT, 113, 1700, true, '2020-10-05'),
+(DEFAULT, 113, 1700, true, '2020-11-05'),
+(DEFAULT, 113, 1700, true, '2020-12-04'),
+(DEFAULT, 113, 1700, true, '2021-01-05'),
+(DEFAULT, 113, 1700, true, '2021-02-05'),
+(DEFAULT, 113, 1700, true, '2021-03-05'),
+(DEFAULT, 113, 1700, true, '2021-04-05'),
+(DEFAULT, 113, 1700, true, '2021-05-05'),
+(DEFAULT, 113, 1700, true, '2021-06-04'),
+(DEFAULT, 114, 1800, true, '2019-10-04'),
+(DEFAULT, 114, 1800, true, '2019-11-05'),
+(DEFAULT, 114, 1800, true, '2019-12-05'),
+(DEFAULT, 114, 1800, true, '2020-01-03'),
+(DEFAULT, 114, 1800, true, '2020-02-05'),
+(DEFAULT, 114, 1800, true, '2020-03-05'),
+(DEFAULT, 114, 1800, true, '2020-04-03'),
+(DEFAULT, 114, 1800, true, '2020-05-05'),
+(DEFAULT, 114, 1800, true, '2020-06-05'),
+(DEFAULT, 114, 1800, true, '2020-07-03'),
+(DEFAULT, 114, 1800, true, '2020-08-05'),
+(DEFAULT, 114, 1800, true, '2020-09-04'),
+(DEFAULT, 114, 1800, true, '2020-10-05'),
+(DEFAULT, 114, 1800, true, '2020-11-05'),
+(DEFAULT, 114, 1800, true, '2020-12-04'),
+(DEFAULT, 114, 1800, true, '2021-01-05'),
+(DEFAULT, 114, 1800, true, '2021-02-05'),
+(DEFAULT, 114, 1800, true, '2021-03-05'),
+(DEFAULT, 114, 1800, true, '2021-04-05'),
+(DEFAULT, 114, 1800, true, '2021-05-05'),
+(DEFAULT, 114, 1800, true, '2021-06-04'),
+(DEFAULT, 115, 2000, true, '2020-09-04'),
+(DEFAULT, 115, 2000, true, '2020-10-05'),
+(DEFAULT, 115, 2000, true, '2020-11-05'),
+(DEFAULT, 115, 2000, true, '2020-12-04'),
+(DEFAULT, 115, 2000, true, '2021-01-05'),
+(DEFAULT, 115, 2000, true, '2021-02-05'),
+(DEFAULT, 115, 2000, true, '2021-03-05'),
+(DEFAULT, 115, 2000, true, '2021-04-05'),
+(DEFAULT, 115, 2000, true, '2021-05-05'),
+(DEFAULT, 115, 2000, true, '2021-06-04'),
+(DEFAULT, 116, 1700, true, '2019-11-05'),
+(DEFAULT, 116, 1700, true, '2019-12-05'),
+(DEFAULT, 116, 1700, true, '2020-01-03'),
+(DEFAULT, 116, 1700, true, '2020-02-05'),
+(DEFAULT, 116, 1700, true, '2020-03-05'),
+(DEFAULT, 116, 1700, true, '2020-04-03'),
+(DEFAULT, 116, 1700, true, '2020-05-05'),
+(DEFAULT, 116, 1700, true, '2020-06-05'),
+(DEFAULT, 116, 1700, true, '2020-07-03'),
+(DEFAULT, 116, 1700, true, '2020-08-05'),
+(DEFAULT, 116, 1700, true, '2020-09-04'),
+(DEFAULT, 116, 1700, true, '2020-10-05'),
+(DEFAULT, 116, 1700, true, '2020-11-05'),
+(DEFAULT, 116, 1700, true, '2020-12-04'),
+(DEFAULT, 116, 1700, true, '2021-01-05'),
+(DEFAULT, 116, 1700, true, '2021-02-05'),
+(DEFAULT, 116, 1700, true, '2021-03-05'),
+(DEFAULT, 116, 1700, true, '2021-04-05'),
+(DEFAULT, 116, 1700, true, '2021-05-05'),
+(DEFAULT, 116, 1700, true, '2021-06-04'),
+(DEFAULT, 117, 1700, true, '2020-08-05'),
+(DEFAULT, 117, 1700, true, '2020-09-04'),
+(DEFAULT, 117, 1700, true, '2020-10-05'),
+(DEFAULT, 117, 1700, true, '2020-11-05'),
+(DEFAULT, 117, 1700, true, '2020-12-04'),
+(DEFAULT, 117, 1700, true, '2021-01-05'),
+(DEFAULT, 117, 1700, true, '2021-02-05'),
+(DEFAULT, 117, 1700, true, '2021-03-05'),
+(DEFAULT, 117, 1700, true, '2021-04-05'),
+(DEFAULT, 117, 1700, true, '2021-05-05'),
+(DEFAULT, 117, 1700, true, '2021-06-04'),
+(DEFAULT, 118, 1700, true, '2019-10-04'),
+(DEFAULT, 118, 1700, true, '2019-11-05'),
+(DEFAULT, 118, 1700, true, '2019-12-05'),
+(DEFAULT, 118, 1700, true, '2020-01-03'),
+(DEFAULT, 118, 1700, true, '2020-02-05'),
+(DEFAULT, 118, 1700, true, '2020-03-05'),
+(DEFAULT, 118, 1700, true, '2020-04-03'),
+(DEFAULT, 118, 1700, true, '2020-05-05'),
+(DEFAULT, 118, 1700, true, '2020-06-05'),
+(DEFAULT, 118, 1700, true, '2020-07-03'),
+(DEFAULT, 118, 1700, true, '2020-08-05'),
+(DEFAULT, 118, 1700, true, '2020-09-04'),
+(DEFAULT, 118, 1700, true, '2020-10-05'),
+(DEFAULT, 118, 1700, true, '2020-11-05'),
+(DEFAULT, 118, 1700, true, '2020-12-04'),
+(DEFAULT, 118, 1700, true, '2021-01-05'),
+(DEFAULT, 118, 1700, true, '2021-02-05'),
+(DEFAULT, 118, 1700, true, '2021-03-05'),
+(DEFAULT, 118, 1700, true, '2021-04-05'),
+(DEFAULT, 118, 1700, true, '2021-05-05'),
+(DEFAULT, 118, 1700, true, '2021-06-04'),
+(DEFAULT, 119, 1800, true, '2020-01-03'),
+(DEFAULT, 119, 1800, true, '2020-02-05'),
+(DEFAULT, 119, 1800, true, '2020-03-05'),
+(DEFAULT, 119, 1800, true, '2020-04-03'),
+(DEFAULT, 119, 1800, true, '2020-05-05'),
+(DEFAULT, 119, 1800, true, '2020-06-05'),
+(DEFAULT, 119, 1800, true, '2020-07-03'),
+(DEFAULT, 119, 1800, true, '2020-08-05'),
+(DEFAULT, 119, 1800, true, '2020-09-04'),
+(DEFAULT, 119, 1800, true, '2020-10-05'),
+(DEFAULT, 119, 1800, true, '2020-11-05'),
+(DEFAULT, 119, 1800, true, '2020-12-04'),
+(DEFAULT, 119, 1800, true, '2021-01-05'),
+(DEFAULT, 119, 1800, true, '2021-02-05'),
+(DEFAULT, 119, 1800, true, '2021-03-05'),
+(DEFAULT, 119, 1800, true, '2021-04-05'),
+(DEFAULT, 119, 1800, true, '2021-05-05'),
+(DEFAULT, 119, 1800, true, '2021-06-04'),
+(DEFAULT, 120, 2000, true, '2021-01-05'),
+(DEFAULT, 120, 2000, true, '2021-02-05'),
+(DEFAULT, 120, 2000, true, '2021-03-05'),
+(DEFAULT, 120, 2000, true, '2021-04-05'),
+(DEFAULT, 120, 2000, true, '2021-05-05'),
+(DEFAULT, 120, 2000, true, '2021-06-04'),
+(DEFAULT, 121, 1700, true, '2020-02-05'),
+(DEFAULT, 121, 1700, true, '2020-03-05'),
+(DEFAULT, 121, 1700, true, '2020-04-03'),
+(DEFAULT, 121, 1700, true, '2020-05-05'),
+(DEFAULT, 121, 1700, true, '2020-06-05'),
+(DEFAULT, 121, 1700, true, '2020-07-03'),
+(DEFAULT, 121, 1700, true, '2020-08-05'),
+(DEFAULT, 121, 1700, true, '2020-09-04'),
+(DEFAULT, 121, 1700, true, '2020-10-05'),
+(DEFAULT, 121, 1700, true, '2020-11-05'),
+(DEFAULT, 121, 1700, true, '2020-12-04'),
+(DEFAULT, 121, 1700, true, '2021-01-05'),
+(DEFAULT, 121, 1700, true, '2021-02-05'),
+(DEFAULT, 121, 1700, true, '2021-03-05'),
+(DEFAULT, 121, 1700, true, '2021-04-05'),
+(DEFAULT, 121, 1700, true, '2021-05-05'),
+(DEFAULT, 121, 1700, true, '2021-06-04'),
+(DEFAULT, 123, 1700, true, '2020-07-03'),
+(DEFAULT, 123, 1700, true, '2020-08-05'),
+(DEFAULT, 123, 1700, true, '2020-09-04'),
+(DEFAULT, 123, 1700, true, '2020-10-05'),
+(DEFAULT, 123, 1700, true, '2020-11-05'),
+(DEFAULT, 123, 1700, true, '2020-12-04'),
+(DEFAULT, 123, 1700, true, '2021-01-05'),
+(DEFAULT, 123, 1700, true, '2021-02-05'),
+(DEFAULT, 123, 1700, true, '2021-03-05'),
+(DEFAULT, 123, 1700, true, '2021-04-05'),
+(DEFAULT, 123, 1700, true, '2021-05-05'),
+(DEFAULT, 123, 1700, true, '2021-06-04'),
+(DEFAULT, 124, 1800, true, '2020-08-05'),
+(DEFAULT, 124, 1800, true, '2020-09-04'),
+(DEFAULT, 124, 1800, true, '2020-10-05'),
+(DEFAULT, 124, 1800, true, '2020-11-05'),
+(DEFAULT, 124, 1800, true, '2020-12-04'),
+(DEFAULT, 124, 1800, true, '2021-01-05'),
+(DEFAULT, 124, 1800, true, '2021-02-05'),
+(DEFAULT, 124, 1800, true, '2021-03-05'),
+(DEFAULT, 124, 1800, true, '2021-04-05'),
+(DEFAULT, 124, 1800, true, '2021-05-05'),
+(DEFAULT, 124, 1800, true, '2021-06-04'),
+(DEFAULT, 125, 2000, true, '2021-02-05'),
+(DEFAULT, 125, 2000, true, '2021-03-05'),
+(DEFAULT, 125, 2000, true, '2021-04-05'),
+(DEFAULT, 125, 2000, true, '2021-05-05'),
+(DEFAULT, 125, 2000, true, '2021-06-04'),
+(DEFAULT, 126, 1700, true, '2021-02-05'),
+(DEFAULT, 126, 1700, true, '2021-03-05'),
+(DEFAULT, 126, 1700, true, '2021-04-05'),
+(DEFAULT, 126, 1700, true, '2021-05-05'),
+(DEFAULT, 126, 1700, true, '2021-06-04'),
+(DEFAULT, 127, 1700, true, '2020-06-05'),
+(DEFAULT, 127, 1700, true, '2020-07-03'),
+(DEFAULT, 127, 1700, true, '2020-08-05'),
+(DEFAULT, 127, 1700, true, '2020-09-04'),
+(DEFAULT, 127, 1700, true, '2020-10-05'),
+(DEFAULT, 127, 1700, true, '2020-11-05'),
+(DEFAULT, 127, 1700, true, '2020-12-04'),
+(DEFAULT, 127, 1700, true, '2021-01-05'),
+(DEFAULT, 127, 1700, true, '2021-02-05'),
+(DEFAULT, 127, 1700, true, '2021-03-05'),
+(DEFAULT, 127, 1700, true, '2021-04-05'),
+(DEFAULT, 127, 1700, true, '2021-05-05'),
+(DEFAULT, 127, 1700, true, '2021-06-04'),
+(DEFAULT, 128, 1700, true, '2020-09-04'),
+(DEFAULT, 128, 1700, true, '2020-10-05'),
+(DEFAULT, 128, 1700, true, '2020-11-05'),
+(DEFAULT, 128, 1700, true, '2020-12-04'),
+(DEFAULT, 128, 1700, true, '2021-01-05'),
+(DEFAULT, 128, 1700, true, '2021-02-05'),
+(DEFAULT, 128, 1700, true, '2021-03-05'),
+(DEFAULT, 128, 1700, true, '2021-04-05'),
+(DEFAULT, 128, 1700, true, '2021-05-05'),
+(DEFAULT, 128, 1700, true, '2021-06-04'),
+(DEFAULT, 129, 1800, true, '2020-01-03'),
+(DEFAULT, 129, 1800, true, '2020-02-05'),
+(DEFAULT, 129, 1800, true, '2020-03-05'),
+(DEFAULT, 129, 1800, true, '2020-04-03'),
+(DEFAULT, 129, 1800, true, '2020-05-05'),
+(DEFAULT, 129, 1800, true, '2020-06-05'),
+(DEFAULT, 129, 1800, true, '2020-07-03'),
+(DEFAULT, 129, 1800, true, '2020-08-05'),
+(DEFAULT, 129, 1800, true, '2020-09-04'),
+(DEFAULT, 129, 1800, true, '2020-10-05'),
+(DEFAULT, 129, 1800, true, '2020-11-05'),
+(DEFAULT, 129, 1800, true, '2020-12-04'),
+(DEFAULT, 129, 1800, true, '2021-01-05'),
+(DEFAULT, 129, 1800, true, '2021-02-05'),
+(DEFAULT, 129, 1800, true, '2021-03-05'),
+(DEFAULT, 129, 1800, true, '2021-04-05'),
+(DEFAULT, 129, 1800, true, '2021-05-05'),
+(DEFAULT, 129, 1800, true, '2021-06-04'),
+(DEFAULT, 130, 2000, true, '2019-09-05'),
+(DEFAULT, 130, 2000, true, '2019-10-04'),
+(DEFAULT, 130, 2000, true, '2019-11-05'),
+(DEFAULT, 130, 2000, true, '2019-12-05'),
+(DEFAULT, 130, 2000, true, '2020-01-03'),
+(DEFAULT, 130, 2000, true, '2020-02-05'),
+(DEFAULT, 130, 2000, true, '2020-03-05'),
+(DEFAULT, 130, 2000, true, '2020-04-03'),
+(DEFAULT, 130, 2000, true, '2020-05-05'),
+(DEFAULT, 130, 2000, true, '2020-06-05'),
+(DEFAULT, 130, 2000, true, '2020-07-03'),
+(DEFAULT, 130, 2000, true, '2020-08-05'),
+(DEFAULT, 130, 2000, true, '2020-09-04'),
+(DEFAULT, 130, 2000, true, '2020-10-05'),
+(DEFAULT, 130, 2000, true, '2020-11-05'),
+(DEFAULT, 130, 2000, true, '2020-12-04'),
+(DEFAULT, 130, 2000, true, '2021-01-05'),
+(DEFAULT, 130, 2000, true, '2021-02-05'),
+(DEFAULT, 130, 2000, true, '2021-03-05'),
+(DEFAULT, 130, 2000, true, '2021-04-05'),
+(DEFAULT, 130, 2000, true, '2021-05-05'),
+(DEFAULT, 130, 2000, true, '2021-06-04'),
+(DEFAULT, 131, 1700, true, '2020-01-03'),
+(DEFAULT, 131, 1700, true, '2020-02-05'),
+(DEFAULT, 131, 1700, true, '2020-03-05'),
+(DEFAULT, 131, 1700, true, '2020-04-03'),
+(DEFAULT, 131, 1700, true, '2020-05-05'),
+(DEFAULT, 131, 1700, true, '2020-06-05'),
+(DEFAULT, 131, 1700, true, '2020-07-03'),
+(DEFAULT, 131, 1700, true, '2020-08-05'),
+(DEFAULT, 131, 1700, true, '2020-09-04'),
+(DEFAULT, 131, 1700, true, '2020-10-05'),
+(DEFAULT, 131, 1700, true, '2020-11-05'),
+(DEFAULT, 131, 1700, true, '2020-12-04'),
+(DEFAULT, 131, 1700, true, '2021-01-05'),
+(DEFAULT, 131, 1700, true, '2021-02-05'),
+(DEFAULT, 131, 1700, true, '2021-03-05'),
+(DEFAULT, 131, 1700, true, '2021-04-05'),
+(DEFAULT, 131, 1700, true, '2021-05-05'),
+(DEFAULT, 131, 1700, true, '2021-06-04'),
+(DEFAULT, 132, 1700, true, '2020-07-03'),
+(DEFAULT, 132, 1700, true, '2020-08-05'),
+(DEFAULT, 132, 1700, true, '2020-09-04'),
+(DEFAULT, 132, 1700, true, '2020-10-05'),
+(DEFAULT, 132, 1700, true, '2020-11-05'),
+(DEFAULT, 132, 1700, true, '2020-12-04'),
+(DEFAULT, 132, 1700, true, '2021-01-05'),
+(DEFAULT, 132, 1700, true, '2021-02-05'),
+(DEFAULT, 132, 1700, true, '2021-03-05'),
+(DEFAULT, 132, 1700, true, '2021-04-05'),
+(DEFAULT, 132, 1700, true, '2021-05-05'),
+(DEFAULT, 132, 1700, true, '2021-06-04'),
+(DEFAULT, 133, 1700, true, '2021-05-05'),
+(DEFAULT, 133, 1700, true, '2021-06-04'),
+(DEFAULT, 134, 1800, true, '2021-02-05'),
+(DEFAULT, 134, 1800, true, '2021-03-05'),
+(DEFAULT, 134, 1800, true, '2021-04-05'),
+(DEFAULT, 134, 1800, true, '2021-05-05'),
+(DEFAULT, 134, 1800, true, '2021-06-04'),
+(DEFAULT, 135, 2000, true, '2019-10-04'),
+(DEFAULT, 135, 2000, true, '2019-11-05'),
+(DEFAULT, 135, 2000, true, '2019-12-05'),
+(DEFAULT, 135, 2000, true, '2020-01-03'),
+(DEFAULT, 135, 2000, true, '2020-02-05'),
+(DEFAULT, 135, 2000, true, '2020-03-05'),
+(DEFAULT, 135, 2000, true, '2020-04-03'),
+(DEFAULT, 135, 2000, true, '2020-05-05'),
+(DEFAULT, 135, 2000, true, '2020-06-05'),
+(DEFAULT, 135, 2000, true, '2020-07-03'),
+(DEFAULT, 135, 2000, true, '2020-08-05'),
+(DEFAULT, 135, 2000, true, '2020-09-04'),
+(DEFAULT, 135, 2000, true, '2020-10-05'),
+(DEFAULT, 135, 2000, true, '2020-11-05'),
+(DEFAULT, 135, 2000, true, '2020-12-04'),
+(DEFAULT, 135, 2000, true, '2021-01-05'),
+(DEFAULT, 135, 2000, true, '2021-02-05'),
+(DEFAULT, 135, 2000, true, '2021-03-05'),
+(DEFAULT, 135, 2000, true, '2021-04-05'),
+(DEFAULT, 135, 2000, true, '2021-05-05'),
+(DEFAULT, 135, 2000, true, '2021-06-04'),
+(DEFAULT, 136, 1700, true, '2020-08-05'),
+(DEFAULT, 136, 1700, true, '2020-09-04'),
+(DEFAULT, 136, 1700, true, '2020-10-05'),
+(DEFAULT, 136, 1700, true, '2020-11-05'),
+(DEFAULT, 136, 1700, true, '2020-12-04'),
+(DEFAULT, 136, 1700, true, '2021-01-05'),
+(DEFAULT, 136, 1700, true, '2021-02-05'),
+(DEFAULT, 136, 1700, true, '2021-03-05'),
+(DEFAULT, 136, 1700, true, '2021-04-05'),
+(DEFAULT, 136, 1700, true, '2021-05-05'),
+(DEFAULT, 136, 1700, true, '2021-06-04'),
+(DEFAULT, 137, 1700, true, '2021-01-05'),
+(DEFAULT, 137, 1700, true, '2021-02-05'),
+(DEFAULT, 137, 1700, true, '2021-03-05'),
+(DEFAULT, 137, 1700, true, '2021-04-05'),
+(DEFAULT, 137, 1700, true, '2021-05-05'),
+(DEFAULT, 137, 1700, true, '2021-06-04'),
+(DEFAULT, 138, 1700, true, '2021-01-05'),
+(DEFAULT, 138, 1700, true, '2021-02-05'),
+(DEFAULT, 138, 1700, true, '2021-03-05'),
+(DEFAULT, 138, 1700, true, '2021-04-05'),
+(DEFAULT, 138, 1700, true, '2021-05-05'),
+(DEFAULT, 138, 1700, true, '2021-06-04'),
+(DEFAULT, 139, 1800, true, '2020-08-05'),
+(DEFAULT, 139, 1800, true, '2020-09-04'),
+(DEFAULT, 139, 1800, true, '2020-10-05'),
+(DEFAULT, 139, 1800, true, '2020-11-05'),
+(DEFAULT, 139, 1800, true, '2020-12-04'),
+(DEFAULT, 139, 1800, true, '2021-01-05'),
+(DEFAULT, 139, 1800, true, '2021-02-05'),
+(DEFAULT, 139, 1800, true, '2021-03-05'),
+(DEFAULT, 139, 1800, true, '2021-04-05'),
+(DEFAULT, 139, 1800, true, '2021-05-05'),
+(DEFAULT, 139, 1800, true, '2021-06-04'),
+(DEFAULT, 140, 2000, true, '2021-01-05'),
+(DEFAULT, 140, 2000, true, '2021-02-05'),
+(DEFAULT, 140, 2000, true, '2021-03-05'),
+(DEFAULT, 140, 2000, true, '2021-04-05'),
+(DEFAULT, 140, 2000, true, '2021-05-05'),
+(DEFAULT, 140, 2000, true, '2021-06-04'),
+(DEFAULT, 141, 1700, true, '2021-06-04'),
+(DEFAULT, 142, 1700, true, '2020-04-03'),
+(DEFAULT, 142, 1700, true, '2020-05-05'),
+(DEFAULT, 142, 1700, true, '2020-06-05'),
+(DEFAULT, 142, 1700, true, '2020-07-03'),
+(DEFAULT, 142, 1700, true, '2020-08-05'),
+(DEFAULT, 142, 1700, true, '2020-09-04'),
+(DEFAULT, 142, 1700, true, '2020-10-05'),
+(DEFAULT, 142, 1700, true, '2020-11-05'),
+(DEFAULT, 142, 1700, true, '2020-12-04'),
+(DEFAULT, 142, 1700, true, '2021-01-05'),
+(DEFAULT, 142, 1700, true, '2021-02-05'),
+(DEFAULT, 142, 1700, true, '2021-03-05'),
+(DEFAULT, 142, 1700, true, '2021-04-05'),
+(DEFAULT, 142, 1700, true, '2021-05-05'),
+(DEFAULT, 142, 1700, true, '2021-06-04'),
+(DEFAULT, 143, 1700, true, '2020-05-05'),
+(DEFAULT, 143, 1700, true, '2020-06-05'),
+(DEFAULT, 143, 1700, true, '2020-07-03'),
+(DEFAULT, 143, 1700, true, '2020-08-05'),
+(DEFAULT, 143, 1700, true, '2020-09-04'),
+(DEFAULT, 143, 1700, true, '2020-10-05'),
+(DEFAULT, 143, 1700, true, '2020-11-05'),
+(DEFAULT, 143, 1700, true, '2020-12-04'),
+(DEFAULT, 143, 1700, true, '2021-01-05'),
+(DEFAULT, 143, 1700, true, '2021-02-05'),
+(DEFAULT, 143, 1700, true, '2021-03-05'),
+(DEFAULT, 143, 1700, true, '2021-04-05'),
+(DEFAULT, 143, 1700, true, '2021-05-05'),
+(DEFAULT, 143, 1700, true, '2021-06-04'),
+(DEFAULT, 144, 1800, true, '2020-06-05'),
+(DEFAULT, 144, 1800, true, '2020-07-03'),
+(DEFAULT, 144, 1800, true, '2020-08-05'),
+(DEFAULT, 144, 1800, true, '2020-09-04'),
+(DEFAULT, 144, 1800, true, '2020-10-05'),
+(DEFAULT, 144, 1800, true, '2020-11-05'),
+(DEFAULT, 144, 1800, true, '2020-12-04'),
+(DEFAULT, 144, 1800, true, '2021-01-05'),
+(DEFAULT, 144, 1800, true, '2021-02-05'),
+(DEFAULT, 144, 1800, true, '2021-03-05'),
+(DEFAULT, 144, 1800, true, '2021-04-05'),
+(DEFAULT, 144, 1800, true, '2021-05-05'),
+(DEFAULT, 144, 1800, true, '2021-06-04'),
+(DEFAULT, 145, 2000, true, '2020-01-03'),
+(DEFAULT, 145, 2000, true, '2020-02-05'),
+(DEFAULT, 145, 2000, true, '2020-03-05'),
+(DEFAULT, 145, 2000, true, '2020-04-03'),
+(DEFAULT, 145, 2000, true, '2020-05-05'),
+(DEFAULT, 145, 2000, true, '2020-06-05'),
+(DEFAULT, 145, 2000, true, '2020-07-03'),
+(DEFAULT, 145, 2000, true, '2020-08-05'),
+(DEFAULT, 145, 2000, true, '2020-09-04'),
+(DEFAULT, 145, 2000, true, '2020-10-05'),
+(DEFAULT, 145, 2000, true, '2020-11-05'),
+(DEFAULT, 145, 2000, true, '2020-12-04'),
+(DEFAULT, 145, 2000, true, '2021-01-05'),
+(DEFAULT, 145, 2000, true, '2021-02-05'),
+(DEFAULT, 145, 2000, true, '2021-03-05'),
+(DEFAULT, 145, 2000, true, '2021-04-05'),
+(DEFAULT, 145, 2000, true, '2021-05-05'),
+(DEFAULT, 145, 2000, true, '2021-06-04'),
+(DEFAULT, 146, 1700, true, '2020-03-05'),
+(DEFAULT, 146, 1700, true, '2020-04-03'),
+(DEFAULT, 146, 1700, true, '2020-05-05'),
+(DEFAULT, 146, 1700, true, '2020-06-05'),
+(DEFAULT, 146, 1700, true, '2020-07-03'),
+(DEFAULT, 146, 1700, true, '2020-08-05'),
+(DEFAULT, 146, 1700, true, '2020-09-04'),
+(DEFAULT, 146, 1700, true, '2020-10-05'),
+(DEFAULT, 146, 1700, true, '2020-11-05'),
+(DEFAULT, 146, 1700, true, '2020-12-04'),
+(DEFAULT, 146, 1700, true, '2021-01-05'),
+(DEFAULT, 146, 1700, true, '2021-02-05'),
+(DEFAULT, 146, 1700, true, '2021-03-05'),
+(DEFAULT, 146, 1700, true, '2021-04-05'),
+(DEFAULT, 146, 1700, true, '2021-05-05'),
+(DEFAULT, 146, 1700, true, '2021-06-04'),
+(DEFAULT, 147, 1700, true, '2019-12-05'),
+(DEFAULT, 147, 1700, true, '2020-01-03'),
+(DEFAULT, 147, 1700, true, '2020-02-05'),
+(DEFAULT, 147, 1700, true, '2020-03-05'),
+(DEFAULT, 147, 1700, true, '2020-04-03'),
+(DEFAULT, 147, 1700, true, '2020-05-05'),
+(DEFAULT, 147, 1700, true, '2020-06-05'),
+(DEFAULT, 147, 1700, true, '2020-07-03'),
+(DEFAULT, 147, 1700, true, '2020-08-05'),
+(DEFAULT, 147, 1700, true, '2020-09-04'),
+(DEFAULT, 147, 1700, true, '2020-10-05'),
+(DEFAULT, 147, 1700, true, '2020-11-05'),
+(DEFAULT, 147, 1700, true, '2020-12-04'),
+(DEFAULT, 147, 1700, true, '2021-01-05'),
+(DEFAULT, 147, 1700, true, '2021-02-05'),
+(DEFAULT, 147, 1700, true, '2021-03-05'),
+(DEFAULT, 147, 1700, true, '2021-04-05'),
+(DEFAULT, 147, 1700, true, '2021-05-05'),
+(DEFAULT, 147, 1700, true, '2021-06-04'),
+(DEFAULT, 148, 1700, true, '2021-01-05'),
+(DEFAULT, 148, 1700, true, '2021-02-05'),
+(DEFAULT, 148, 1700, true, '2021-03-05'),
+(DEFAULT, 148, 1700, true, '2021-04-05'),
+(DEFAULT, 148, 1700, true, '2021-05-05'),
+(DEFAULT, 148, 1700, true, '2021-06-04'),
+(DEFAULT, 149, 1800, true, '2020-02-05'),
+(DEFAULT, 149, 1800, true, '2020-03-05'),
+(DEFAULT, 149, 1800, true, '2020-04-03'),
+(DEFAULT, 149, 1800, true, '2020-05-05'),
+(DEFAULT, 149, 1800, true, '2020-06-05'),
+(DEFAULT, 149, 1800, true, '2020-07-03'),
+(DEFAULT, 149, 1800, true, '2020-08-05'),
+(DEFAULT, 149, 1800, true, '2020-09-04'),
+(DEFAULT, 149, 1800, true, '2020-10-05'),
+(DEFAULT, 149, 1800, true, '2020-11-05'),
+(DEFAULT, 149, 1800, true, '2020-12-04'),
+(DEFAULT, 149, 1800, true, '2021-01-05'),
+(DEFAULT, 149, 1800, true, '2021-02-05'),
+(DEFAULT, 149, 1800, true, '2021-03-05'),
+(DEFAULT, 149, 1800, true, '2021-04-05'),
+(DEFAULT, 149, 1800, true, '2021-05-05'),
+(DEFAULT, 149, 1800, true, '2021-06-04'),
+(DEFAULT, 150, 2000, true, '2020-07-03'),
+(DEFAULT, 150, 2000, true, '2020-08-05'),
+(DEFAULT, 150, 2000, true, '2020-09-04'),
+(DEFAULT, 150, 2000, true, '2020-10-05'),
+(DEFAULT, 150, 2000, true, '2020-11-05'),
+(DEFAULT, 150, 2000, true, '2020-12-04'),
+(DEFAULT, 150, 2000, true, '2021-01-05'),
+(DEFAULT, 150, 2000, true, '2021-02-05'),
+(DEFAULT, 150, 2000, true, '2021-03-05'),
+(DEFAULT, 150, 2000, true, '2021-04-05'),
+(DEFAULT, 150, 2000, true, '2021-05-05'),
+(DEFAULT, 150, 2000, true, '2021-06-04'),
+(DEFAULT, 151, 1700, true, '2021-02-05'),
+(DEFAULT, 151, 1700, true, '2021-03-05'),
+(DEFAULT, 151, 1700, true, '2021-04-05'),
+(DEFAULT, 151, 1700, true, '2021-05-05'),
+(DEFAULT, 151, 1700, true, '2021-06-04'),
+(DEFAULT, 152, 1700, true, '2021-02-05'),
+(DEFAULT, 152, 1700, true, '2021-03-05'),
+(DEFAULT, 152, 1700, true, '2021-04-05'),
+(DEFAULT, 152, 1700, true, '2021-05-05'),
+(DEFAULT, 152, 1700, true, '2021-06-04'),
+(DEFAULT, 153, 1700, true, '2019-10-04'),
+(DEFAULT, 153, 1700, true, '2019-11-05'),
+(DEFAULT, 153, 1700, true, '2019-12-05'),
+(DEFAULT, 153, 1700, true, '2020-01-03'),
+(DEFAULT, 153, 1700, true, '2020-02-05'),
+(DEFAULT, 153, 1700, true, '2020-03-05'),
+(DEFAULT, 153, 1700, true, '2020-04-03'),
+(DEFAULT, 153, 1700, true, '2020-05-05'),
+(DEFAULT, 153, 1700, true, '2020-06-05'),
+(DEFAULT, 153, 1700, true, '2020-07-03'),
+(DEFAULT, 153, 1700, true, '2020-08-05'),
+(DEFAULT, 153, 1700, true, '2020-09-04'),
+(DEFAULT, 153, 1700, true, '2020-10-05'),
+(DEFAULT, 153, 1700, true, '2020-11-05'),
+(DEFAULT, 153, 1700, true, '2020-12-04'),
+(DEFAULT, 153, 1700, true, '2021-01-05'),
+(DEFAULT, 153, 1700, true, '2021-02-05'),
+(DEFAULT, 153, 1700, true, '2021-03-05'),
+(DEFAULT, 153, 1700, true, '2021-04-05'),
+(DEFAULT, 153, 1700, true, '2021-05-05'),
+(DEFAULT, 153, 1700, true, '2021-06-04'),
+(DEFAULT, 154, 1800, true, '2021-01-05'),
+(DEFAULT, 154, 1800, true, '2021-02-05'),
+(DEFAULT, 154, 1800, true, '2021-03-05'),
+(DEFAULT, 154, 1800, true, '2021-04-05'),
+(DEFAULT, 154, 1800, true, '2021-05-05'),
+(DEFAULT, 154, 1800, true, '2021-06-04'),
+(DEFAULT, 155, 2000, true, '2021-03-05'),
+(DEFAULT, 155, 2000, true, '2021-04-05'),
+(DEFAULT, 155, 2000, true, '2021-05-05'),
+(DEFAULT, 155, 2000, true, '2021-06-04'),
+(DEFAULT, 156, 1700, true, '2021-06-04'),
+(DEFAULT, 157, 1700, true, '2019-12-05'),
+(DEFAULT, 157, 1700, true, '2020-01-03'),
+(DEFAULT, 157, 1700, true, '2020-02-05'),
+(DEFAULT, 157, 1700, true, '2020-03-05'),
+(DEFAULT, 157, 1700, true, '2020-04-03'),
+(DEFAULT, 157, 1700, true, '2020-05-05'),
+(DEFAULT, 157, 1700, true, '2020-06-05'),
+(DEFAULT, 157, 1700, true, '2020-07-03'),
+(DEFAULT, 157, 1700, true, '2020-08-05'),
+(DEFAULT, 157, 1700, true, '2020-09-04'),
+(DEFAULT, 157, 1700, true, '2020-10-05'),
+(DEFAULT, 157, 1700, true, '2020-11-05'),
+(DEFAULT, 157, 1700, true, '2020-12-04'),
+(DEFAULT, 157, 1700, true, '2021-01-05'),
+(DEFAULT, 157, 1700, true, '2021-02-05'),
+(DEFAULT, 157, 1700, true, '2021-03-05'),
+(DEFAULT, 157, 1700, true, '2021-04-05'),
+(DEFAULT, 157, 1700, true, '2021-05-05'),
+(DEFAULT, 157, 1700, true, '2021-06-04'),
+(DEFAULT, 158, 1700, true, '2021-01-05'),
+(DEFAULT, 158, 1700, true, '2021-02-05'),
+(DEFAULT, 158, 1700, true, '2021-03-05'),
+(DEFAULT, 158, 1700, true, '2021-04-05'),
+(DEFAULT, 158, 1700, true, '2021-05-05'),
+(DEFAULT, 158, 1700, true, '2021-06-04'),
+(DEFAULT, 159, 1800, true, '2020-12-04'),
+(DEFAULT, 159, 1800, true, '2021-01-05'),
+(DEFAULT, 159, 1800, true, '2021-02-05'),
+(DEFAULT, 159, 1800, true, '2021-03-05'),
+(DEFAULT, 159, 1800, true, '2021-04-05'),
+(DEFAULT, 159, 1800, true, '2021-05-05'),
+(DEFAULT, 159, 1800, true, '2021-06-04'),
+(DEFAULT, 160, 2000, true, '2020-04-03'),
+(DEFAULT, 160, 2000, true, '2020-05-05'),
+(DEFAULT, 160, 2000, true, '2020-06-05'),
+(DEFAULT, 160, 2000, true, '2020-07-03'),
+(DEFAULT, 160, 2000, true, '2020-08-05'),
+(DEFAULT, 160, 2000, true, '2020-09-04'),
+(DEFAULT, 160, 2000, true, '2020-10-05'),
+(DEFAULT, 160, 2000, true, '2020-11-05'),
+(DEFAULT, 160, 2000, true, '2020-12-04'),
+(DEFAULT, 160, 2000, true, '2021-01-05'),
+(DEFAULT, 160, 2000, true, '2021-02-05'),
+(DEFAULT, 160, 2000, true, '2021-03-05'),
+(DEFAULT, 160, 2000, true, '2021-04-05'),
+(DEFAULT, 160, 2000, true, '2021-05-05'),
+(DEFAULT, 160, 2000, true, '2021-06-04'),
+(DEFAULT, 161, 1700, true, '2020-12-04'),
+(DEFAULT, 161, 1700, true, '2021-01-05'),
+(DEFAULT, 161, 1700, true, '2021-02-05'),
+(DEFAULT, 161, 1700, true, '2021-03-05'),
+(DEFAULT, 161, 1700, true, '2021-04-05'),
+(DEFAULT, 161, 1700, true, '2021-05-05'),
+(DEFAULT, 161, 1700, true, '2021-06-04'),
+(DEFAULT, 162, 1700, true, '2020-09-04'),
+(DEFAULT, 162, 1700, true, '2020-10-05'),
+(DEFAULT, 162, 1700, true, '2020-11-05'),
+(DEFAULT, 162, 1700, true, '2020-12-04'),
+(DEFAULT, 162, 1700, true, '2021-01-05'),
+(DEFAULT, 162, 1700, true, '2021-02-05'),
+(DEFAULT, 162, 1700, true, '2021-03-05'),
+(DEFAULT, 162, 1700, true, '2021-04-05'),
+(DEFAULT, 162, 1700, true, '2021-05-05'),
+(DEFAULT, 162, 1700, true, '2021-06-04'),
+(DEFAULT, 163, 1700, true, '2020-02-05'),
+(DEFAULT, 163, 1700, true, '2020-03-05'),
+(DEFAULT, 163, 1700, true, '2020-04-03'),
+(DEFAULT, 163, 1700, true, '2020-05-05'),
+(DEFAULT, 163, 1700, true, '2020-06-05'),
+(DEFAULT, 163, 1700, true, '2020-07-03'),
+(DEFAULT, 163, 1700, true, '2020-08-05'),
+(DEFAULT, 163, 1700, true, '2020-09-04'),
+(DEFAULT, 163, 1700, true, '2020-10-05'),
+(DEFAULT, 163, 1700, true, '2020-11-05'),
+(DEFAULT, 163, 1700, true, '2020-12-04'),
+(DEFAULT, 163, 1700, true, '2021-01-05'),
+(DEFAULT, 163, 1700, true, '2021-02-05'),
+(DEFAULT, 163, 1700, true, '2021-03-05'),
+(DEFAULT, 163, 1700, true, '2021-04-05'),
+(DEFAULT, 163, 1700, true, '2021-05-05'),
+(DEFAULT, 163, 1700, true, '2021-06-04'),
+(DEFAULT, 164, 1800, true, '2019-10-04'),
+(DEFAULT, 164, 1800, true, '2019-11-05'),
+(DEFAULT, 164, 1800, true, '2019-12-05'),
+(DEFAULT, 164, 1800, true, '2020-01-03'),
+(DEFAULT, 164, 1800, true, '2020-02-05'),
+(DEFAULT, 164, 1800, true, '2020-03-05'),
+(DEFAULT, 164, 1800, true, '2020-04-03'),
+(DEFAULT, 164, 1800, true, '2020-05-05'),
+(DEFAULT, 164, 1800, true, '2020-06-05'),
+(DEFAULT, 164, 1800, true, '2020-07-03'),
+(DEFAULT, 164, 1800, true, '2020-08-05'),
+(DEFAULT, 164, 1800, true, '2020-09-04'),
+(DEFAULT, 164, 1800, true, '2020-10-05'),
+(DEFAULT, 164, 1800, true, '2020-11-05'),
+(DEFAULT, 164, 1800, true, '2020-12-04'),
+(DEFAULT, 164, 1800, true, '2021-01-05'),
+(DEFAULT, 164, 1800, true, '2021-02-05'),
+(DEFAULT, 164, 1800, true, '2021-03-05'),
+(DEFAULT, 164, 1800, true, '2021-04-05'),
+(DEFAULT, 164, 1800, true, '2021-05-05'),
+(DEFAULT, 164, 1800, true, '2021-06-04'),
+(DEFAULT, 165, 2000, true, '2020-11-05'),
+(DEFAULT, 165, 2000, true, '2020-12-04'),
+(DEFAULT, 165, 2000, true, '2021-01-05'),
+(DEFAULT, 165, 2000, true, '2021-02-05'),
+(DEFAULT, 165, 2000, true, '2021-03-05'),
+(DEFAULT, 165, 2000, true, '2021-04-05'),
+(DEFAULT, 165, 2000, true, '2021-05-05'),
+(DEFAULT, 165, 2000, true, '2021-06-04'),
+(DEFAULT, 166, 1700, true, '2020-12-04'),
+(DEFAULT, 166, 1700, true, '2021-01-05'),
+(DEFAULT, 166, 1700, true, '2021-02-05'),
+(DEFAULT, 166, 1700, true, '2021-03-05'),
+(DEFAULT, 166, 1700, true, '2021-04-05'),
+(DEFAULT, 166, 1700, true, '2021-05-05'),
+(DEFAULT, 166, 1700, true, '2021-06-04'),
+(DEFAULT, 167, 1700, true, '2019-11-05'),
+(DEFAULT, 167, 1700, true, '2019-12-05'),
+(DEFAULT, 167, 1700, true, '2020-01-03'),
+(DEFAULT, 167, 1700, true, '2020-02-05'),
+(DEFAULT, 167, 1700, true, '2020-03-05'),
+(DEFAULT, 167, 1700, true, '2020-04-03'),
+(DEFAULT, 167, 1700, true, '2020-05-05'),
+(DEFAULT, 167, 1700, true, '2020-06-05'),
+(DEFAULT, 167, 1700, true, '2020-07-03'),
+(DEFAULT, 167, 1700, true, '2020-08-05'),
+(DEFAULT, 167, 1700, true, '2020-09-04'),
+(DEFAULT, 167, 1700, true, '2020-10-05'),
+(DEFAULT, 167, 1700, true, '2020-11-05'),
+(DEFAULT, 167, 1700, true, '2020-12-04'),
+(DEFAULT, 167, 1700, true, '2021-01-05'),
+(DEFAULT, 167, 1700, true, '2021-02-05'),
+(DEFAULT, 167, 1700, true, '2021-03-05'),
+(DEFAULT, 167, 1700, true, '2021-04-05'),
+(DEFAULT, 167, 1700, true, '2021-05-05'),
+(DEFAULT, 167, 1700, true, '2021-06-04'),
+(DEFAULT, 168, 1700, true, '2020-09-04'),
+(DEFAULT, 168, 1700, true, '2020-10-05'),
+(DEFAULT, 168, 1700, true, '2020-11-05'),
+(DEFAULT, 168, 1700, true, '2020-12-04'),
+(DEFAULT, 168, 1700, true, '2021-01-05'),
+(DEFAULT, 168, 1700, true, '2021-02-05'),
+(DEFAULT, 168, 1700, true, '2021-03-05'),
+(DEFAULT, 168, 1700, true, '2021-04-05'),
+(DEFAULT, 168, 1700, true, '2021-05-05'),
+(DEFAULT, 168, 1700, true, '2021-06-04'),
+(DEFAULT, 169, 1800, true, '2020-10-05'),
+(DEFAULT, 169, 1800, true, '2020-11-05'),
+(DEFAULT, 169, 1800, true, '2020-12-04'),
+(DEFAULT, 169, 1800, true, '2021-01-05'),
+(DEFAULT, 169, 1800, true, '2021-02-05'),
+(DEFAULT, 169, 1800, true, '2021-03-05'),
+(DEFAULT, 169, 1800, true, '2021-04-05'),
+(DEFAULT, 169, 1800, true, '2021-05-05'),
+(DEFAULT, 169, 1800, true, '2021-06-04'),
+(DEFAULT, 170, 2000, true, '2020-08-05'),
+(DEFAULT, 170, 2000, true, '2020-09-04'),
+(DEFAULT, 170, 2000, true, '2020-10-05'),
+(DEFAULT, 170, 2000, true, '2020-11-05'),
+(DEFAULT, 170, 2000, true, '2020-12-04'),
+(DEFAULT, 170, 2000, true, '2021-01-05'),
+(DEFAULT, 170, 2000, true, '2021-02-05'),
+(DEFAULT, 170, 2000, true, '2021-03-05'),
+(DEFAULT, 170, 2000, true, '2021-04-05'),
+(DEFAULT, 170, 2000, true, '2021-05-05'),
+(DEFAULT, 170, 2000, true, '2021-06-04'),
+(DEFAULT, 171, 1700, true, '2021-01-05'),
+(DEFAULT, 171, 1700, true, '2021-02-05'),
+(DEFAULT, 171, 1700, true, '2021-03-05'),
+(DEFAULT, 171, 1700, true, '2021-04-05'),
+(DEFAULT, 171, 1700, true, '2021-05-05'),
+(DEFAULT, 171, 1700, true, '2021-06-04'),
+(DEFAULT, 172, 1700, true, '2020-03-05'),
+(DEFAULT, 172, 1700, true, '2020-04-03'),
+(DEFAULT, 172, 1700, true, '2020-05-05'),
+(DEFAULT, 172, 1700, true, '2020-06-05'),
+(DEFAULT, 172, 1700, true, '2020-07-03'),
+(DEFAULT, 172, 1700, true, '2020-08-05'),
+(DEFAULT, 172, 1700, true, '2020-09-04'),
+(DEFAULT, 172, 1700, true, '2020-10-05'),
+(DEFAULT, 172, 1700, true, '2020-11-05'),
+(DEFAULT, 172, 1700, true, '2020-12-04'),
+(DEFAULT, 172, 1700, true, '2021-01-05'),
+(DEFAULT, 172, 1700, true, '2021-02-05'),
+(DEFAULT, 172, 1700, true, '2021-03-05'),
+(DEFAULT, 172, 1700, true, '2021-04-05'),
+(DEFAULT, 172, 1700, true, '2021-05-05'),
+(DEFAULT, 172, 1700, true, '2021-06-04'),
+(DEFAULT, 173, 1700, true, '2020-07-03'),
+(DEFAULT, 173, 1700, true, '2020-08-05'),
+(DEFAULT, 173, 1700, true, '2020-09-04'),
+(DEFAULT, 173, 1700, true, '2020-10-05'),
+(DEFAULT, 173, 1700, true, '2020-11-05'),
+(DEFAULT, 173, 1700, true, '2020-12-04'),
+(DEFAULT, 173, 1700, true, '2021-01-05'),
+(DEFAULT, 173, 1700, true, '2021-02-05'),
+(DEFAULT, 173, 1700, true, '2021-03-05'),
+(DEFAULT, 173, 1700, true, '2021-04-05'),
+(DEFAULT, 173, 1700, true, '2021-05-05'),
+(DEFAULT, 173, 1700, true, '2021-06-04'),
+(DEFAULT, 174, 1800, true, '2021-03-05'),
+(DEFAULT, 174, 1800, true, '2021-04-05'),
+(DEFAULT, 174, 1800, true, '2021-05-05'),
+(DEFAULT, 174, 1800, true, '2021-06-04'),
+(DEFAULT, 175, 2000, true, '2020-06-05'),
+(DEFAULT, 175, 2000, true, '2020-07-03'),
+(DEFAULT, 175, 2000, true, '2020-08-05'),
+(DEFAULT, 175, 2000, true, '2020-09-04'),
+(DEFAULT, 175, 2000, true, '2020-10-05'),
+(DEFAULT, 175, 2000, true, '2020-11-05'),
+(DEFAULT, 175, 2000, true, '2020-12-04'),
+(DEFAULT, 175, 2000, true, '2021-01-05'),
+(DEFAULT, 175, 2000, true, '2021-02-05'),
+(DEFAULT, 175, 2000, true, '2021-03-05'),
+(DEFAULT, 175, 2000, true, '2021-04-05'),
+(DEFAULT, 175, 2000, true, '2021-05-05'),
+(DEFAULT, 175, 2000, true, '2021-06-04'),
+(DEFAULT, 176, 1700, true, '2021-01-05'),
+(DEFAULT, 176, 1700, true, '2021-02-05'),
+(DEFAULT, 176, 1700, true, '2021-03-05'),
+(DEFAULT, 176, 1700, true, '2021-04-05'),
+(DEFAULT, 176, 1700, true, '2021-05-05'),
+(DEFAULT, 176, 1700, true, '2021-06-04'),
+(DEFAULT, 177, 1700, true, '2020-04-03'),
+(DEFAULT, 177, 1700, true, '2020-05-05'),
+(DEFAULT, 177, 1700, true, '2020-06-05'),
+(DEFAULT, 177, 1700, true, '2020-07-03'),
+(DEFAULT, 177, 1700, true, '2020-08-05'),
+(DEFAULT, 177, 1700, true, '2020-09-04'),
+(DEFAULT, 177, 1700, true, '2020-10-05'),
+(DEFAULT, 177, 1700, true, '2020-11-05'),
+(DEFAULT, 177, 1700, true, '2020-12-04'),
+(DEFAULT, 177, 1700, true, '2021-01-05'),
+(DEFAULT, 177, 1700, true, '2021-02-05'),
+(DEFAULT, 177, 1700, true, '2021-03-05'),
+(DEFAULT, 177, 1700, true, '2021-04-05'),
+(DEFAULT, 177, 1700, true, '2021-05-05'),
+(DEFAULT, 177, 1700, true, '2021-06-04'),
+(DEFAULT, 178, 1700, true, '2020-11-05'),
+(DEFAULT, 178, 1700, true, '2020-12-04'),
+(DEFAULT, 178, 1700, true, '2021-01-05'),
+(DEFAULT, 178, 1700, true, '2021-02-05'),
+(DEFAULT, 178, 1700, true, '2021-03-05'),
+(DEFAULT, 178, 1700, true, '2021-04-05'),
+(DEFAULT, 178, 1700, true, '2021-05-05'),
+(DEFAULT, 178, 1700, true, '2021-06-04'),
+(DEFAULT, 179, 1800, true, '2020-06-05'),
+(DEFAULT, 179, 1800, true, '2020-07-03'),
+(DEFAULT, 179, 1800, true, '2020-08-05'),
+(DEFAULT, 179, 1800, true, '2020-09-04'),
+(DEFAULT, 179, 1800, true, '2020-10-05'),
+(DEFAULT, 179, 1800, true, '2020-11-05'),
+(DEFAULT, 179, 1800, true, '2020-12-04'),
+(DEFAULT, 179, 1800, true, '2021-01-05'),
+(DEFAULT, 179, 1800, true, '2021-02-05'),
+(DEFAULT, 179, 1800, true, '2021-03-05'),
+(DEFAULT, 179, 1800, true, '2021-04-05'),
+(DEFAULT, 179, 1800, true, '2021-05-05'),
+(DEFAULT, 179, 1800, true, '2021-06-04'),
+(DEFAULT, 180, 2000, true, '2021-05-05'),
+(DEFAULT, 180, 2000, true, '2021-06-04'),
+(DEFAULT, 181, 1700, true, '2021-02-05'),
+(DEFAULT, 181, 1700, true, '2021-03-05'),
+(DEFAULT, 181, 1700, true, '2021-04-05'),
+(DEFAULT, 181, 1700, true, '2021-05-05'),
+(DEFAULT, 181, 1700, true, '2021-06-04'),
+(DEFAULT, 182, 1700, true, '2021-06-04'),
+(DEFAULT, 183, 1700, true, '2019-10-04'),
+(DEFAULT, 183, 1700, true, '2019-11-05'),
+(DEFAULT, 183, 1700, true, '2019-12-05'),
+(DEFAULT, 183, 1700, true, '2020-01-03'),
+(DEFAULT, 183, 1700, true, '2020-02-05'),
+(DEFAULT, 183, 1700, true, '2020-03-05'),
+(DEFAULT, 183, 1700, true, '2020-04-03'),
+(DEFAULT, 183, 1700, true, '2020-05-05'),
+(DEFAULT, 183, 1700, true, '2020-06-05'),
+(DEFAULT, 183, 1700, true, '2020-07-03'),
+(DEFAULT, 183, 1700, true, '2020-08-05'),
+(DEFAULT, 183, 1700, true, '2020-09-04'),
+(DEFAULT, 183, 1700, true, '2020-10-05'),
+(DEFAULT, 183, 1700, true, '2020-11-05'),
+(DEFAULT, 183, 1700, true, '2020-12-04'),
+(DEFAULT, 183, 1700, true, '2021-01-05'),
+(DEFAULT, 183, 1700, true, '2021-02-05'),
+(DEFAULT, 183, 1700, true, '2021-03-05'),
+(DEFAULT, 183, 1700, true, '2021-04-05'),
+(DEFAULT, 183, 1700, true, '2021-05-05'),
+(DEFAULT, 183, 1700, true, '2021-06-04'),
+(DEFAULT, 184, 1800, true, '2020-11-05'),
+(DEFAULT, 184, 1800, true, '2020-12-04'),
+(DEFAULT, 184, 1800, true, '2021-01-05'),
+(DEFAULT, 184, 1800, true, '2021-02-05'),
+(DEFAULT, 184, 1800, true, '2021-03-05'),
+(DEFAULT, 184, 1800, true, '2021-04-05'),
+(DEFAULT, 184, 1800, true, '2021-05-05'),
+(DEFAULT, 184, 1800, true, '2021-06-04'),
+(DEFAULT, 185, 2000, true, '2020-03-05'),
+(DEFAULT, 185, 2000, true, '2020-04-03'),
+(DEFAULT, 185, 2000, true, '2020-05-05'),
+(DEFAULT, 185, 2000, true, '2020-06-05'),
+(DEFAULT, 185, 2000, true, '2020-07-03'),
+(DEFAULT, 185, 2000, true, '2020-08-05'),
+(DEFAULT, 185, 2000, true, '2020-09-04'),
+(DEFAULT, 185, 2000, true, '2020-10-05'),
+(DEFAULT, 185, 2000, true, '2020-11-05'),
+(DEFAULT, 185, 2000, true, '2020-12-04'),
+(DEFAULT, 185, 2000, true, '2021-01-05'),
+(DEFAULT, 185, 2000, true, '2021-02-05'),
+(DEFAULT, 185, 2000, true, '2021-03-05'),
+(DEFAULT, 185, 2000, true, '2021-04-05'),
+(DEFAULT, 185, 2000, true, '2021-05-05'),
+(DEFAULT, 185, 2000, true, '2021-06-04'),
+(DEFAULT, 186, 1700, true, '2020-08-05'),
+(DEFAULT, 186, 1700, true, '2020-09-04'),
+(DEFAULT, 186, 1700, true, '2020-10-05'),
+(DEFAULT, 186, 1700, true, '2020-11-05'),
+(DEFAULT, 186, 1700, true, '2020-12-04'),
+(DEFAULT, 186, 1700, true, '2021-01-05'),
+(DEFAULT, 186, 1700, true, '2021-02-05'),
+(DEFAULT, 186, 1700, true, '2021-03-05'),
+(DEFAULT, 186, 1700, true, '2021-04-05'),
+(DEFAULT, 186, 1700, true, '2021-05-05'),
+(DEFAULT, 186, 1700, true, '2021-06-04'),
+(DEFAULT, 187, 1700, true, '2020-03-05'),
+(DEFAULT, 187, 1700, true, '2020-04-03'),
+(DEFAULT, 187, 1700, true, '2020-05-05'),
+(DEFAULT, 187, 1700, true, '2020-06-05'),
+(DEFAULT, 187, 1700, true, '2020-07-03'),
+(DEFAULT, 187, 1700, true, '2020-08-05'),
+(DEFAULT, 187, 1700, true, '2020-09-04'),
+(DEFAULT, 187, 1700, true, '2020-10-05'),
+(DEFAULT, 187, 1700, true, '2020-11-05'),
+(DEFAULT, 187, 1700, true, '2020-12-04'),
+(DEFAULT, 187, 1700, true, '2021-01-05'),
+(DEFAULT, 187, 1700, true, '2021-02-05'),
+(DEFAULT, 187, 1700, true, '2021-03-05'),
+(DEFAULT, 187, 1700, true, '2021-04-05'),
+(DEFAULT, 187, 1700, true, '2021-05-05'),
+(DEFAULT, 187, 1700, true, '2021-06-04'),
+(DEFAULT, 188, 1700, true, '2019-11-05'),
+(DEFAULT, 188, 1700, true, '2019-12-05'),
+(DEFAULT, 188, 1700, true, '2020-01-03'),
+(DEFAULT, 188, 1700, true, '2020-02-05'),
+(DEFAULT, 188, 1700, true, '2020-03-05'),
+(DEFAULT, 188, 1700, true, '2020-04-03'),
+(DEFAULT, 188, 1700, true, '2020-05-05'),
+(DEFAULT, 188, 1700, true, '2020-06-05'),
+(DEFAULT, 188, 1700, true, '2020-07-03'),
+(DEFAULT, 188, 1700, true, '2020-08-05'),
+(DEFAULT, 188, 1700, true, '2020-09-04'),
+(DEFAULT, 188, 1700, true, '2020-10-05'),
+(DEFAULT, 188, 1700, true, '2020-11-05'),
+(DEFAULT, 188, 1700, true, '2020-12-04'),
+(DEFAULT, 188, 1700, true, '2021-01-05'),
+(DEFAULT, 188, 1700, true, '2021-02-05'),
+(DEFAULT, 188, 1700, true, '2021-03-05'),
+(DEFAULT, 188, 1700, true, '2021-04-05'),
+(DEFAULT, 188, 1700, true, '2021-05-05'),
+(DEFAULT, 188, 1700, true, '2021-06-04'),
+(DEFAULT, 190, 2000, true, '2021-02-05'),
+(DEFAULT, 190, 2000, true, '2021-03-05'),
+(DEFAULT, 190, 2000, true, '2021-04-05'),
+(DEFAULT, 190, 2000, true, '2021-05-05'),
+(DEFAULT, 190, 2000, true, '2021-06-04'),
+(DEFAULT, 191, 1700, true, '2019-11-05'),
+(DEFAULT, 191, 1700, true, '2019-12-05'),
+(DEFAULT, 191, 1700, true, '2020-01-03'),
+(DEFAULT, 191, 1700, true, '2020-02-05'),
+(DEFAULT, 191, 1700, true, '2020-03-05'),
+(DEFAULT, 191, 1700, true, '2020-04-03'),
+(DEFAULT, 191, 1700, true, '2020-05-05'),
+(DEFAULT, 191, 1700, true, '2020-06-05'),
+(DEFAULT, 191, 1700, true, '2020-07-03'),
+(DEFAULT, 191, 1700, true, '2020-08-05'),
+(DEFAULT, 191, 1700, true, '2020-09-04'),
+(DEFAULT, 191, 1700, true, '2020-10-05'),
+(DEFAULT, 191, 1700, true, '2020-11-05'),
+(DEFAULT, 191, 1700, true, '2020-12-04'),
+(DEFAULT, 191, 1700, true, '2021-01-05'),
+(DEFAULT, 191, 1700, true, '2021-02-05'),
+(DEFAULT, 191, 1700, true, '2021-03-05'),
+(DEFAULT, 191, 1700, true, '2021-04-05'),
+(DEFAULT, 191, 1700, true, '2021-05-05'),
+(DEFAULT, 191, 1700, true, '2021-06-04'),
+(DEFAULT, 192, 1700, true, '2020-06-05'),
+(DEFAULT, 192, 1700, true, '2020-07-03'),
+(DEFAULT, 192, 1700, true, '2020-08-05'),
+(DEFAULT, 192, 1700, true, '2020-09-04'),
+(DEFAULT, 192, 1700, true, '2020-10-05'),
+(DEFAULT, 192, 1700, true, '2020-11-05'),
+(DEFAULT, 192, 1700, true, '2020-12-04'),
+(DEFAULT, 192, 1700, true, '2021-01-05'),
+(DEFAULT, 192, 1700, true, '2021-02-05'),
+(DEFAULT, 192, 1700, true, '2021-03-05'),
+(DEFAULT, 192, 1700, true, '2021-04-05'),
+(DEFAULT, 192, 1700, true, '2021-05-05'),
+(DEFAULT, 192, 1700, true, '2021-06-04'),
+(DEFAULT, 193, 1700, true, '2021-02-05'),
+(DEFAULT, 193, 1700, true, '2021-03-05'),
+(DEFAULT, 193, 1700, true, '2021-04-05'),
+(DEFAULT, 193, 1700, true, '2021-05-05'),
+(DEFAULT, 193, 1700, true, '2021-06-04'),
+(DEFAULT, 194, 1800, true, '2019-11-05'),
+(DEFAULT, 194, 1800, true, '2019-12-05'),
+(DEFAULT, 194, 1800, true, '2020-01-03'),
+(DEFAULT, 194, 1800, true, '2020-02-05'),
+(DEFAULT, 194, 1800, true, '2020-03-05'),
+(DEFAULT, 194, 1800, true, '2020-04-03'),
+(DEFAULT, 194, 1800, true, '2020-05-05'),
+(DEFAULT, 194, 1800, true, '2020-06-05'),
+(DEFAULT, 194, 1800, true, '2020-07-03'),
+(DEFAULT, 194, 1800, true, '2020-08-05'),
+(DEFAULT, 194, 1800, true, '2020-09-04'),
+(DEFAULT, 194, 1800, true, '2020-10-05'),
+(DEFAULT, 194, 1800, true, '2020-11-05'),
+(DEFAULT, 194, 1800, true, '2020-12-04'),
+(DEFAULT, 194, 1800, true, '2021-01-05'),
+(DEFAULT, 194, 1800, true, '2021-02-05'),
+(DEFAULT, 194, 1800, true, '2021-03-05'),
+(DEFAULT, 194, 1800, true, '2021-04-05'),
+(DEFAULT, 194, 1800, true, '2021-05-05'),
+(DEFAULT, 194, 1800, true, '2021-06-04'),
+(DEFAULT, 195, 2000, true, '2020-04-03'),
+(DEFAULT, 195, 2000, true, '2020-05-05'),
+(DEFAULT, 195, 2000, true, '2020-06-05'),
+(DEFAULT, 195, 2000, true, '2020-07-03'),
+(DEFAULT, 195, 2000, true, '2020-08-05'),
+(DEFAULT, 195, 2000, true, '2020-09-04'),
+(DEFAULT, 195, 2000, true, '2020-10-05'),
+(DEFAULT, 195, 2000, true, '2020-11-05'),
+(DEFAULT, 195, 2000, true, '2020-12-04'),
+(DEFAULT, 195, 2000, true, '2021-01-05'),
+(DEFAULT, 195, 2000, true, '2021-02-05'),
+(DEFAULT, 195, 2000, true, '2021-03-05'),
+(DEFAULT, 195, 2000, true, '2021-04-05'),
+(DEFAULT, 195, 2000, true, '2021-05-05'),
+(DEFAULT, 195, 2000, true, '2021-06-04'),
+(DEFAULT, 196, 1700, true, '2020-09-04'),
+(DEFAULT, 196, 1700, true, '2020-10-05'),
+(DEFAULT, 196, 1700, true, '2020-11-05'),
+(DEFAULT, 196, 1700, true, '2020-12-04'),
+(DEFAULT, 196, 1700, true, '2021-01-05'),
+(DEFAULT, 196, 1700, true, '2021-02-05'),
+(DEFAULT, 196, 1700, true, '2021-03-05'),
+(DEFAULT, 196, 1700, true, '2021-04-05'),
+(DEFAULT, 196, 1700, true, '2021-05-05'),
+(DEFAULT, 196, 1700, true, '2021-06-04'),
+(DEFAULT, 197, 1700, true, '2019-12-05'),
+(DEFAULT, 197, 1700, true, '2020-01-03'),
+(DEFAULT, 197, 1700, true, '2020-02-05'),
+(DEFAULT, 197, 1700, true, '2020-03-05'),
+(DEFAULT, 197, 1700, true, '2020-04-03'),
+(DEFAULT, 197, 1700, true, '2020-05-05'),
+(DEFAULT, 197, 1700, true, '2020-06-05'),
+(DEFAULT, 197, 1700, true, '2020-07-03'),
+(DEFAULT, 197, 1700, true, '2020-08-05'),
+(DEFAULT, 197, 1700, true, '2020-09-04'),
+(DEFAULT, 197, 1700, true, '2020-10-05'),
+(DEFAULT, 197, 1700, true, '2020-11-05'),
+(DEFAULT, 197, 1700, true, '2020-12-04'),
+(DEFAULT, 197, 1700, true, '2021-01-05'),
+(DEFAULT, 197, 1700, true, '2021-02-05'),
+(DEFAULT, 197, 1700, true, '2021-03-05'),
+(DEFAULT, 197, 1700, true, '2021-04-05'),
+(DEFAULT, 197, 1700, true, '2021-05-05'),
+(DEFAULT, 197, 1700, true, '2021-06-04'),
+(DEFAULT, 198, 1700, true, '2020-02-05'),
+(DEFAULT, 198, 1700, true, '2020-03-05'),
+(DEFAULT, 198, 1700, true, '2020-04-03'),
+(DEFAULT, 198, 1700, true, '2020-05-05'),
+(DEFAULT, 198, 1700, true, '2020-06-05'),
+(DEFAULT, 198, 1700, true, '2020-07-03'),
+(DEFAULT, 198, 1700, true, '2020-08-05'),
+(DEFAULT, 198, 1700, true, '2020-09-04'),
+(DEFAULT, 198, 1700, true, '2020-10-05'),
+(DEFAULT, 198, 1700, true, '2020-11-05'),
+(DEFAULT, 198, 1700, true, '2020-12-04'),
+(DEFAULT, 198, 1700, true, '2021-01-05'),
+(DEFAULT, 198, 1700, true, '2021-02-05'),
+(DEFAULT, 198, 1700, true, '2021-03-05'),
+(DEFAULT, 198, 1700, true, '2021-04-05'),
+(DEFAULT, 198, 1700, true, '2021-05-05'),
+(DEFAULT, 198, 1700, true, '2021-06-04');
+
+INSERT INTO payroll_item VALUES
+(DEFAULT, 1, 'Salário', 'salary', 5000),
+(DEFAULT, 2, 'Salário', 'salary', 5000),
+(DEFAULT, 3, 'Salário', 'salary', 5000),
+(DEFAULT, 4, 'Salário', 'salary', 5000),
+(DEFAULT, 5, 'Salário', 'salary', 5000),
+(DEFAULT, 6, 'Salário', 'salary', 5000),
+(DEFAULT, 7, 'Salário', 'salary', 5000),
+(DEFAULT, 8, 'Salário', 'salary', 5000),
+(DEFAULT, 9, 'Salário', 'salary', 5000),
+(DEFAULT, 10, 'Salário', 'salary', 5000),
+(DEFAULT, 11, 'Salário', 'salary', 5000),
+(DEFAULT, 12, 'Salário', 'salary', 5000),
+(DEFAULT, 13, 'Salário', 'salary', 5000),
+(DEFAULT, 14, 'Salário', 'salary', 5000),
+(DEFAULT, 15, 'Salário', 'salary', 5000),
+(DEFAULT, 16, 'Salário', 'salary', 5000),
+(DEFAULT, 17, 'Salário', 'salary', 5000),
+(DEFAULT, 18, 'Salário', 'salary', 5000),
+(DEFAULT, 19, 'Salário', 'salary', 5000),
+(DEFAULT, 20, 'Salário', 'salary', 5000),
+(DEFAULT, 21, 'Salário', 'salary', 5000),
+(DEFAULT, 22, 'Salário', 'salary', 5000),
+(DEFAULT, 23, 'Salário', 'salary', 5000),
+(DEFAULT, 24, 'Salário', 'salary', 5000),
+(DEFAULT, 25, 'Salário', 'salary', 5000),
+(DEFAULT, 26, 'Salário', 'salary', 5000),
+(DEFAULT, 27, 'Salário', 'salary', 5000),
+(DEFAULT, 28, 'Salário', 'salary', 5000),
+(DEFAULT, 29, 'Salário', 'salary', 5000),
+(DEFAULT, 30, 'Salário', 'salary', 5000),
+(DEFAULT, 31, 'Salário', 'salary', 5000),
+(DEFAULT, 32, 'Salário', 'salary', 5000),
+(DEFAULT, 33, 'Salário', 'salary', 5000),
+(DEFAULT, 34, 'Salário', 'salary', 5000),
+(DEFAULT, 35, 'Salário', 'salary', 5000),
+(DEFAULT, 36, 'Salário', 'salary', 5000),
+(DEFAULT, 37, 'Salário', 'salary', 5000),
+(DEFAULT, 38, 'Salário', 'salary', 5000),
+(DEFAULT, 39, 'Salário', 'salary', 5000),
+(DEFAULT, 40, 'Salário', 'salary', 5000),
+(DEFAULT, 41, 'Salário', 'salary', 5000),
+(DEFAULT, 42, 'Salário', 'salary', 5000),
+(DEFAULT, 43, 'Salário', 'salary', 5000),
+(DEFAULT, 44, 'Salário', 'salary', 5000),
+(DEFAULT, 45, 'Salário', 'salary', 5000),
+(DEFAULT, 46, 'Salário', 'salary', 5000),
+(DEFAULT, 47, 'Salário', 'salary', 5000),
+(DEFAULT, 48, 'Salário', 'salary', 5000),
+(DEFAULT, 49, 'Salário', 'salary', 5000),
+(DEFAULT, 50, 'Salário', 'salary', 5000),
+(DEFAULT, 51, 'Salário', 'salary', 5000),
+(DEFAULT, 52, 'Salário', 'salary', 5000),
+(DEFAULT, 53, 'Salário', 'salary', 5000),
+(DEFAULT, 54, 'Salário', 'salary', 5000),
+(DEFAULT, 55, 'Salário', 'salary', 5000),
+(DEFAULT, 56, 'Salário', 'salary', 5000),
+(DEFAULT, 57, 'Salário', 'salary', 5000),
+(DEFAULT, 58, 'Salário', 'salary', 5000),
+(DEFAULT, 59, 'Salário', 'salary', 5000),
+(DEFAULT, 60, 'Salário', 'salary', 5000),
+(DEFAULT, 61, 'Salário', 'salary', 5000),
+(DEFAULT, 62, 'Salário', 'salary', 5000),
+(DEFAULT, 63, 'Salário', 'salary', 5000),
+(DEFAULT, 64, 'Salário', 'salary', 5000),
+(DEFAULT, 65, 'Salário', 'salary', 5000),
+(DEFAULT, 66, 'Salário', 'salary', 5000),
+(DEFAULT, 67, 'Salário', 'salary', 5000),
+(DEFAULT, 68, 'Salário', 'salary', 5000),
+(DEFAULT, 69, 'Salário', 'salary', 5000),
+(DEFAULT, 70, 'Salário', 'salary', 5000),
+(DEFAULT, 71, 'Salário', 'salary', 5000),
+(DEFAULT, 72, 'Salário', 'salary', 5000),
+(DEFAULT, 73, 'Salário', 'salary', 5000),
+(DEFAULT, 74, 'Salário', 'salary', 5000),
+(DEFAULT, 75, 'Salário', 'salary', 5000),
+(DEFAULT, 76, 'Salário', 'salary', 5000),
+(DEFAULT, 77, 'Salário', 'salary', 5000),
+(DEFAULT, 78, 'Salário', 'salary', 5000),
+(DEFAULT, 79, 'Salário', 'salary', 5000),
+(DEFAULT, 80, 'Salário', 'salary', 5000),
+(DEFAULT, 81, 'Salário', 'salary', 5000),
+(DEFAULT, 82, 'Salário', 'salary', 5000),
+(DEFAULT, 83, 'Salário', 'salary', 5000),
+(DEFAULT, 84, 'Salário', 'salary', 5000),
+(DEFAULT, 85, 'Salário', 'salary', 5000),
+(DEFAULT, 86, 'Salário', 'salary', 5000),
+(DEFAULT, 87, 'Salário', 'salary', 5000),
+(DEFAULT, 88, 'Salário', 'salary', 5000),
+(DEFAULT, 89, 'Salário', 'salary', 5000),
+(DEFAULT, 90, 'Salário', 'salary', 5000),
+(DEFAULT, 91, 'Salário', 'salary', 5000),
+(DEFAULT, 92, 'Salário', 'salary', 5000),
+(DEFAULT, 93, 'Salário', 'salary', 5000),
+(DEFAULT, 94, 'Salário', 'salary', 5000),
+(DEFAULT, 95, 'Salário', 'salary', 5000),
+(DEFAULT, 96, 'Salário', 'salary', 5000),
+(DEFAULT, 97, 'Salário', 'salary', 5000),
+(DEFAULT, 98, 'Salário', 'salary', 5000),
+(DEFAULT, 99, 'Salário', 'salary', 5000),
+(DEFAULT, 100, 'Salário', 'salary', 5000),
+(DEFAULT, 101, 'Salário', 'salary', 5000),
+(DEFAULT, 102, 'Salário', 'salary', 5000),
+(DEFAULT, 103, 'Salário', 'salary', 5000),
+(DEFAULT, 104, 'Salário', 'salary', 5000),
+(DEFAULT, 105, 'Salário', 'salary', 5000),
+(DEFAULT, 106, 'Salário', 'salary', 5000),
+(DEFAULT, 107, 'Salário', 'salary', 5000),
+(DEFAULT, 108, 'Salário', 'salary', 5000),
+(DEFAULT, 109, 'Salário', 'salary', 5000),
+(DEFAULT, 110, 'Salário', 'salary', 5000),
+(DEFAULT, 111, 'Salário', 'salary', 5000),
+(DEFAULT, 112, 'Salário', 'salary', 5000),
+(DEFAULT, 113, 'Salário', 'salary', 5000),
+(DEFAULT, 114, 'Salário', 'salary', 5000),
+(DEFAULT, 115, 'Salário', 'salary', 5000),
+(DEFAULT, 116, 'Salário', 'salary', 5000),
+(DEFAULT, 117, 'Salário', 'salary', 5000),
+(DEFAULT, 118, 'Salário', 'salary', 5000),
+(DEFAULT, 119, 'Salário', 'salary', 5000),
+(DEFAULT, 120, 'Salário', 'salary', 5000),
+(DEFAULT, 121, 'Salário', 'salary', 5000),
+(DEFAULT, 122, 'Salário', 'salary', 5000),
+(DEFAULT, 123, 'Salário', 'salary', 5000),
+(DEFAULT, 124, 'Salário', 'salary', 5000),
+(DEFAULT, 125, 'Salário', 'salary', 5000),
+(DEFAULT, 126, 'Salário', 'salary', 5000),
+(DEFAULT, 127, 'Salário', 'salary', 5000),
+(DEFAULT, 128, 'Salário', 'salary', 5000),
+(DEFAULT, 129, 'Salário', 'salary', 5000),
+(DEFAULT, 130, 'Salário', 'salary', 5000),
+(DEFAULT, 131, 'Salário', 'salary', 5000),
+(DEFAULT, 132, 'Salário', 'salary', 5000),
+(DEFAULT, 133, 'Salário', 'salary', 5000),
+(DEFAULT, 134, 'Salário', 'salary', 5000),
+(DEFAULT, 135, 'Salário', 'salary', 5000),
+(DEFAULT, 136, 'Salário', 'salary', 5000),
+(DEFAULT, 137, 'Salário', 'salary', 5000),
+(DEFAULT, 138, 'Salário', 'salary', 5000),
+(DEFAULT, 139, 'Salário', 'salary', 5000),
+(DEFAULT, 140, 'Salário', 'salary', 5000),
+(DEFAULT, 141, 'Salário', 'salary', 5000),
+(DEFAULT, 142, 'Salário', 'salary', 5000),
+(DEFAULT, 143, 'Salário', 'salary', 5000),
+(DEFAULT, 144, 'Salário', 'salary', 5000),
+(DEFAULT, 145, 'Salário', 'salary', 5000),
+(DEFAULT, 146, 'Salário', 'salary', 5000),
+(DEFAULT, 147, 'Salário', 'salary', 5000),
+(DEFAULT, 148, 'Salário', 'salary', 5000),
+(DEFAULT, 149, 'Salário', 'salary', 5000),
+(DEFAULT, 150, 'Salário', 'salary', 5000),
+(DEFAULT, 151, 'Salário', 'salary', 5000),
+(DEFAULT, 152, 'Salário', 'salary', 5000),
+(DEFAULT, 153, 'Salário', 'salary', 5000),
+(DEFAULT, 154, 'Salário', 'salary', 5000),
+(DEFAULT, 155, 'Salário', 'salary', 5000),
+(DEFAULT, 156, 'Salário', 'salary', 5000),
+(DEFAULT, 157, 'Salário', 'salary', 5000),
+(DEFAULT, 158, 'Salário', 'salary', 5000),
+(DEFAULT, 159, 'Salário', 'salary', 5000),
+(DEFAULT, 160, 'Salário', 'salary', 5000),
+(DEFAULT, 161, 'Salário', 'salary', 5000),
+(DEFAULT, 162, 'Salário', 'salary', 5000),
+(DEFAULT, 163, 'Salário', 'salary', 5000),
+(DEFAULT, 164, 'Salário', 'salary', 5000),
+(DEFAULT, 165, 'Salário', 'salary', 5000),
+(DEFAULT, 166, 'Salário', 'salary', 5000),
+(DEFAULT, 167, 'Salário', 'salary', 5000),
+(DEFAULT, 168, 'Salário', 'salary', 5000),
+(DEFAULT, 169, 'Salário', 'salary', 5000),
+(DEFAULT, 170, 'Salário', 'salary', 5000),
+(DEFAULT, 171, 'Salário', 'salary', 5000),
+(DEFAULT, 172, 'Salário', 'salary', 5000),
+(DEFAULT, 173, 'Salário', 'salary', 5000),
+(DEFAULT, 174, 'Salário', 'salary', 5000),
+(DEFAULT, 175, 'Salário', 'salary', 5000),
+(DEFAULT, 176, 'Salário', 'salary', 5000),
+(DEFAULT, 177, 'Salário', 'salary', 5000),
+(DEFAULT, 178, 'Salário', 'salary', 5000),
+(DEFAULT, 179, 'Salário', 'salary', 5000),
+(DEFAULT, 180, 'Salário', 'salary', 5000),
+(DEFAULT, 181, 'Salário', 'salary', 5000),
+(DEFAULT, 182, 'Salário', 'salary', 5000),
+(DEFAULT, 183, 'Salário', 'salary', 5000),
+(DEFAULT, 184, 'Salário', 'salary', 5000),
+(DEFAULT, 185, 'Salário', 'salary', 5000),
+(DEFAULT, 186, 'Salário', 'salary', 5000),
+(DEFAULT, 187, 'Salário', 'salary', 5000),
+(DEFAULT, 188, 'Salário', 'salary', 5000),
+(DEFAULT, 189, 'Salário', 'salary', 5000),
+(DEFAULT, 190, 'Salário', 'salary', 5000),
+(DEFAULT, 191, 'Salário', 'salary', 5000),
+(DEFAULT, 192, 'Salário', 'salary', 5000),
+(DEFAULT, 193, 'Salário', 'salary', 5000),
+(DEFAULT, 194, 'Salário', 'salary', 5000),
+(DEFAULT, 195, 'Salário', 'salary', 1800),
+(DEFAULT, 196, 'Salário', 'salary', 1800),
+(DEFAULT, 197, 'Salário', 'salary', 1800),
+(DEFAULT, 198, 'Salário', 'salary', 1800),
+(DEFAULT, 199, 'Salário', 'salary', 1800),
+(DEFAULT, 200, 'Salário', 'salary', 1800),
+(DEFAULT, 201, 'Salário', 'salary', 1800),
+(DEFAULT, 202, 'Salário', 'salary', 1800),
+(DEFAULT, 203, 'Salário', 'salary', 1800),
+(DEFAULT, 204, 'Salário', 'salary', 1800),
+(DEFAULT, 205, 'Salário', 'salary', 1800),
+(DEFAULT, 206, 'Salário', 'salary', 1800),
+(DEFAULT, 207, 'Salário', 'salary', 1800),
+(DEFAULT, 208, 'Salário', 'salary', 1800),
+(DEFAULT, 209, 'Salário', 'salary', 2000),
+(DEFAULT, 210, 'Salário', 'salary', 1700),
+(DEFAULT, 211, 'Salário', 'salary', 1700),
+(DEFAULT, 212, 'Salário', 'salary', 1700),
+(DEFAULT, 213, 'Salário', 'salary', 1700),
+(DEFAULT, 214, 'Salário', 'salary', 1700),
+(DEFAULT, 215, 'Salário', 'salary', 1700),
+(DEFAULT, 216, 'Salário', 'salary', 1700),
+(DEFAULT, 217, 'Salário', 'salary', 1700),
+(DEFAULT, 218, 'Salário', 'salary', 1700),
+(DEFAULT, 219, 'Salário', 'salary', 1700),
+(DEFAULT, 220, 'Salário', 'salary', 1700),
+(DEFAULT, 221, 'Salário', 'salary', 1700),
+(DEFAULT, 222, 'Salário', 'salary', 1700),
+(DEFAULT, 223, 'Salário', 'salary', 1700),
+(DEFAULT, 224, 'Salário', 'salary', 1700),
+(DEFAULT, 225, 'Salário', 'salary', 1700),
+(DEFAULT, 226, 'Salário', 'salary', 1800),
+(DEFAULT, 227, 'Salário', 'salary', 1800),
+(DEFAULT, 228, 'Salário', 'salary', 1800),
+(DEFAULT, 229, 'Salário', 'salary', 2000),
+(DEFAULT, 230, 'Salário', 'salary', 2000),
+(DEFAULT, 231, 'Salário', 'salary', 2000),
+(DEFAULT, 232, 'Salário', 'salary', 2000),
+(DEFAULT, 233, 'Salário', 'salary', 2000),
+(DEFAULT, 234, 'Salário', 'salary', 2000),
+(DEFAULT, 235, 'Salário', 'salary', 2000),
+(DEFAULT, 236, 'Salário', 'salary', 2000),
+(DEFAULT, 237, 'Salário', 'salary', 2000),
+(DEFAULT, 238, 'Salário', 'salary', 2000),
+(DEFAULT, 239, 'Salário', 'salary', 2000),
+(DEFAULT, 240, 'Salário', 'salary', 2000),
+(DEFAULT, 241, 'Salário', 'salary', 2000),
+(DEFAULT, 242, 'Salário', 'salary', 2000),
+(DEFAULT, 243, 'Salário', 'salary', 2000),
+(DEFAULT, 244, 'Salário', 'salary', 2000),
+(DEFAULT, 245, 'Salário', 'salary', 2000),
+(DEFAULT, 246, 'Salário', 'salary', 2000),
+(DEFAULT, 247, 'Salário', 'salary', 2000),
+(DEFAULT, 248, 'Salário', 'salary', 2000),
+(DEFAULT, 249, 'Salário', 'salary', 2000),
+(DEFAULT, 250, 'Salário', 'salary', 1700),
+(DEFAULT, 251, 'Salário', 'salary', 1700),
+(DEFAULT, 252, 'Salário', 'salary', 1700),
+(DEFAULT, 253, 'Salário', 'salary', 1700),
+(DEFAULT, 254, 'Salário', 'salary', 1700),
+(DEFAULT, 255, 'Salário', 'salary', 1700),
+(DEFAULT, 256, 'Salário', 'salary', 1700),
+(DEFAULT, 257, 'Salário', 'salary', 1700),
+(DEFAULT, 258, 'Salário', 'salary', 1700),
+(DEFAULT, 259, 'Salário', 'salary', 1700),
+(DEFAULT, 260, 'Salário', 'salary', 1700),
+(DEFAULT, 261, 'Salário', 'salary', 1700),
+(DEFAULT, 262, 'Salário', 'salary', 1700),
+(DEFAULT, 263, 'Salário', 'salary', 1700),
+(DEFAULT, 264, 'Salário', 'salary', 1700),
+(DEFAULT, 265, 'Salário', 'salary', 1700),
+(DEFAULT, 266, 'Salário', 'salary', 1700),
+(DEFAULT, 267, 'Salário', 'salary', 1700),
+(DEFAULT, 268, 'Salário', 'salary', 1700),
+(DEFAULT, 269, 'Salário', 'salary', 1700),
+(DEFAULT, 270, 'Salário', 'salary', 1700),
+(DEFAULT, 271, 'Salário', 'salary', 1700),
+(DEFAULT, 272, 'Salário', 'salary', 1700),
+(DEFAULT, 273, 'Salário', 'salary', 1700),
+(DEFAULT, 274, 'Salário', 'salary', 1700),
+(DEFAULT, 275, 'Salário', 'salary', 1700),
+(DEFAULT, 276, 'Salário', 'salary', 1700),
+(DEFAULT, 277, 'Salário', 'salary', 1700),
+(DEFAULT, 278, 'Salário', 'salary', 1700),
+(DEFAULT, 279, 'Salário', 'salary', 1700),
+(DEFAULT, 280, 'Salário', 'salary', 1700),
+(DEFAULT, 281, 'Salário', 'salary', 1700),
+(DEFAULT, 282, 'Salário', 'salary', 1700),
+(DEFAULT, 283, 'Salário', 'salary', 1700),
+(DEFAULT, 284, 'Salário', 'salary', 1700),
+(DEFAULT, 285, 'Salário', 'salary', 1700),
+(DEFAULT, 286, 'Salário', 'salary', 1700),
+(DEFAULT, 287, 'Salário', 'salary', 1700),
+(DEFAULT, 288, 'Salário', 'salary', 1700),
+(DEFAULT, 289, 'Salário', 'salary', 1700),
+(DEFAULT, 290, 'Salário', 'salary', 1800),
+(DEFAULT, 291, 'Salário', 'salary', 2000),
+(DEFAULT, 292, 'Salário', 'salary', 2000),
+(DEFAULT, 293, 'Salário', 'salary', 2000),
+(DEFAULT, 294, 'Salário', 'salary', 2000),
+(DEFAULT, 295, 'Salário', 'salary', 2000),
+(DEFAULT, 296, 'Salário', 'salary', 2000),
+(DEFAULT, 297, 'Salário', 'salary', 2000),
+(DEFAULT, 298, 'Salário', 'salary', 2000),
+(DEFAULT, 299, 'Salário', 'salary', 2000),
+(DEFAULT, 300, 'Salário', 'salary', 1700),
+(DEFAULT, 301, 'Salário', 'salary', 1700),
+(DEFAULT, 302, 'Salário', 'salary', 1700),
+(DEFAULT, 303, 'Salário', 'salary', 1700),
+(DEFAULT, 304, 'Salário', 'salary', 1700),
+(DEFAULT, 305, 'Salário', 'salary', 1700),
+(DEFAULT, 306, 'Salário', 'salary', 1700),
+(DEFAULT, 307, 'Salário', 'salary', 1700),
+(DEFAULT, 308, 'Salário', 'salary', 1700),
+(DEFAULT, 309, 'Salário', 'salary', 1700),
+(DEFAULT, 310, 'Salário', 'salary', 1700),
+(DEFAULT, 311, 'Salário', 'salary', 1700),
+(DEFAULT, 312, 'Salário', 'salary', 1700),
+(DEFAULT, 313, 'Salário', 'salary', 1700),
+(DEFAULT, 314, 'Salário', 'salary', 1700),
+(DEFAULT, 315, 'Salário', 'salary', 1700),
+(DEFAULT, 316, 'Salário', 'salary', 1700),
+(DEFAULT, 317, 'Salário', 'salary', 1700),
+(DEFAULT, 318, 'Salário', 'salary', 1700),
+(DEFAULT, 319, 'Salário', 'salary', 1700),
+(DEFAULT, 320, 'Salário', 'salary', 1700),
+(DEFAULT, 321, 'Salário', 'salary', 1700),
+(DEFAULT, 322, 'Salário', 'salary', 1700),
+(DEFAULT, 323, 'Salário', 'salary', 1700),
+(DEFAULT, 324, 'Salário', 'salary', 1700),
+(DEFAULT, 325, 'Salário', 'salary', 1700),
+(DEFAULT, 326, 'Salário', 'salary', 1700),
+(DEFAULT, 327, 'Salário', 'salary', 1700),
+(DEFAULT, 328, 'Salário', 'salary', 1700),
+(DEFAULT, 329, 'Salário', 'salary', 1700),
+(DEFAULT, 330, 'Salário', 'salary', 1700),
+(DEFAULT, 331, 'Salário', 'salary', 1700),
+(DEFAULT, 332, 'Salário', 'salary', 1800),
+(DEFAULT, 333, 'Salário', 'salary', 1800),
+(DEFAULT, 334, 'Salário', 'salary', 1800),
+(DEFAULT, 335, 'Salário', 'salary', 1800),
+(DEFAULT, 336, 'Salário', 'salary', 1800),
+(DEFAULT, 337, 'Salário', 'salary', 1800),
+(DEFAULT, 338, 'Salário', 'salary', 1800),
+(DEFAULT, 339, 'Salário', 'salary', 1800),
+(DEFAULT, 340, 'Salário', 'salary', 1800),
+(DEFAULT, 341, 'Salário', 'salary', 1800),
+(DEFAULT, 342, 'Salário', 'salary', 1800),
+(DEFAULT, 343, 'Salário', 'salary', 1800),
+(DEFAULT, 344, 'Salário', 'salary', 1800),
+(DEFAULT, 345, 'Salário', 'salary', 1800),
+(DEFAULT, 346, 'Salário', 'salary', 1800),
+(DEFAULT, 347, 'Salário', 'salary', 2000),
+(DEFAULT, 348, 'Salário', 'salary', 2000),
+(DEFAULT, 349, 'Salário', 'salary', 2000),
+(DEFAULT, 350, 'Salário', 'salary', 2000),
+(DEFAULT, 351, 'Salário', 'salary', 2000),
+(DEFAULT, 352, 'Salário', 'salary', 2000),
+(DEFAULT, 353, 'Salário', 'salary', 2000),
+(DEFAULT, 354, 'Salário', 'salary', 2000),
+(DEFAULT, 355, 'Salário', 'salary', 2000),
+(DEFAULT, 356, 'Salário', 'salary', 2000),
+(DEFAULT, 357, 'Salário', 'salary', 2000),
+(DEFAULT, 358, 'Salário', 'salary', 2000),
+(DEFAULT, 359, 'Salário', 'salary', 2000),
+(DEFAULT, 360, 'Salário', 'salary', 1700),
+(DEFAULT, 361, 'Salário', 'salary', 1700),
+(DEFAULT, 362, 'Salário', 'salary', 1700),
+(DEFAULT, 363, 'Salário', 'salary', 1700),
+(DEFAULT, 364, 'Salário', 'salary', 1700),
+(DEFAULT, 365, 'Salário', 'salary', 1700),
+(DEFAULT, 366, 'Salário', 'salary', 1700),
+(DEFAULT, 367, 'Salário', 'salary', 1700),
+(DEFAULT, 368, 'Salário', 'salary', 1700),
+(DEFAULT, 369, 'Salário', 'salary', 1700),
+(DEFAULT, 370, 'Salário', 'salary', 1700),
+(DEFAULT, 371, 'Salário', 'salary', 1700),
+(DEFAULT, 372, 'Salário', 'salary', 1700),
+(DEFAULT, 373, 'Salário', 'salary', 1700),
+(DEFAULT, 374, 'Salário', 'salary', 1700),
+(DEFAULT, 375, 'Salário', 'salary', 1700),
+(DEFAULT, 376, 'Salário', 'salary', 1700),
+(DEFAULT, 377, 'Salário', 'salary', 1700),
+(DEFAULT, 378, 'Salário', 'salary', 1700),
+(DEFAULT, 379, 'Salário', 'salary', 1700),
+(DEFAULT, 380, 'Salário', 'salary', 1700),
+(DEFAULT, 381, 'Salário', 'salary', 1700),
+(DEFAULT, 382, 'Salário', 'salary', 1700),
+(DEFAULT, 383, 'Salário', 'salary', 1700),
+(DEFAULT, 384, 'Salário', 'salary', 1700),
+(DEFAULT, 385, 'Salário', 'salary', 1700),
+(DEFAULT, 386, 'Salário', 'salary', 1700),
+(DEFAULT, 387, 'Salário', 'salary', 1700),
+(DEFAULT, 388, 'Salário', 'salary', 1700),
+(DEFAULT, 389, 'Salário', 'salary', 1700),
+(DEFAULT, 390, 'Salário', 'salary', 1700),
+(DEFAULT, 391, 'Salário', 'salary', 1700),
+(DEFAULT, 392, 'Salário', 'salary', 1700),
+(DEFAULT, 393, 'Salário', 'salary', 1700),
+(DEFAULT, 394, 'Salário', 'salary', 1800),
+(DEFAULT, 395, 'Salário', 'salary', 1800),
+(DEFAULT, 396, 'Salário', 'salary', 1800),
+(DEFAULT, 397, 'Salário', 'salary', 1800),
+(DEFAULT, 398, 'Salário', 'salary', 1800),
+(DEFAULT, 399, 'Salário', 'salary', 1800),
+(DEFAULT, 400, 'Salário', 'salary', 1800),
+(DEFAULT, 401, 'Salário', 'salary', 1800),
+(DEFAULT, 402, 'Salário', 'salary', 1800),
+(DEFAULT, 403, 'Salário', 'salary', 1800),
+(DEFAULT, 404, 'Salário', 'salary', 1800),
+(DEFAULT, 405, 'Salário', 'salary', 1800),
+(DEFAULT, 406, 'Salário', 'salary', 1800),
+(DEFAULT, 407, 'Salário', 'salary', 1800),
+(DEFAULT, 408, 'Salário', 'salary', 1800),
+(DEFAULT, 409, 'Salário', 'salary', 1800),
+(DEFAULT, 410, 'Salário', 'salary', 1800),
+(DEFAULT, 411, 'Salário', 'salary', 1800),
+(DEFAULT, 412, 'Salário', 'salary', 1700),
+(DEFAULT, 413, 'Salário', 'salary', 1700),
+(DEFAULT, 414, 'Salário', 'salary', 1700),
+(DEFAULT, 415, 'Salário', 'salary', 1700),
+(DEFAULT, 416, 'Salário', 'salary', 1700),
+(DEFAULT, 417, 'Salário', 'salary', 1700),
+(DEFAULT, 418, 'Salário', 'salary', 1700),
+(DEFAULT, 419, 'Salário', 'salary', 1700),
+(DEFAULT, 420, 'Salário', 'salary', 1700),
+(DEFAULT, 421, 'Salário', 'salary', 1700),
+(DEFAULT, 422, 'Salário', 'salary', 1700),
+(DEFAULT, 423, 'Salário', 'salary', 1700),
+(DEFAULT, 424, 'Salário', 'salary', 1700),
+(DEFAULT, 425, 'Salário', 'salary', 1700),
+(DEFAULT, 426, 'Salário', 'salary', 1700),
+(DEFAULT, 427, 'Salário', 'salary', 1700),
+(DEFAULT, 428, 'Salário', 'salary', 1800),
+(DEFAULT, 429, 'Salário', 'salary', 1800),
+(DEFAULT, 430, 'Salário', 'salary', 1800),
+(DEFAULT, 431, 'Salário', 'salary', 1800),
+(DEFAULT, 432, 'Salário', 'salary', 1800),
+(DEFAULT, 433, 'Salário', 'salary', 1800),
+(DEFAULT, 434, 'Salário', 'salary', 1800),
+(DEFAULT, 435, 'Salário', 'salary', 1800),
+(DEFAULT, 436, 'Salário', 'salary', 1800),
+(DEFAULT, 437, 'Salário', 'salary', 1800),
+(DEFAULT, 438, 'Salário', 'salary', 1800),
+(DEFAULT, 439, 'Salário', 'salary', 1800),
+(DEFAULT, 440, 'Salário', 'salary', 1800),
+(DEFAULT, 441, 'Salário', 'salary', 1800),
+(DEFAULT, 442, 'Salário', 'salary', 1800),
+(DEFAULT, 443, 'Salário', 'salary', 1800),
+(DEFAULT, 444, 'Salário', 'salary', 1800),
+(DEFAULT, 445, 'Salário', 'salary', 1800),
+(DEFAULT, 446, 'Salário', 'salary', 1800),
+(DEFAULT, 447, 'Salário', 'salary', 2000),
+(DEFAULT, 448, 'Salário', 'salary', 2000),
+(DEFAULT, 449, 'Salário', 'salary', 2000),
+(DEFAULT, 450, 'Salário', 'salary', 2000),
+(DEFAULT, 451, 'Salário', 'salary', 2000),
+(DEFAULT, 452, 'Salário', 'salary', 2000),
+(DEFAULT, 453, 'Salário', 'salary', 2000),
+(DEFAULT, 454, 'Salário', 'salary', 2000),
+(DEFAULT, 455, 'Salário', 'salary', 1700),
+(DEFAULT, 456, 'Salário', 'salary', 1700),
+(DEFAULT, 457, 'Salário', 'salary', 1700),
+(DEFAULT, 458, 'Salário', 'salary', 1700),
+(DEFAULT, 459, 'Salário', 'salary', 1700),
+(DEFAULT, 460, 'Salário', 'salary', 1700),
+(DEFAULT, 461, 'Salário', 'salary', 1700),
+(DEFAULT, 462, 'Salário', 'salary', 1700),
+(DEFAULT, 463, 'Salário', 'salary', 1700),
+(DEFAULT, 464, 'Salário', 'salary', 1700),
+(DEFAULT, 465, 'Salário', 'salary', 1700),
+(DEFAULT, 466, 'Salário', 'salary', 1700),
+(DEFAULT, 467, 'Salário', 'salary', 1700),
+(DEFAULT, 468, 'Salário', 'salary', 1700),
+(DEFAULT, 469, 'Salário', 'salary', 1700),
+(DEFAULT, 470, 'Salário', 'salary', 1700),
+(DEFAULT, 471, 'Salário', 'salary', 1700),
+(DEFAULT, 472, 'Salário', 'salary', 1700),
+(DEFAULT, 473, 'Salário', 'salary', 1700),
+(DEFAULT, 474, 'Salário', 'salary', 1700),
+(DEFAULT, 475, 'Salário', 'salary', 1700),
+(DEFAULT, 476, 'Salário', 'salary', 1700),
+(DEFAULT, 477, 'Salário', 'salary', 1700),
+(DEFAULT, 478, 'Salário', 'salary', 1800),
+(DEFAULT, 479, 'Salário', 'salary', 1800),
+(DEFAULT, 480, 'Salário', 'salary', 1800),
+(DEFAULT, 481, 'Salário', 'salary', 1800),
+(DEFAULT, 482, 'Salário', 'salary', 1800),
+(DEFAULT, 483, 'Salário', 'salary', 1800),
+(DEFAULT, 484, 'Salário', 'salary', 1800),
+(DEFAULT, 485, 'Salário', 'salary', 1800),
+(DEFAULT, 486, 'Salário', 'salary', 1800),
+(DEFAULT, 487, 'Salário', 'salary', 1800),
+(DEFAULT, 488, 'Salário', 'salary', 1800),
+(DEFAULT, 489, 'Salário', 'salary', 1800),
+(DEFAULT, 490, 'Salário', 'salary', 1800),
+(DEFAULT, 491, 'Salário', 'salary', 1800),
+(DEFAULT, 492, 'Salário', 'salary', 1800),
+(DEFAULT, 493, 'Salário', 'salary', 1800),
+(DEFAULT, 494, 'Salário', 'salary', 2000),
+(DEFAULT, 495, 'Salário', 'salary', 2000),
+(DEFAULT, 496, 'Salário', 'salary', 2000),
+(DEFAULT, 497, 'Salário', 'salary', 2000),
+(DEFAULT, 498, 'Salário', 'salary', 2000),
+(DEFAULT, 499, 'Salário', 'salary', 1700),
+(DEFAULT, 500, 'Salário', 'salary', 1700),
+(DEFAULT, 501, 'Salário', 'salary', 1700),
+(DEFAULT, 502, 'Salário', 'salary', 1700),
+(DEFAULT, 503, 'Salário', 'salary', 1700),
+(DEFAULT, 504, 'Salário', 'salary', 1700),
+(DEFAULT, 505, 'Salário', 'salary', 1700),
+(DEFAULT, 506, 'Salário', 'salary', 1700),
+(DEFAULT, 507, 'Salário', 'salary', 1700),
+(DEFAULT, 508, 'Salário', 'salary', 1700),
+(DEFAULT, 509, 'Salário', 'salary', 1700),
+(DEFAULT, 510, 'Salário', 'salary', 1700),
+(DEFAULT, 511, 'Salário', 'salary', 1700),
+(DEFAULT, 512, 'Salário', 'salary', 1700),
+(DEFAULT, 513, 'Salário', 'salary', 1700),
+(DEFAULT, 514, 'Salário', 'salary', 1700),
+(DEFAULT, 515, 'Salário', 'salary', 1700),
+(DEFAULT, 516, 'Salário', 'salary', 1700),
+(DEFAULT, 517, 'Salário', 'salary', 1700),
+(DEFAULT, 518, 'Salário', 'salary', 1700),
+(DEFAULT, 519, 'Salário', 'salary', 1700),
+(DEFAULT, 520, 'Salário', 'salary', 1700),
+(DEFAULT, 521, 'Salário', 'salary', 1700),
+(DEFAULT, 522, 'Salário', 'salary', 1800),
+(DEFAULT, 523, 'Salário', 'salary', 1800),
+(DEFAULT, 524, 'Salário', 'salary', 1800),
+(DEFAULT, 525, 'Salário', 'salary', 1800),
+(DEFAULT, 526, 'Salário', 'salary', 1800),
+(DEFAULT, 527, 'Salário', 'salary', 1800),
+(DEFAULT, 528, 'Salário', 'salary', 1800),
+(DEFAULT, 529, 'Salário', 'salary', 1800),
+(DEFAULT, 530, 'Salário', 'salary', 1800),
+(DEFAULT, 531, 'Salário', 'salary', 2000),
+(DEFAULT, 532, 'Salário', 'salary', 2000),
+(DEFAULT, 533, 'Salário', 'salary', 2000),
+(DEFAULT, 534, 'Salário', 'salary', 2000),
+(DEFAULT, 535, 'Salário', 'salary', 2000),
+(DEFAULT, 536, 'Salário', 'salary', 2000),
+(DEFAULT, 537, 'Salário', 'salary', 2000),
+(DEFAULT, 538, 'Salário', 'salary', 1700),
+(DEFAULT, 539, 'Salário', 'salary', 1700),
+(DEFAULT, 540, 'Salário', 'salary', 1700),
+(DEFAULT, 541, 'Salário', 'salary', 1700),
+(DEFAULT, 542, 'Salário', 'salary', 1700),
+(DEFAULT, 543, 'Salário', 'salary', 1700),
+(DEFAULT, 544, 'Salário', 'salary', 1700),
+(DEFAULT, 545, 'Salário', 'salary', 1700),
+(DEFAULT, 546, 'Salário', 'salary', 1700),
+(DEFAULT, 547, 'Salário', 'salary', 1700),
+(DEFAULT, 548, 'Salário', 'salary', 1700),
+(DEFAULT, 549, 'Salário', 'salary', 1700),
+(DEFAULT, 550, 'Salário', 'salary', 1700),
+(DEFAULT, 551, 'Salário', 'salary', 1700),
+(DEFAULT, 552, 'Salário', 'salary', 1700),
+(DEFAULT, 553, 'Salário', 'salary', 1700),
+(DEFAULT, 554, 'Salário', 'salary', 1700),
+(DEFAULT, 555, 'Salário', 'salary', 1700),
+(DEFAULT, 556, 'Salário', 'salary', 1700),
+(DEFAULT, 557, 'Salário', 'salary', 1700),
+(DEFAULT, 558, 'Salário', 'salary', 1700),
+(DEFAULT, 559, 'Salário', 'salary', 1700),
+(DEFAULT, 560, 'Salário', 'salary', 1700),
+(DEFAULT, 561, 'Salário', 'salary', 1700),
+(DEFAULT, 562, 'Salário', 'salary', 1700),
+(DEFAULT, 563, 'Salário', 'salary', 1700),
+(DEFAULT, 564, 'Salário', 'salary', 1700),
+(DEFAULT, 565, 'Salário', 'salary', 1700),
+(DEFAULT, 566, 'Salário', 'salary', 1700),
+(DEFAULT, 567, 'Salário', 'salary', 1700),
+(DEFAULT, 568, 'Salário', 'salary', 1700),
+(DEFAULT, 569, 'Salário', 'salary', 1700),
+(DEFAULT, 570, 'Salário', 'salary', 1700),
+(DEFAULT, 571, 'Salário', 'salary', 1700),
+(DEFAULT, 572, 'Salário', 'salary', 1700),
+(DEFAULT, 573, 'Salário', 'salary', 1700),
+(DEFAULT, 574, 'Salário', 'salary', 1700),
+(DEFAULT, 575, 'Salário', 'salary', 1700),
+(DEFAULT, 576, 'Salário', 'salary', 1700),
+(DEFAULT, 577, 'Salário', 'salary', 1700),
+(DEFAULT, 578, 'Salário', 'salary', 1700),
+(DEFAULT, 579, 'Salário', 'salary', 1700),
+(DEFAULT, 580, 'Salário', 'salary', 1700),
+(DEFAULT, 581, 'Salário', 'salary', 1800),
+(DEFAULT, 582, 'Salário', 'salary', 1800),
+(DEFAULT, 583, 'Salário', 'salary', 1800),
+(DEFAULT, 584, 'Salário', 'salary', 1800),
+(DEFAULT, 585, 'Salário', 'salary', 1800),
+(DEFAULT, 586, 'Salário', 'salary', 1800),
+(DEFAULT, 587, 'Salário', 'salary', 1800),
+(DEFAULT, 588, 'Salário', 'salary', 1800),
+(DEFAULT, 589, 'Salário', 'salary', 1800),
+(DEFAULT, 590, 'Salário', 'salary', 1800),
+(DEFAULT, 591, 'Salário', 'salary', 1800),
+(DEFAULT, 592, 'Salário', 'salary', 1800),
+(DEFAULT, 593, 'Salário', 'salary', 1800),
+(DEFAULT, 594, 'Salário', 'salary', 1800),
+(DEFAULT, 595, 'Salário', 'salary', 2000),
+(DEFAULT, 596, 'Salário', 'salary', 2000),
+(DEFAULT, 597, 'Salário', 'salary', 2000),
+(DEFAULT, 598, 'Salário', 'salary', 2000),
+(DEFAULT, 599, 'Salário', 'salary', 2000),
+(DEFAULT, 600, 'Salário', 'salary', 1700),
+(DEFAULT, 601, 'Salário', 'salary', 1700),
+(DEFAULT, 602, 'Salário', 'salary', 1700),
+(DEFAULT, 603, 'Salário', 'salary', 1700),
+(DEFAULT, 604, 'Salário', 'salary', 1700),
+(DEFAULT, 605, 'Salário', 'salary', 1700),
+(DEFAULT, 606, 'Salário', 'salary', 1700),
+(DEFAULT, 607, 'Salário', 'salary', 1700),
+(DEFAULT, 608, 'Salário', 'salary', 1700),
+(DEFAULT, 609, 'Salário', 'salary', 1700),
+(DEFAULT, 610, 'Salário', 'salary', 1700),
+(DEFAULT, 611, 'Salário', 'salary', 1700),
+(DEFAULT, 612, 'Salário', 'salary', 1700),
+(DEFAULT, 613, 'Salário', 'salary', 1700),
+(DEFAULT, 614, 'Salário', 'salary', 1700),
+(DEFAULT, 615, 'Salário', 'salary', 1700),
+(DEFAULT, 616, 'Salário', 'salary', 1700),
+(DEFAULT, 617, 'Salário', 'salary', 1700),
+(DEFAULT, 618, 'Salário', 'salary', 1700),
+(DEFAULT, 619, 'Salário', 'salary', 1700),
+(DEFAULT, 620, 'Salário', 'salary', 1700),
+(DEFAULT, 621, 'Salário', 'salary', 1700),
+(DEFAULT, 622, 'Salário', 'salary', 1700),
+(DEFAULT, 623, 'Salário', 'salary', 1700),
+(DEFAULT, 624, 'Salário', 'salary', 1700),
+(DEFAULT, 625, 'Salário', 'salary', 1700),
+(DEFAULT, 626, 'Salário', 'salary', 1700),
+(DEFAULT, 627, 'Salário', 'salary', 1700),
+(DEFAULT, 628, 'Salário', 'salary', 1700),
+(DEFAULT, 629, 'Salário', 'salary', 1700),
+(DEFAULT, 630, 'Salário', 'salary', 1700),
+(DEFAULT, 631, 'Salário', 'salary', 1800),
+(DEFAULT, 632, 'Salário', 'salary', 1800),
+(DEFAULT, 633, 'Salário', 'salary', 1800),
+(DEFAULT, 634, 'Salário', 'salary', 1800),
+(DEFAULT, 635, 'Salário', 'salary', 1800),
+(DEFAULT, 636, 'Salário', 'salary', 1800),
+(DEFAULT, 637, 'Salário', 'salary', 1800),
+(DEFAULT, 638, 'Salário', 'salary', 1800),
+(DEFAULT, 639, 'Salário', 'salary', 1800),
+(DEFAULT, 640, 'Salário', 'salary', 1800),
+(DEFAULT, 641, 'Salário', 'salary', 1800),
+(DEFAULT, 642, 'Salário', 'salary', 1800),
+(DEFAULT, 643, 'Salário', 'salary', 1800),
+(DEFAULT, 644, 'Salário', 'salary', 1800),
+(DEFAULT, 645, 'Salário', 'salary', 1800),
+(DEFAULT, 646, 'Salário', 'salary', 1800),
+(DEFAULT, 647, 'Salário', 'salary', 1800),
+(DEFAULT, 648, 'Salário', 'salary', 1800),
+(DEFAULT, 649, 'Salário', 'salary', 1800),
+(DEFAULT, 650, 'Salário', 'salary', 2000),
+(DEFAULT, 651, 'Salário', 'salary', 2000),
+(DEFAULT, 652, 'Salário', 'salary', 2000),
+(DEFAULT, 653, 'Salário', 'salary', 2000),
+(DEFAULT, 654, 'Salário', 'salary', 2000),
+(DEFAULT, 655, 'Salário', 'salary', 2000),
+(DEFAULT, 656, 'Salário', 'salary', 2000),
+(DEFAULT, 657, 'Salário', 'salary', 2000),
+(DEFAULT, 658, 'Salário', 'salary', 2000),
+(DEFAULT, 659, 'Salário', 'salary', 2000),
+(DEFAULT, 660, 'Salário', 'salary', 2000),
+(DEFAULT, 661, 'Salário', 'salary', 2000),
+(DEFAULT, 662, 'Salário', 'salary', 2000),
+(DEFAULT, 663, 'Salário', 'salary', 2000),
+(DEFAULT, 664, 'Salário', 'salary', 1700),
+(DEFAULT, 665, 'Salário', 'salary', 1700),
+(DEFAULT, 666, 'Salário', 'salary', 1700),
+(DEFAULT, 667, 'Salário', 'salary', 1700),
+(DEFAULT, 668, 'Salário', 'salary', 1700),
+(DEFAULT, 669, 'Salário', 'salary', 1700),
+(DEFAULT, 670, 'Salário', 'salary', 1700),
+(DEFAULT, 671, 'Salário', 'salary', 1700),
+(DEFAULT, 672, 'Salário', 'salary', 1700),
+(DEFAULT, 673, 'Salário', 'salary', 1700),
+(DEFAULT, 674, 'Salário', 'salary', 1700),
+(DEFAULT, 675, 'Salário', 'salary', 1700),
+(DEFAULT, 676, 'Salário', 'salary', 1700),
+(DEFAULT, 677, 'Salário', 'salary', 1700),
+(DEFAULT, 678, 'Salário', 'salary', 1700),
+(DEFAULT, 679, 'Salário', 'salary', 1700),
+(DEFAULT, 680, 'Salário', 'salary', 1700),
+(DEFAULT, 681, 'Salário', 'salary', 1700),
+(DEFAULT, 682, 'Salário', 'salary', 1700),
+(DEFAULT, 683, 'Salário', 'salary', 1700),
+(DEFAULT, 684, 'Salário', 'salary', 1700),
+(DEFAULT, 685, 'Salário', 'salary', 1700),
+(DEFAULT, 686, 'Salário', 'salary', 1700),
+(DEFAULT, 687, 'Salário', 'salary', 1700),
+(DEFAULT, 688, 'Salário', 'salary', 1700),
+(DEFAULT, 689, 'Salário', 'salary', 1800),
+(DEFAULT, 690, 'Salário', 'salary', 1800),
+(DEFAULT, 691, 'Salário', 'salary', 1800),
+(DEFAULT, 692, 'Salário', 'salary', 1800),
+(DEFAULT, 693, 'Salário', 'salary', 1800),
+(DEFAULT, 694, 'Salário', 'salary', 1800),
+(DEFAULT, 695, 'Salário', 'salary', 1800),
+(DEFAULT, 696, 'Salário', 'salary', 1800),
+(DEFAULT, 697, 'Salário', 'salary', 1800),
+(DEFAULT, 698, 'Salário', 'salary', 2000),
+(DEFAULT, 699, 'Salário', 'salary', 2000),
+(DEFAULT, 700, 'Salário', 'salary', 2000),
+(DEFAULT, 701, 'Salário', 'salary', 2000),
+(DEFAULT, 702, 'Salário', 'salary', 2000),
+(DEFAULT, 703, 'Salário', 'salary', 2000),
+(DEFAULT, 704, 'Salário', 'salary', 2000),
+(DEFAULT, 705, 'Salário', 'salary', 2000),
+(DEFAULT, 706, 'Salário', 'salary', 2000),
+(DEFAULT, 707, 'Salário', 'salary', 2000),
+(DEFAULT, 708, 'Salário', 'salary', 2000),
+(DEFAULT, 709, 'Salário', 'salary', 2000),
+(DEFAULT, 710, 'Salário', 'salary', 2000),
+(DEFAULT, 711, 'Salário', 'salary', 2000),
+(DEFAULT, 712, 'Salário', 'salary', 2000),
+(DEFAULT, 713, 'Salário', 'salary', 2000),
+(DEFAULT, 714, 'Salário', 'salary', 2000),
+(DEFAULT, 715, 'Salário', 'salary', 2000),
+(DEFAULT, 716, 'Salário', 'salary', 2000),
+(DEFAULT, 717, 'Salário', 'salary', 2000),
+(DEFAULT, 718, 'Salário', 'salary', 1700),
+(DEFAULT, 719, 'Salário', 'salary', 1700),
+(DEFAULT, 720, 'Salário', 'salary', 1700),
+(DEFAULT, 721, 'Salário', 'salary', 1700),
+(DEFAULT, 722, 'Salário', 'salary', 1700),
+(DEFAULT, 723, 'Salário', 'salary', 1700),
+(DEFAULT, 724, 'Salário', 'salary', 1700),
+(DEFAULT, 725, 'Salário', 'salary', 1700),
+(DEFAULT, 726, 'Salário', 'salary', 1700),
+(DEFAULT, 727, 'Salário', 'salary', 1700),
+(DEFAULT, 728, 'Salário', 'salary', 1700),
+(DEFAULT, 729, 'Salário', 'salary', 1700),
+(DEFAULT, 730, 'Salário', 'salary', 1700),
+(DEFAULT, 731, 'Salário', 'salary', 1700),
+(DEFAULT, 732, 'Salário', 'salary', 1700),
+(DEFAULT, 733, 'Salário', 'salary', 1700),
+(DEFAULT, 734, 'Salário', 'salary', 1700),
+(DEFAULT, 735, 'Salário', 'salary', 1700),
+(DEFAULT, 736, 'Salário', 'salary', 1700),
+(DEFAULT, 737, 'Salário', 'salary', 1700),
+(DEFAULT, 738, 'Salário', 'salary', 1700),
+(DEFAULT, 739, 'Salário', 'salary', 1700),
+(DEFAULT, 740, 'Salário', 'salary', 1700),
+(DEFAULT, 741, 'Salário', 'salary', 1700),
+(DEFAULT, 742, 'Salário', 'salary', 1700),
+(DEFAULT, 743, 'Salário', 'salary', 1700),
+(DEFAULT, 744, 'Salário', 'salary', 1700),
+(DEFAULT, 745, 'Salário', 'salary', 1700),
+(DEFAULT, 746, 'Salário', 'salary', 1700),
+(DEFAULT, 747, 'Salário', 'salary', 1800),
+(DEFAULT, 748, 'Salário', 'salary', 1800),
+(DEFAULT, 749, 'Salário', 'salary', 1800),
+(DEFAULT, 750, 'Salário', 'salary', 1800),
+(DEFAULT, 751, 'Salário', 'salary', 1800),
+(DEFAULT, 752, 'Salário', 'salary', 1800),
+(DEFAULT, 753, 'Salário', 'salary', 1800),
+(DEFAULT, 754, 'Salário', 'salary', 1800),
+(DEFAULT, 755, 'Salário', 'salary', 1800),
+(DEFAULT, 756, 'Salário', 'salary', 1800),
+(DEFAULT, 757, 'Salário', 'salary', 1800),
+(DEFAULT, 758, 'Salário', 'salary', 1800),
+(DEFAULT, 759, 'Salário', 'salary', 1800),
+(DEFAULT, 760, 'Salário', 'salary', 1800),
+(DEFAULT, 761, 'Salário', 'salary', 1800),
+(DEFAULT, 762, 'Salário', 'salary', 1800),
+(DEFAULT, 763, 'Salário', 'salary', 1800),
+(DEFAULT, 764, 'Salário', 'salary', 2000),
+(DEFAULT, 765, 'Salário', 'salary', 2000),
+(DEFAULT, 766, 'Salário', 'salary', 2000),
+(DEFAULT, 767, 'Salário', 'salary', 2000),
+(DEFAULT, 768, 'Salário', 'salary', 2000),
+(DEFAULT, 769, 'Salário', 'salary', 2000),
+(DEFAULT, 770, 'Salário', 'salary', 2000),
+(DEFAULT, 771, 'Salário', 'salary', 2000),
+(DEFAULT, 772, 'Salário', 'salary', 2000),
+(DEFAULT, 773, 'Salário', 'salary', 2000),
+(DEFAULT, 774, 'Salário', 'salary', 2000),
+(DEFAULT, 775, 'Salário', 'salary', 2000),
+(DEFAULT, 776, 'Salário', 'salary', 2000),
+(DEFAULT, 777, 'Salário', 'salary', 2000),
+(DEFAULT, 778, 'Salário', 'salary', 2000),
+(DEFAULT, 779, 'Salário', 'salary', 2000),
+(DEFAULT, 780, 'Salário', 'salary', 2000),
+(DEFAULT, 781, 'Salário', 'salary', 2000),
+(DEFAULT, 782, 'Salário', 'salary', 2000),
+(DEFAULT, 783, 'Salário', 'salary', 2000),
+(DEFAULT, 784, 'Salário', 'salary', 2000),
+(DEFAULT, 785, 'Salário', 'salary', 1700),
+(DEFAULT, 786, 'Salário', 'salary', 1700),
+(DEFAULT, 787, 'Salário', 'salary', 1700),
+(DEFAULT, 788, 'Salário', 'salary', 1700),
+(DEFAULT, 789, 'Salário', 'salary', 1700),
+(DEFAULT, 790, 'Salário', 'salary', 1700),
+(DEFAULT, 791, 'Salário', 'salary', 1700),
+(DEFAULT, 792, 'Salário', 'salary', 1700),
+(DEFAULT, 793, 'Salário', 'salary', 1700),
+(DEFAULT, 794, 'Salário', 'salary', 1700),
+(DEFAULT, 795, 'Salário', 'salary', 1700),
+(DEFAULT, 796, 'Salário', 'salary', 1700),
+(DEFAULT, 797, 'Salário', 'salary', 1700),
+(DEFAULT, 798, 'Salário', 'salary', 1700),
+(DEFAULT, 799, 'Salário', 'salary', 1700),
+(DEFAULT, 800, 'Salário', 'salary', 1700),
+(DEFAULT, 801, 'Salário', 'salary', 1700),
+(DEFAULT, 802, 'Salário', 'salary', 1700),
+(DEFAULT, 803, 'Salário', 'salary', 1700),
+(DEFAULT, 804, 'Salário', 'salary', 1700),
+(DEFAULT, 805, 'Salário', 'salary', 1700),
+(DEFAULT, 806, 'Salário', 'salary', 1700),
+(DEFAULT, 807, 'Salário', 'salary', 1700),
+(DEFAULT, 808, 'Salário', 'salary', 1700),
+(DEFAULT, 809, 'Salário', 'salary', 1700),
+(DEFAULT, 810, 'Salário', 'salary', 1700),
+(DEFAULT, 811, 'Salário', 'salary', 1700),
+(DEFAULT, 812, 'Salário', 'salary', 1700),
+(DEFAULT, 813, 'Salário', 'salary', 1700),
+(DEFAULT, 814, 'Salário', 'salary', 1700),
+(DEFAULT, 815, 'Salário', 'salary', 1700),
+(DEFAULT, 816, 'Salário', 'salary', 1700),
+(DEFAULT, 817, 'Salário', 'salary', 1700),
+(DEFAULT, 818, 'Salário', 'salary', 1700),
+(DEFAULT, 819, 'Salário', 'salary', 1700),
+(DEFAULT, 820, 'Salário', 'salary', 1700),
+(DEFAULT, 821, 'Salário', 'salary', 1700),
+(DEFAULT, 822, 'Salário', 'salary', 1700),
+(DEFAULT, 823, 'Salário', 'salary', 1700),
+(DEFAULT, 824, 'Salário', 'salary', 1700),
+(DEFAULT, 825, 'Salário', 'salary', 1700),
+(DEFAULT, 826, 'Salário', 'salary', 1800),
+(DEFAULT, 827, 'Salário', 'salary', 1800),
+(DEFAULT, 828, 'Salário', 'salary', 1800),
+(DEFAULT, 829, 'Salário', 'salary', 1800),
+(DEFAULT, 830, 'Salário', 'salary', 1800),
+(DEFAULT, 831, 'Salário', 'salary', 1800),
+(DEFAULT, 832, 'Salário', 'salary', 1800),
+(DEFAULT, 833, 'Salário', 'salary', 1800),
+(DEFAULT, 834, 'Salário', 'salary', 1800),
+(DEFAULT, 835, 'Salário', 'salary', 1800),
+(DEFAULT, 836, 'Salário', 'salary', 1800),
+(DEFAULT, 837, 'Salário', 'salary', 1800),
+(DEFAULT, 838, 'Salário', 'salary', 1800),
+(DEFAULT, 839, 'Salário', 'salary', 1800),
+(DEFAULT, 840, 'Salário', 'salary', 1800),
+(DEFAULT, 841, 'Salário', 'salary', 1800),
+(DEFAULT, 842, 'Salário', 'salary', 1800),
+(DEFAULT, 843, 'Salário', 'salary', 1800),
+(DEFAULT, 844, 'Salário', 'salary', 1800),
+(DEFAULT, 845, 'Salário', 'salary', 1800),
+(DEFAULT, 846, 'Salário', 'salary', 1800),
+(DEFAULT, 847, 'Salário', 'salary', 2000),
+(DEFAULT, 848, 'Salário', 'salary', 2000),
+(DEFAULT, 849, 'Salário', 'salary', 2000),
+(DEFAULT, 850, 'Salário', 'salary', 2000),
+(DEFAULT, 851, 'Salário', 'salary', 2000),
+(DEFAULT, 852, 'Salário', 'salary', 2000),
+(DEFAULT, 853, 'Salário', 'salary', 2000),
+(DEFAULT, 854, 'Salário', 'salary', 2000),
+(DEFAULT, 855, 'Salário', 'salary', 2000),
+(DEFAULT, 856, 'Salário', 'salary', 2000),
+(DEFAULT, 857, 'Salário', 'salary', 2000),
+(DEFAULT, 858, 'Salário', 'salary', 2000),
+(DEFAULT, 859, 'Salário', 'salary', 2000),
+(DEFAULT, 860, 'Salário', 'salary', 2000),
+(DEFAULT, 861, 'Salário', 'salary', 2000),
+(DEFAULT, 862, 'Salário', 'salary', 2000),
+(DEFAULT, 863, 'Salário', 'salary', 2000),
+(DEFAULT, 864, 'Salário', 'salary', 2000),
+(DEFAULT, 865, 'Salário', 'salary', 1700),
+(DEFAULT, 866, 'Salário', 'salary', 1700),
+(DEFAULT, 867, 'Salário', 'salary', 1700),
+(DEFAULT, 868, 'Salário', 'salary', 1700),
+(DEFAULT, 869, 'Salário', 'salary', 1700),
+(DEFAULT, 870, 'Salário', 'salary', 1700),
+(DEFAULT, 871, 'Salário', 'salary', 1700),
+(DEFAULT, 872, 'Salário', 'salary', 1700),
+(DEFAULT, 873, 'Salário', 'salary', 1700),
+(DEFAULT, 874, 'Salário', 'salary', 1700),
+(DEFAULT, 875, 'Salário', 'salary', 1700),
+(DEFAULT, 876, 'Salário', 'salary', 1700),
+(DEFAULT, 877, 'Salário', 'salary', 1700),
+(DEFAULT, 878, 'Salário', 'salary', 1700),
+(DEFAULT, 879, 'Salário', 'salary', 1700),
+(DEFAULT, 880, 'Salário', 'salary', 1700),
+(DEFAULT, 881, 'Salário', 'salary', 1700),
+(DEFAULT, 882, 'Salário', 'salary', 1700),
+(DEFAULT, 883, 'Salário', 'salary', 1700),
+(DEFAULT, 884, 'Salário', 'salary', 1700),
+(DEFAULT, 885, 'Salário', 'salary', 1700),
+(DEFAULT, 886, 'Salário', 'salary', 1700),
+(DEFAULT, 887, 'Salário', 'salary', 1700),
+(DEFAULT, 888, 'Salário', 'salary', 1800),
+(DEFAULT, 889, 'Salário', 'salary', 1800),
+(DEFAULT, 890, 'Salário', 'salary', 1800),
+(DEFAULT, 891, 'Salário', 'salary', 1800),
+(DEFAULT, 892, 'Salário', 'salary', 1800),
+(DEFAULT, 893, 'Salário', 'salary', 1800),
+(DEFAULT, 894, 'Salário', 'salary', 1800),
+(DEFAULT, 895, 'Salário', 'salary', 1800),
+(DEFAULT, 896, 'Salário', 'salary', 1800),
+(DEFAULT, 897, 'Salário', 'salary', 1800),
+(DEFAULT, 898, 'Salário', 'salary', 1800),
+(DEFAULT, 899, 'Salário', 'salary', 1800),
+(DEFAULT, 900, 'Salário', 'salary', 2000),
+(DEFAULT, 901, 'Salário', 'salary', 2000),
+(DEFAULT, 902, 'Salário', 'salary', 2000),
+(DEFAULT, 903, 'Salário', 'salary', 2000),
+(DEFAULT, 904, 'Salário', 'salary', 2000),
+(DEFAULT, 905, 'Salário', 'salary', 2000),
+(DEFAULT, 906, 'Salário', 'salary', 2000),
+(DEFAULT, 907, 'Salário', 'salary', 2000),
+(DEFAULT, 908, 'Salário', 'salary', 2000),
+(DEFAULT, 909, 'Salário', 'salary', 2000),
+(DEFAULT, 910, 'Salário', 'salary', 2000),
+(DEFAULT, 911, 'Salário', 'salary', 1700),
+(DEFAULT, 912, 'Salário', 'salary', 1700),
+(DEFAULT, 913, 'Salário', 'salary', 1700),
+(DEFAULT, 914, 'Salário', 'salary', 1700),
+(DEFAULT, 915, 'Salário', 'salary', 1700),
+(DEFAULT, 916, 'Salário', 'salary', 1700),
+(DEFAULT, 917, 'Salário', 'salary', 1700),
+(DEFAULT, 918, 'Salário', 'salary', 1700),
+(DEFAULT, 919, 'Salário', 'salary', 1700),
+(DEFAULT, 920, 'Salário', 'salary', 1700),
+(DEFAULT, 921, 'Salário', 'salary', 1700),
+(DEFAULT, 922, 'Salário', 'salary', 1700),
+(DEFAULT, 923, 'Salário', 'salary', 1700),
+(DEFAULT, 924, 'Salário', 'salary', 1700),
+(DEFAULT, 925, 'Salário', 'salary', 1700),
+(DEFAULT, 926, 'Salário', 'salary', 1700),
+(DEFAULT, 927, 'Salário', 'salary', 1700),
+(DEFAULT, 928, 'Salário', 'salary', 1700),
+(DEFAULT, 929, 'Salário', 'salary', 1700),
+(DEFAULT, 930, 'Salário', 'salary', 1700),
+(DEFAULT, 931, 'Salário', 'salary', 1700),
+(DEFAULT, 932, 'Salário', 'salary', 1700),
+(DEFAULT, 933, 'Salário', 'salary', 1700),
+(DEFAULT, 934, 'Salário', 'salary', 1800),
+(DEFAULT, 935, 'Salário', 'salary', 1800),
+(DEFAULT, 936, 'Salário', 'salary', 1800),
+(DEFAULT, 937, 'Salário', 'salary', 1800),
+(DEFAULT, 938, 'Salário', 'salary', 1800),
+(DEFAULT, 939, 'Salário', 'salary', 1800),
+(DEFAULT, 940, 'Salário', 'salary', 1800),
+(DEFAULT, 941, 'Salário', 'salary', 1800),
+(DEFAULT, 942, 'Salário', 'salary', 1800),
+(DEFAULT, 943, 'Salário', 'salary', 1800),
+(DEFAULT, 944, 'Salário', 'salary', 2000),
+(DEFAULT, 945, 'Salário', 'salary', 2000),
+(DEFAULT, 946, 'Salário', 'salary', 2000),
+(DEFAULT, 947, 'Salário', 'salary', 2000),
+(DEFAULT, 948, 'Salário', 'salary', 2000),
+(DEFAULT, 949, 'Salário', 'salary', 2000),
+(DEFAULT, 950, 'Salário', 'salary', 2000),
+(DEFAULT, 951, 'Salário', 'salary', 2000),
+(DEFAULT, 952, 'Salário', 'salary', 2000),
+(DEFAULT, 953, 'Salário', 'salary', 2000),
+(DEFAULT, 954, 'Salário', 'salary', 2000),
+(DEFAULT, 955, 'Salário', 'salary', 2000),
+(DEFAULT, 956, 'Salário', 'salary', 2000),
+(DEFAULT, 957, 'Salário', 'salary', 2000),
+(DEFAULT, 958, 'Salário', 'salary', 2000),
+(DEFAULT, 959, 'Salário', 'salary', 2000),
+(DEFAULT, 960, 'Salário', 'salary', 2000),
+(DEFAULT, 961, 'Salário', 'salary', 2000),
+(DEFAULT, 962, 'Salário', 'salary', 1700),
+(DEFAULT, 963, 'Salário', 'salary', 1700),
+(DEFAULT, 964, 'Salário', 'salary', 1700),
+(DEFAULT, 965, 'Salário', 'salary', 1700),
+(DEFAULT, 966, 'Salário', 'salary', 1700),
+(DEFAULT, 967, 'Salário', 'salary', 1700),
+(DEFAULT, 968, 'Salário', 'salary', 1700),
+(DEFAULT, 969, 'Salário', 'salary', 1700),
+(DEFAULT, 970, 'Salário', 'salary', 1700),
+(DEFAULT, 971, 'Salário', 'salary', 1700),
+(DEFAULT, 972, 'Salário', 'salary', 1700),
+(DEFAULT, 973, 'Salário', 'salary', 1700),
+(DEFAULT, 974, 'Salário', 'salary', 1700),
+(DEFAULT, 975, 'Salário', 'salary', 1700),
+(DEFAULT, 976, 'Salário', 'salary', 1700),
+(DEFAULT, 977, 'Salário', 'salary', 1700),
+(DEFAULT, 978, 'Salário', 'salary', 1700),
+(DEFAULT, 979, 'Salário', 'salary', 1700),
+(DEFAULT, 980, 'Salário', 'salary', 1700),
+(DEFAULT, 981, 'Salário', 'salary', 1700),
+(DEFAULT, 982, 'Salário', 'salary', 1700),
+(DEFAULT, 983, 'Salário', 'salary', 1700),
+(DEFAULT, 984, 'Salário', 'salary', 1700),
+(DEFAULT, 985, 'Salário', 'salary', 1700),
+(DEFAULT, 986, 'Salário', 'salary', 1700),
+(DEFAULT, 987, 'Salário', 'salary', 1700),
+(DEFAULT, 988, 'Salário', 'salary', 1700),
+(DEFAULT, 989, 'Salário', 'salary', 1700),
+(DEFAULT, 990, 'Salário', 'salary', 1700),
+(DEFAULT, 991, 'Salário', 'salary', 1700),
+(DEFAULT, 992, 'Salário', 'salary', 1700),
+(DEFAULT, 993, 'Salário', 'salary', 1700),
+(DEFAULT, 994, 'Salário', 'salary', 1700),
+(DEFAULT, 995, 'Salário', 'salary', 1700),
+(DEFAULT, 996, 'Salário', 'salary', 1700),
+(DEFAULT, 997, 'Salário', 'salary', 1700),
+(DEFAULT, 998, 'Salário', 'salary', 1700),
+(DEFAULT, 999, 'Salário', 'salary', 1700),
+(DEFAULT, 1000, 'Salário', 'salary', 1700),
+(DEFAULT, 1001, 'Salário', 'salary', 1700),
+(DEFAULT, 1002, 'Salário', 'salary', 1700),
+(DEFAULT, 1003, 'Salário', 'salary', 1700),
+(DEFAULT, 1004, 'Salário', 'salary', 1700),
+(DEFAULT, 1005, 'Salário', 'salary', 1700),
+(DEFAULT, 1006, 'Salário', 'salary', 1700),
+(DEFAULT, 1007, 'Salário', 'salary', 1700),
+(DEFAULT, 1008, 'Salário', 'salary', 1700),
+(DEFAULT, 1009, 'Salário', 'salary', 1700),
+(DEFAULT, 1010, 'Salário', 'salary', 1700),
+(DEFAULT, 1011, 'Salário', 'salary', 1700),
+(DEFAULT, 1012, 'Salário', 'salary', 1700),
+(DEFAULT, 1013, 'Salário', 'salary', 1700),
+(DEFAULT, 1014, 'Salário', 'salary', 1800),
+(DEFAULT, 1015, 'Salário', 'salary', 1800),
+(DEFAULT, 1016, 'Salário', 'salary', 2000),
+(DEFAULT, 1017, 'Salário', 'salary', 2000),
+(DEFAULT, 1018, 'Salário', 'salary', 2000),
+(DEFAULT, 1019, 'Salário', 'salary', 2000),
+(DEFAULT, 1020, 'Salário', 'salary', 2000),
+(DEFAULT, 1021, 'Salário', 'salary', 1700),
+(DEFAULT, 1022, 'Salário', 'salary', 1700),
+(DEFAULT, 1023, 'Salário', 'salary', 1700),
+(DEFAULT, 1024, 'Salário', 'salary', 1700),
+(DEFAULT, 1025, 'Salário', 'salary', 1700),
+(DEFAULT, 1026, 'Salário', 'salary', 1700),
+(DEFAULT, 1027, 'Salário', 'salary', 1700),
+(DEFAULT, 1028, 'Salário', 'salary', 1700),
+(DEFAULT, 1029, 'Salário', 'salary', 1700),
+(DEFAULT, 1030, 'Salário', 'salary', 1700),
+(DEFAULT, 1031, 'Salário', 'salary', 1700),
+(DEFAULT, 1032, 'Salário', 'salary', 1700),
+(DEFAULT, 1033, 'Salário', 'salary', 1700),
+(DEFAULT, 1034, 'Salário', 'salary', 1700),
+(DEFAULT, 1035, 'Salário', 'salary', 1700),
+(DEFAULT, 1036, 'Salário', 'salary', 1700),
+(DEFAULT, 1037, 'Salário', 'salary', 1700),
+(DEFAULT, 1038, 'Salário', 'salary', 1700),
+(DEFAULT, 1039, 'Salário', 'salary', 1700),
+(DEFAULT, 1040, 'Salário', 'salary', 1700),
+(DEFAULT, 1041, 'Salário', 'salary', 1700),
+(DEFAULT, 1042, 'Salário', 'salary', 1700),
+(DEFAULT, 1043, 'Salário', 'salary', 1700),
+(DEFAULT, 1044, 'Salário', 'salary', 1700),
+(DEFAULT, 1045, 'Salário', 'salary', 1700),
+(DEFAULT, 1046, 'Salário', 'salary', 1700),
+(DEFAULT, 1047, 'Salário', 'salary', 1700),
+(DEFAULT, 1048, 'Salário', 'salary', 1700),
+(DEFAULT, 1049, 'Salário', 'salary', 1700),
+(DEFAULT, 1050, 'Salário', 'salary', 1700),
+(DEFAULT, 1051, 'Salário', 'salary', 1700),
+(DEFAULT, 1052, 'Salário', 'salary', 1700),
+(DEFAULT, 1053, 'Salário', 'salary', 1700),
+(DEFAULT, 1054, 'Salário', 'salary', 1700),
+(DEFAULT, 1055, 'Salário', 'salary', 1700),
+(DEFAULT, 1056, 'Salário', 'salary', 1700),
+(DEFAULT, 1057, 'Salário', 'salary', 1700),
+(DEFAULT, 1058, 'Salário', 'salary', 1700),
+(DEFAULT, 1059, 'Salário', 'salary', 1800),
+(DEFAULT, 1060, 'Salário', 'salary', 1800),
+(DEFAULT, 1061, 'Salário', 'salary', 1800),
+(DEFAULT, 1062, 'Salário', 'salary', 1800),
+(DEFAULT, 1063, 'Salário', 'salary', 1800),
+(DEFAULT, 1064, 'Salário', 'salary', 1800),
+(DEFAULT, 1065, 'Salário', 'salary', 2000),
+(DEFAULT, 1066, 'Salário', 'salary', 2000),
+(DEFAULT, 1067, 'Salário', 'salary', 2000),
+(DEFAULT, 1068, 'Salário', 'salary', 2000),
+(DEFAULT, 1069, 'Salário', 'salary', 2000),
+(DEFAULT, 1070, 'Salário', 'salary', 2000),
+(DEFAULT, 1071, 'Salário', 'salary', 2000),
+(DEFAULT, 1072, 'Salário', 'salary', 2000),
+(DEFAULT, 1073, 'Salário', 'salary', 2000),
+(DEFAULT, 1074, 'Salário', 'salary', 2000),
+(DEFAULT, 1075, 'Salário', 'salary', 2000),
+(DEFAULT, 1076, 'Salário', 'salary', 1700),
+(DEFAULT, 1077, 'Salário', 'salary', 1700),
+(DEFAULT, 1078, 'Salário', 'salary', 1700),
+(DEFAULT, 1079, 'Salário', 'salary', 1700),
+(DEFAULT, 1080, 'Salário', 'salary', 1700),
+(DEFAULT, 1081, 'Salário', 'salary', 1700),
+(DEFAULT, 1082, 'Salário', 'salary', 1700),
+(DEFAULT, 1083, 'Salário', 'salary', 1700),
+(DEFAULT, 1084, 'Salário', 'salary', 1700),
+(DEFAULT, 1085, 'Salário', 'salary', 1700),
+(DEFAULT, 1086, 'Salário', 'salary', 1700),
+(DEFAULT, 1087, 'Salário', 'salary', 1700),
+(DEFAULT, 1088, 'Salário', 'salary', 1700),
+(DEFAULT, 1089, 'Salário', 'salary', 1700),
+(DEFAULT, 1090, 'Salário', 'salary', 1700),
+(DEFAULT, 1091, 'Salário', 'salary', 1700),
+(DEFAULT, 1092, 'Salário', 'salary', 1700),
+(DEFAULT, 1093, 'Salário', 'salary', 1700),
+(DEFAULT, 1094, 'Salário', 'salary', 1700),
+(DEFAULT, 1095, 'Salário', 'salary', 1700),
+(DEFAULT, 1096, 'Salário', 'salary', 1700),
+(DEFAULT, 1097, 'Salário', 'salary', 1700),
+(DEFAULT, 1098, 'Salário', 'salary', 1700),
+(DEFAULT, 1099, 'Salário', 'salary', 1700),
+(DEFAULT, 1100, 'Salário', 'salary', 1700),
+(DEFAULT, 1101, 'Salário', 'salary', 1700),
+(DEFAULT, 1102, 'Salário', 'salary', 1700),
+(DEFAULT, 1103, 'Salário', 'salary', 1700),
+(DEFAULT, 1104, 'Salário', 'salary', 1700),
+(DEFAULT, 1105, 'Salário', 'salary', 1700),
+(DEFAULT, 1106, 'Salário', 'salary', 1700),
+(DEFAULT, 1107, 'Salário', 'salary', 1700),
+(DEFAULT, 1108, 'Salário', 'salary', 1700),
+(DEFAULT, 1109, 'Salário', 'salary', 1700),
+(DEFAULT, 1110, 'Salário', 'salary', 1700),
+(DEFAULT, 1111, 'Salário', 'salary', 1700),
+(DEFAULT, 1112, 'Salário', 'salary', 1800),
+(DEFAULT, 1113, 'Salário', 'salary', 1800),
+(DEFAULT, 1114, 'Salário', 'salary', 1800),
+(DEFAULT, 1115, 'Salário', 'salary', 1800),
+(DEFAULT, 1116, 'Salário', 'salary', 1800),
+(DEFAULT, 1117, 'Salário', 'salary', 1800),
+(DEFAULT, 1118, 'Salário', 'salary', 1800),
+(DEFAULT, 1119, 'Salário', 'salary', 1800),
+(DEFAULT, 1120, 'Salário', 'salary', 1800),
+(DEFAULT, 1121, 'Salário', 'salary', 1800),
+(DEFAULT, 1122, 'Salário', 'salary', 1800),
+(DEFAULT, 1123, 'Salário', 'salary', 1800),
+(DEFAULT, 1124, 'Salário', 'salary', 1800),
+(DEFAULT, 1125, 'Salário', 'salary', 1800),
+(DEFAULT, 1126, 'Salário', 'salary', 2000),
+(DEFAULT, 1127, 'Salário', 'salary', 2000),
+(DEFAULT, 1128, 'Salário', 'salary', 2000),
+(DEFAULT, 1129, 'Salário', 'salary', 2000),
+(DEFAULT, 1130, 'Salário', 'salary', 1700),
+(DEFAULT, 1131, 'Salário', 'salary', 1700),
+(DEFAULT, 1132, 'Salário', 'salary', 1700),
+(DEFAULT, 1133, 'Salário', 'salary', 1700),
+(DEFAULT, 1134, 'Salário', 'salary', 1700),
+(DEFAULT, 1135, 'Salário', 'salary', 1700),
+(DEFAULT, 1136, 'Salário', 'salary', 1700),
+(DEFAULT, 1137, 'Salário', 'salary', 1700),
+(DEFAULT, 1138, 'Salário', 'salary', 1700),
+(DEFAULT, 1139, 'Salário', 'salary', 1700),
+(DEFAULT, 1140, 'Salário', 'salary', 1700),
+(DEFAULT, 1141, 'Salário', 'salary', 1700),
+(DEFAULT, 1142, 'Salário', 'salary', 1700),
+(DEFAULT, 1143, 'Salário', 'salary', 1700),
+(DEFAULT, 1144, 'Salário', 'salary', 1700),
+(DEFAULT, 1145, 'Salário', 'salary', 1700),
+(DEFAULT, 1146, 'Salário', 'salary', 1700),
+(DEFAULT, 1147, 'Salário', 'salary', 1700),
+(DEFAULT, 1148, 'Salário', 'salary', 1700),
+(DEFAULT, 1149, 'Salário', 'salary', 1700),
+(DEFAULT, 1150, 'Salário', 'salary', 1700),
+(DEFAULT, 1151, 'Salário', 'salary', 1700),
+(DEFAULT, 1152, 'Salário', 'salary', 1700),
+(DEFAULT, 1153, 'Salário', 'salary', 1700),
+(DEFAULT, 1154, 'Salário', 'salary', 1700),
+(DEFAULT, 1155, 'Salário', 'salary', 1700),
+(DEFAULT, 1156, 'Salário', 'salary', 1700),
+(DEFAULT, 1157, 'Salário', 'salary', 1700),
+(DEFAULT, 1158, 'Salário', 'salary', 1700),
+(DEFAULT, 1159, 'Salário', 'salary', 1700),
+(DEFAULT, 1160, 'Salário', 'salary', 1800),
+(DEFAULT, 1161, 'Salário', 'salary', 1800),
+(DEFAULT, 1162, 'Salário', 'salary', 1800),
+(DEFAULT, 1163, 'Salário', 'salary', 1800),
+(DEFAULT, 1164, 'Salário', 'salary', 1800),
+(DEFAULT, 1165, 'Salário', 'salary', 1800),
+(DEFAULT, 1166, 'Salário', 'salary', 1800),
+(DEFAULT, 1167, 'Salário', 'salary', 1800),
+(DEFAULT, 1168, 'Salário', 'salary', 1800),
+(DEFAULT, 1169, 'Salário', 'salary', 1800),
+(DEFAULT, 1170, 'Salário', 'salary', 1800),
+(DEFAULT, 1171, 'Salário', 'salary', 1800),
+(DEFAULT, 1172, 'Salário', 'salary', 1800),
+(DEFAULT, 1173, 'Salário', 'salary', 1800),
+(DEFAULT, 1174, 'Salário', 'salary', 1800),
+(DEFAULT, 1175, 'Salário', 'salary', 1800),
+(DEFAULT, 1176, 'Salário', 'salary', 1800),
+(DEFAULT, 1177, 'Salário', 'salary', 1800),
+(DEFAULT, 1178, 'Salário', 'salary', 1800),
+(DEFAULT, 1179, 'Salário', 'salary', 1800),
+(DEFAULT, 1180, 'Salário', 'salary', 2000),
+(DEFAULT, 1181, 'Salário', 'salary', 1700),
+(DEFAULT, 1182, 'Salário', 'salary', 1700),
+(DEFAULT, 1183, 'Salário', 'salary', 1700),
+(DEFAULT, 1184, 'Salário', 'salary', 1700),
+(DEFAULT, 1185, 'Salário', 'salary', 1700),
+(DEFAULT, 1186, 'Salário', 'salary', 1700),
+(DEFAULT, 1187, 'Salário', 'salary', 1700),
+(DEFAULT, 1188, 'Salário', 'salary', 1700),
+(DEFAULT, 1189, 'Salário', 'salary', 1700),
+(DEFAULT, 1190, 'Salário', 'salary', 1700),
+(DEFAULT, 1191, 'Salário', 'salary', 1700),
+(DEFAULT, 1192, 'Salário', 'salary', 1700),
+(DEFAULT, 1193, 'Salário', 'salary', 1700),
+(DEFAULT, 1194, 'Salário', 'salary', 1700),
+(DEFAULT, 1195, 'Salário', 'salary', 1700),
+(DEFAULT, 1196, 'Salário', 'salary', 1700),
+(DEFAULT, 1197, 'Salário', 'salary', 1700),
+(DEFAULT, 1198, 'Salário', 'salary', 1700),
+(DEFAULT, 1199, 'Salário', 'salary', 1700),
+(DEFAULT, 1200, 'Salário', 'salary', 1700),
+(DEFAULT, 1201, 'Salário', 'salary', 1700),
+(DEFAULT, 1202, 'Salário', 'salary', 1700),
+(DEFAULT, 1203, 'Salário', 'salary', 1700),
+(DEFAULT, 1204, 'Salário', 'salary', 1700),
+(DEFAULT, 1205, 'Salário', 'salary', 1700),
+(DEFAULT, 1206, 'Salário', 'salary', 1700),
+(DEFAULT, 1207, 'Salário', 'salary', 1700),
+(DEFAULT, 1208, 'Salário', 'salary', 1700),
+(DEFAULT, 1209, 'Salário', 'salary', 1700),
+(DEFAULT, 1210, 'Salário', 'salary', 1700),
+(DEFAULT, 1211, 'Salário', 'salary', 1700),
+(DEFAULT, 1212, 'Salário', 'salary', 1700),
+(DEFAULT, 1213, 'Salário', 'salary', 1700),
+(DEFAULT, 1214, 'Salário', 'salary', 1700),
+(DEFAULT, 1215, 'Salário', 'salary', 1700),
+(DEFAULT, 1216, 'Salário', 'salary', 1700),
+(DEFAULT, 1217, 'Salário', 'salary', 1700),
+(DEFAULT, 1218, 'Salário', 'salary', 1700),
+(DEFAULT, 1219, 'Salário', 'salary', 1700),
+(DEFAULT, 1220, 'Salário', 'salary', 1700),
+(DEFAULT, 1221, 'Salário', 'salary', 1700),
+(DEFAULT, 1222, 'Salário', 'salary', 1700),
+(DEFAULT, 1223, 'Salário', 'salary', 1700),
+(DEFAULT, 1224, 'Salário', 'salary', 1700),
+(DEFAULT, 1225, 'Salário', 'salary', 1700),
+(DEFAULT, 1226, 'Salário', 'salary', 1800),
+(DEFAULT, 1227, 'Salário', 'salary', 1800),
+(DEFAULT, 1228, 'Salário', 'salary', 1800),
+(DEFAULT, 1229, 'Salário', 'salary', 1800),
+(DEFAULT, 1230, 'Salário', 'salary', 1800),
+(DEFAULT, 1231, 'Salário', 'salary', 1800),
+(DEFAULT, 1232, 'Salário', 'salary', 1800),
+(DEFAULT, 1233, 'Salário', 'salary', 1800),
+(DEFAULT, 1234, 'Salário', 'salary', 1800),
+(DEFAULT, 1235, 'Salário', 'salary', 1800),
+(DEFAULT, 1236, 'Salário', 'salary', 1800),
+(DEFAULT, 1237, 'Salário', 'salary', 1800),
+(DEFAULT, 1238, 'Salário', 'salary', 1800),
+(DEFAULT, 1239, 'Salário', 'salary', 1800),
+(DEFAULT, 1240, 'Salário', 'salary', 1800),
+(DEFAULT, 1241, 'Salário', 'salary', 1800),
+(DEFAULT, 1242, 'Salário', 'salary', 1800),
+(DEFAULT, 1243, 'Salário', 'salary', 1800),
+(DEFAULT, 1244, 'Salário', 'salary', 1800),
+(DEFAULT, 1245, 'Salário', 'salary', 1800),
+(DEFAULT, 1246, 'Salário', 'salary', 1800),
+(DEFAULT, 1247, 'Salário', 'salary', 2000),
+(DEFAULT, 1248, 'Salário', 'salary', 2000),
+(DEFAULT, 1249, 'Salário', 'salary', 2000),
+(DEFAULT, 1250, 'Salário', 'salary', 2000),
+(DEFAULT, 1251, 'Salário', 'salary', 2000),
+(DEFAULT, 1252, 'Salário', 'salary', 2000),
+(DEFAULT, 1253, 'Salário', 'salary', 2000),
+(DEFAULT, 1254, 'Salário', 'salary', 2000),
+(DEFAULT, 1255, 'Salário', 'salary', 2000),
+(DEFAULT, 1256, 'Salário', 'salary', 2000),
+(DEFAULT, 1257, 'Salário', 'salary', 1700),
+(DEFAULT, 1258, 'Salário', 'salary', 1700),
+(DEFAULT, 1259, 'Salário', 'salary', 1700),
+(DEFAULT, 1260, 'Salário', 'salary', 1700),
+(DEFAULT, 1261, 'Salário', 'salary', 1700),
+(DEFAULT, 1262, 'Salário', 'salary', 1700),
+(DEFAULT, 1263, 'Salário', 'salary', 1700),
+(DEFAULT, 1264, 'Salário', 'salary', 1700),
+(DEFAULT, 1265, 'Salário', 'salary', 1700),
+(DEFAULT, 1266, 'Salário', 'salary', 1700),
+(DEFAULT, 1267, 'Salário', 'salary', 1700),
+(DEFAULT, 1268, 'Salário', 'salary', 1700),
+(DEFAULT, 1269, 'Salário', 'salary', 1700),
+(DEFAULT, 1270, 'Salário', 'salary', 1700),
+(DEFAULT, 1271, 'Salário', 'salary', 1700),
+(DEFAULT, 1272, 'Salário', 'salary', 1700),
+(DEFAULT, 1273, 'Salário', 'salary', 1700),
+(DEFAULT, 1274, 'Salário', 'salary', 1700),
+(DEFAULT, 1275, 'Salário', 'salary', 1700),
+(DEFAULT, 1276, 'Salário', 'salary', 1700),
+(DEFAULT, 1277, 'Salário', 'salary', 1700),
+(DEFAULT, 1278, 'Salário', 'salary', 1700),
+(DEFAULT, 1279, 'Salário', 'salary', 1700),
+(DEFAULT, 1280, 'Salário', 'salary', 1700),
+(DEFAULT, 1281, 'Salário', 'salary', 1700),
+(DEFAULT, 1282, 'Salário', 'salary', 1700),
+(DEFAULT, 1283, 'Salário', 'salary', 1700),
+(DEFAULT, 1284, 'Salário', 'salary', 1700),
+(DEFAULT, 1285, 'Salário', 'salary', 1700),
+(DEFAULT, 1286, 'Salário', 'salary', 1700),
+(DEFAULT, 1287, 'Salário', 'salary', 1700),
+(DEFAULT, 1288, 'Salário', 'salary', 1700),
+(DEFAULT, 1289, 'Salário', 'salary', 1700),
+(DEFAULT, 1290, 'Salário', 'salary', 1700),
+(DEFAULT, 1291, 'Salário', 'salary', 1700),
+(DEFAULT, 1292, 'Salário', 'salary', 1700),
+(DEFAULT, 1293, 'Salário', 'salary', 1700),
+(DEFAULT, 1294, 'Salário', 'salary', 1700),
+(DEFAULT, 1295, 'Salário', 'salary', 1700),
+(DEFAULT, 1296, 'Salário', 'salary', 1700),
+(DEFAULT, 1297, 'Salário', 'salary', 1700),
+(DEFAULT, 1298, 'Salário', 'salary', 1700),
+(DEFAULT, 1299, 'Salário', 'salary', 1700),
+(DEFAULT, 1300, 'Salário', 'salary', 1700),
+(DEFAULT, 1301, 'Salário', 'salary', 1700),
+(DEFAULT, 1302, 'Salário', 'salary', 1700),
+(DEFAULT, 1303, 'Salário', 'salary', 1700),
+(DEFAULT, 1304, 'Salário', 'salary', 1700),
+(DEFAULT, 1305, 'Salário', 'salary', 1700),
+(DEFAULT, 1306, 'Salário', 'salary', 1700),
+(DEFAULT, 1307, 'Salário', 'salary', 1700),
+(DEFAULT, 1308, 'Salário', 'salary', 1700),
+(DEFAULT, 1309, 'Salário', 'salary', 1800),
+(DEFAULT, 1310, 'Salário', 'salary', 1800),
+(DEFAULT, 1311, 'Salário', 'salary', 1800),
+(DEFAULT, 1312, 'Salário', 'salary', 1800),
+(DEFAULT, 1313, 'Salário', 'salary', 1800),
+(DEFAULT, 1314, 'Salário', 'salary', 1800),
+(DEFAULT, 1315, 'Salário', 'salary', 1800),
+(DEFAULT, 1316, 'Salário', 'salary', 1800),
+(DEFAULT, 1317, 'Salário', 'salary', 1800),
+(DEFAULT, 1318, 'Salário', 'salary', 1800),
+(DEFAULT, 1319, 'Salário', 'salary', 1800),
+(DEFAULT, 1320, 'Salário', 'salary', 1800),
+(DEFAULT, 1321, 'Salário', 'salary', 1800),
+(DEFAULT, 1322, 'Salário', 'salary', 1800),
+(DEFAULT, 1323, 'Salário', 'salary', 1800),
+(DEFAULT, 1324, 'Salário', 'salary', 1800),
+(DEFAULT, 1325, 'Salário', 'salary', 1800),
+(DEFAULT, 1326, 'Salário', 'salary', 1800),
+(DEFAULT, 1327, 'Salário', 'salary', 2000),
+(DEFAULT, 1328, 'Salário', 'salary', 2000),
+(DEFAULT, 1329, 'Salário', 'salary', 2000),
+(DEFAULT, 1330, 'Salário', 'salary', 2000),
+(DEFAULT, 1331, 'Salário', 'salary', 2000),
+(DEFAULT, 1332, 'Salário', 'salary', 2000),
+(DEFAULT, 1333, 'Salário', 'salary', 1700),
+(DEFAULT, 1334, 'Salário', 'salary', 1700),
+(DEFAULT, 1335, 'Salário', 'salary', 1700),
+(DEFAULT, 1336, 'Salário', 'salary', 1700),
+(DEFAULT, 1337, 'Salário', 'salary', 1700),
+(DEFAULT, 1338, 'Salário', 'salary', 1700),
+(DEFAULT, 1339, 'Salário', 'salary', 1700),
+(DEFAULT, 1340, 'Salário', 'salary', 1700),
+(DEFAULT, 1341, 'Salário', 'salary', 1700),
+(DEFAULT, 1342, 'Salário', 'salary', 1700),
+(DEFAULT, 1343, 'Salário', 'salary', 1700),
+(DEFAULT, 1344, 'Salário', 'salary', 1700),
+(DEFAULT, 1345, 'Salário', 'salary', 1700),
+(DEFAULT, 1346, 'Salário', 'salary', 1700),
+(DEFAULT, 1347, 'Salário', 'salary', 1700),
+(DEFAULT, 1348, 'Salário', 'salary', 1700),
+(DEFAULT, 1349, 'Salário', 'salary', 1700),
+(DEFAULT, 1350, 'Salário', 'salary', 1700),
+(DEFAULT, 1351, 'Salário', 'salary', 1700),
+(DEFAULT, 1352, 'Salário', 'salary', 1700),
+(DEFAULT, 1353, 'Salário', 'salary', 1700),
+(DEFAULT, 1354, 'Salário', 'salary', 1700),
+(DEFAULT, 1355, 'Salário', 'salary', 1700),
+(DEFAULT, 1356, 'Salário', 'salary', 1700),
+(DEFAULT, 1357, 'Salário', 'salary', 1700),
+(DEFAULT, 1358, 'Salário', 'salary', 1700),
+(DEFAULT, 1359, 'Salário', 'salary', 1700),
+(DEFAULT, 1360, 'Salário', 'salary', 1700),
+(DEFAULT, 1361, 'Salário', 'salary', 1700),
+(DEFAULT, 1362, 'Salário', 'salary', 1800),
+(DEFAULT, 1363, 'Salário', 'salary', 1800),
+(DEFAULT, 1364, 'Salário', 'salary', 1800),
+(DEFAULT, 1365, 'Salário', 'salary', 1800),
+(DEFAULT, 1366, 'Salário', 'salary', 1800),
+(DEFAULT, 1367, 'Salário', 'salary', 1800),
+(DEFAULT, 1368, 'Salário', 'salary', 1800),
+(DEFAULT, 1369, 'Salário', 'salary', 1800),
+(DEFAULT, 1370, 'Salário', 'salary', 1800),
+(DEFAULT, 1371, 'Salário', 'salary', 1800),
+(DEFAULT, 1372, 'Salário', 'salary', 1800),
+(DEFAULT, 1373, 'Salário', 'salary', 2000),
+(DEFAULT, 1374, 'Salário', 'salary', 2000),
+(DEFAULT, 1375, 'Salário', 'salary', 2000),
+(DEFAULT, 1376, 'Salário', 'salary', 2000),
+(DEFAULT, 1377, 'Salário', 'salary', 2000),
+(DEFAULT, 1378, 'Salário', 'salary', 1700),
+(DEFAULT, 1379, 'Salário', 'salary', 1700),
+(DEFAULT, 1380, 'Salário', 'salary', 1700),
+(DEFAULT, 1381, 'Salário', 'salary', 1700),
+(DEFAULT, 1382, 'Salário', 'salary', 1700),
+(DEFAULT, 1383, 'Salário', 'salary', 1700),
+(DEFAULT, 1384, 'Salário', 'salary', 1700),
+(DEFAULT, 1385, 'Salário', 'salary', 1700),
+(DEFAULT, 1386, 'Salário', 'salary', 1700),
+(DEFAULT, 1387, 'Salário', 'salary', 1700),
+(DEFAULT, 1388, 'Salário', 'salary', 1700),
+(DEFAULT, 1389, 'Salário', 'salary', 1700),
+(DEFAULT, 1390, 'Salário', 'salary', 1700),
+(DEFAULT, 1391, 'Salário', 'salary', 1700),
+(DEFAULT, 1392, 'Salário', 'salary', 1700),
+(DEFAULT, 1393, 'Salário', 'salary', 1700),
+(DEFAULT, 1394, 'Salário', 'salary', 1700),
+(DEFAULT, 1395, 'Salário', 'salary', 1700),
+(DEFAULT, 1396, 'Salário', 'salary', 1700),
+(DEFAULT, 1397, 'Salário', 'salary', 1700),
+(DEFAULT, 1398, 'Salário', 'salary', 1700),
+(DEFAULT, 1399, 'Salário', 'salary', 1700),
+(DEFAULT, 1400, 'Salário', 'salary', 1700),
+(DEFAULT, 1401, 'Salário', 'salary', 1700),
+(DEFAULT, 1402, 'Salário', 'salary', 1700),
+(DEFAULT, 1403, 'Salário', 'salary', 1700),
+(DEFAULT, 1404, 'Salário', 'salary', 1700),
+(DEFAULT, 1405, 'Salário', 'salary', 1700),
+(DEFAULT, 1406, 'Salário', 'salary', 1800),
+(DEFAULT, 1407, 'Salário', 'salary', 1800),
+(DEFAULT, 1408, 'Salário', 'salary', 1800),
+(DEFAULT, 1409, 'Salário', 'salary', 1800),
+(DEFAULT, 1410, 'Salário', 'salary', 1800),
+(DEFAULT, 1411, 'Salário', 'salary', 1800),
+(DEFAULT, 1412, 'Salário', 'salary', 1800),
+(DEFAULT, 1413, 'Salário', 'salary', 1800),
+(DEFAULT, 1414, 'Salário', 'salary', 1800),
+(DEFAULT, 1415, 'Salário', 'salary', 1800),
+(DEFAULT, 1416, 'Salário', 'salary', 1800),
+(DEFAULT, 1417, 'Salário', 'salary', 1800),
+(DEFAULT, 1418, 'Salário', 'salary', 1800),
+(DEFAULT, 1419, 'Salário', 'salary', 1800),
+(DEFAULT, 1420, 'Salário', 'salary', 1800),
+(DEFAULT, 1421, 'Salário', 'salary', 1800),
+(DEFAULT, 1422, 'Salário', 'salary', 1800),
+(DEFAULT, 1423, 'Salário', 'salary', 1800),
+(DEFAULT, 1424, 'Salário', 'salary', 2000),
+(DEFAULT, 1425, 'Salário', 'salary', 2000),
+(DEFAULT, 1426, 'Salário', 'salary', 2000),
+(DEFAULT, 1427, 'Salário', 'salary', 2000),
+(DEFAULT, 1428, 'Salário', 'salary', 2000),
+(DEFAULT, 1429, 'Salário', 'salary', 2000),
+(DEFAULT, 1430, 'Salário', 'salary', 2000),
+(DEFAULT, 1431, 'Salário', 'salary', 2000),
+(DEFAULT, 1432, 'Salário', 'salary', 2000),
+(DEFAULT, 1433, 'Salário', 'salary', 2000),
+(DEFAULT, 1434, 'Salário', 'salary', 2000),
+(DEFAULT, 1435, 'Salário', 'salary', 2000),
+(DEFAULT, 1436, 'Salário', 'salary', 2000),
+(DEFAULT, 1437, 'Salário', 'salary', 2000),
+(DEFAULT, 1438, 'Salário', 'salary', 2000),
+(DEFAULT, 1439, 'Salário', 'salary', 2000),
+(DEFAULT, 1440, 'Salário', 'salary', 2000),
+(DEFAULT, 1441, 'Salário', 'salary', 2000),
+(DEFAULT, 1442, 'Salário', 'salary', 2000),
+(DEFAULT, 1443, 'Salário', 'salary', 2000),
+(DEFAULT, 1444, 'Salário', 'salary', 2000),
+(DEFAULT, 1445, 'Salário', 'salary', 2000),
+(DEFAULT, 1446, 'Salário', 'salary', 1700),
+(DEFAULT, 1447, 'Salário', 'salary', 1700),
+(DEFAULT, 1448, 'Salário', 'salary', 1700),
+(DEFAULT, 1449, 'Salário', 'salary', 1700),
+(DEFAULT, 1450, 'Salário', 'salary', 1700),
+(DEFAULT, 1451, 'Salário', 'salary', 1700),
+(DEFAULT, 1452, 'Salário', 'salary', 1700),
+(DEFAULT, 1453, 'Salário', 'salary', 1700),
+(DEFAULT, 1454, 'Salário', 'salary', 1700),
+(DEFAULT, 1455, 'Salário', 'salary', 1700),
+(DEFAULT, 1456, 'Salário', 'salary', 1700),
+(DEFAULT, 1457, 'Salário', 'salary', 1700),
+(DEFAULT, 1458, 'Salário', 'salary', 1700),
+(DEFAULT, 1459, 'Salário', 'salary', 1700),
+(DEFAULT, 1460, 'Salário', 'salary', 1700),
+(DEFAULT, 1461, 'Salário', 'salary', 1700),
+(DEFAULT, 1462, 'Salário', 'salary', 1700),
+(DEFAULT, 1463, 'Salário', 'salary', 1700),
+(DEFAULT, 1464, 'Salário', 'salary', 1700),
+(DEFAULT, 1465, 'Salário', 'salary', 1700),
+(DEFAULT, 1466, 'Salário', 'salary', 1700),
+(DEFAULT, 1467, 'Salário', 'salary', 1700),
+(DEFAULT, 1468, 'Salário', 'salary', 1700),
+(DEFAULT, 1469, 'Salário', 'salary', 1700),
+(DEFAULT, 1470, 'Salário', 'salary', 1700),
+(DEFAULT, 1471, 'Salário', 'salary', 1700),
+(DEFAULT, 1472, 'Salário', 'salary', 1700),
+(DEFAULT, 1473, 'Salário', 'salary', 1700),
+(DEFAULT, 1474, 'Salário', 'salary', 1700),
+(DEFAULT, 1475, 'Salário', 'salary', 1700),
+(DEFAULT, 1476, 'Salário', 'salary', 1700),
+(DEFAULT, 1477, 'Salário', 'salary', 1700),
+(DEFAULT, 1478, 'Salário', 'salary', 1800),
+(DEFAULT, 1479, 'Salário', 'salary', 1800),
+(DEFAULT, 1480, 'Salário', 'salary', 1800),
+(DEFAULT, 1481, 'Salário', 'salary', 1800),
+(DEFAULT, 1482, 'Salário', 'salary', 1800),
+(DEFAULT, 1483, 'Salário', 'salary', 2000),
+(DEFAULT, 1484, 'Salário', 'salary', 2000),
+(DEFAULT, 1485, 'Salário', 'salary', 2000),
+(DEFAULT, 1486, 'Salário', 'salary', 2000),
+(DEFAULT, 1487, 'Salário', 'salary', 2000),
+(DEFAULT, 1488, 'Salário', 'salary', 2000),
+(DEFAULT, 1489, 'Salário', 'salary', 2000),
+(DEFAULT, 1490, 'Salário', 'salary', 2000),
+(DEFAULT, 1491, 'Salário', 'salary', 2000),
+(DEFAULT, 1492, 'Salário', 'salary', 2000),
+(DEFAULT, 1493, 'Salário', 'salary', 2000),
+(DEFAULT, 1494, 'Salário', 'salary', 2000),
+(DEFAULT, 1495, 'Salário', 'salary', 2000),
+(DEFAULT, 1496, 'Salário', 'salary', 2000),
+(DEFAULT, 1497, 'Salário', 'salary', 2000),
+(DEFAULT, 1498, 'Salário', 'salary', 2000),
+(DEFAULT, 1499, 'Salário', 'salary', 2000),
+(DEFAULT, 1500, 'Salário', 'salary', 2000),
+(DEFAULT, 1501, 'Salário', 'salary', 2000),
+(DEFAULT, 1502, 'Salário', 'salary', 2000),
+(DEFAULT, 1503, 'Salário', 'salary', 2000),
+(DEFAULT, 1504, 'Salário', 'salary', 1700),
+(DEFAULT, 1505, 'Salário', 'salary', 1700),
+(DEFAULT, 1506, 'Salário', 'salary', 1700),
+(DEFAULT, 1507, 'Salário', 'salary', 1700),
+(DEFAULT, 1508, 'Salário', 'salary', 1700),
+(DEFAULT, 1509, 'Salário', 'salary', 1700),
+(DEFAULT, 1510, 'Salário', 'salary', 1700),
+(DEFAULT, 1511, 'Salário', 'salary', 1700),
+(DEFAULT, 1512, 'Salário', 'salary', 1700),
+(DEFAULT, 1513, 'Salário', 'salary', 1700),
+(DEFAULT, 1514, 'Salário', 'salary', 1700),
+(DEFAULT, 1515, 'Salário', 'salary', 1700),
+(DEFAULT, 1516, 'Salário', 'salary', 1700),
+(DEFAULT, 1517, 'Salário', 'salary', 1700),
+(DEFAULT, 1518, 'Salário', 'salary', 1700),
+(DEFAULT, 1519, 'Salário', 'salary', 1700),
+(DEFAULT, 1520, 'Salário', 'salary', 1700),
+(DEFAULT, 1521, 'Salário', 'salary', 1700),
+(DEFAULT, 1522, 'Salário', 'salary', 1700),
+(DEFAULT, 1523, 'Salário', 'salary', 1700),
+(DEFAULT, 1524, 'Salário', 'salary', 1700),
+(DEFAULT, 1525, 'Salário', 'salary', 1700),
+(DEFAULT, 1526, 'Salário', 'salary', 1700),
+(DEFAULT, 1527, 'Salário', 'salary', 1800),
+(DEFAULT, 1528, 'Salário', 'salary', 1800),
+(DEFAULT, 1529, 'Salário', 'salary', 1800),
+(DEFAULT, 1530, 'Salário', 'salary', 1800),
+(DEFAULT, 1531, 'Salário', 'salary', 1800),
+(DEFAULT, 1532, 'Salário', 'salary', 1800),
+(DEFAULT, 1533, 'Salário', 'salary', 1800),
+(DEFAULT, 1534, 'Salário', 'salary', 1800),
+(DEFAULT, 1535, 'Salário', 'salary', 1800),
+(DEFAULT, 1536, 'Salário', 'salary', 1800),
+(DEFAULT, 1537, 'Salário', 'salary', 1800),
+(DEFAULT, 1538, 'Salário', 'salary', 2000),
+(DEFAULT, 1539, 'Salário', 'salary', 2000),
+(DEFAULT, 1540, 'Salário', 'salary', 2000),
+(DEFAULT, 1541, 'Salário', 'salary', 2000),
+(DEFAULT, 1542, 'Salário', 'salary', 2000),
+(DEFAULT, 1543, 'Salário', 'salary', 2000),
+(DEFAULT, 1544, 'Salário', 'salary', 1700),
+(DEFAULT, 1545, 'Salário', 'salary', 1700),
+(DEFAULT, 1546, 'Salário', 'salary', 1700),
+(DEFAULT, 1547, 'Salário', 'salary', 1700),
+(DEFAULT, 1548, 'Salário', 'salary', 1700),
+(DEFAULT, 1549, 'Salário', 'salary', 1700),
+(DEFAULT, 1550, 'Salário', 'salary', 1700),
+(DEFAULT, 1551, 'Salário', 'salary', 1700),
+(DEFAULT, 1552, 'Salário', 'salary', 1700),
+(DEFAULT, 1553, 'Salário', 'salary', 1700),
+(DEFAULT, 1554, 'Salário', 'salary', 1700),
+(DEFAULT, 1555, 'Salário', 'salary', 1700),
+(DEFAULT, 1556, 'Salário', 'salary', 1700),
+(DEFAULT, 1557, 'Salário', 'salary', 1700),
+(DEFAULT, 1558, 'Salário', 'salary', 1700),
+(DEFAULT, 1559, 'Salário', 'salary', 1700),
+(DEFAULT, 1560, 'Salário', 'salary', 1700),
+(DEFAULT, 1561, 'Salário', 'salary', 1700),
+(DEFAULT, 1562, 'Salário', 'salary', 1700),
+(DEFAULT, 1563, 'Salário', 'salary', 1700),
+(DEFAULT, 1564, 'Salário', 'salary', 1700),
+(DEFAULT, 1565, 'Salário', 'salary', 1700),
+(DEFAULT, 1566, 'Salário', 'salary', 1700),
+(DEFAULT, 1567, 'Salário', 'salary', 1700),
+(DEFAULT, 1568, 'Salário', 'salary', 1700),
+(DEFAULT, 1569, 'Salário', 'salary', 1700),
+(DEFAULT, 1570, 'Salário', 'salary', 1700),
+(DEFAULT, 1571, 'Salário', 'salary', 1700),
+(DEFAULT, 1572, 'Salário', 'salary', 1700),
+(DEFAULT, 1573, 'Salário', 'salary', 1700),
+(DEFAULT, 1574, 'Salário', 'salary', 1800),
+(DEFAULT, 1575, 'Salário', 'salary', 1800),
+(DEFAULT, 1576, 'Salário', 'salary', 1800),
+(DEFAULT, 1577, 'Salário', 'salary', 1800),
+(DEFAULT, 1578, 'Salário', 'salary', 1800),
+(DEFAULT, 1579, 'Salário', 'salary', 1800),
+(DEFAULT, 1580, 'Salário', 'salary', 1800),
+(DEFAULT, 1581, 'Salário', 'salary', 1800),
+(DEFAULT, 1582, 'Salário', 'salary', 1800),
+(DEFAULT, 1583, 'Salário', 'salary', 1800),
+(DEFAULT, 1584, 'Salário', 'salary', 1800),
+(DEFAULT, 1585, 'Salário', 'salary', 1800),
+(DEFAULT, 1586, 'Salário', 'salary', 1800),
+(DEFAULT, 1587, 'Salário', 'salary', 2000),
+(DEFAULT, 1588, 'Salário', 'salary', 2000),
+(DEFAULT, 1589, 'Salário', 'salary', 2000),
+(DEFAULT, 1590, 'Salário', 'salary', 2000),
+(DEFAULT, 1591, 'Salário', 'salary', 2000),
+(DEFAULT, 1592, 'Salário', 'salary', 2000),
+(DEFAULT, 1593, 'Salário', 'salary', 2000),
+(DEFAULT, 1594, 'Salário', 'salary', 2000),
+(DEFAULT, 1595, 'Salário', 'salary', 2000),
+(DEFAULT, 1596, 'Salário', 'salary', 2000),
+(DEFAULT, 1597, 'Salário', 'salary', 2000),
+(DEFAULT, 1598, 'Salário', 'salary', 2000),
+(DEFAULT, 1599, 'Salário', 'salary', 2000),
+(DEFAULT, 1600, 'Salário', 'salary', 2000),
+(DEFAULT, 1601, 'Salário', 'salary', 2000),
+(DEFAULT, 1602, 'Salário', 'salary', 2000),
+(DEFAULT, 1603, 'Salário', 'salary', 2000),
+(DEFAULT, 1604, 'Salário', 'salary', 2000),
+(DEFAULT, 1605, 'Salário', 'salary', 1700),
+(DEFAULT, 1606, 'Salário', 'salary', 1700),
+(DEFAULT, 1607, 'Salário', 'salary', 1700),
+(DEFAULT, 1608, 'Salário', 'salary', 1700),
+(DEFAULT, 1609, 'Salário', 'salary', 1700),
+(DEFAULT, 1610, 'Salário', 'salary', 1700),
+(DEFAULT, 1611, 'Salário', 'salary', 1700),
+(DEFAULT, 1612, 'Salário', 'salary', 1700),
+(DEFAULT, 1613, 'Salário', 'salary', 1700),
+(DEFAULT, 1614, 'Salário', 'salary', 1700),
+(DEFAULT, 1615, 'Salário', 'salary', 1700),
+(DEFAULT, 1616, 'Salário', 'salary', 1700),
+(DEFAULT, 1617, 'Salário', 'salary', 1700),
+(DEFAULT, 1618, 'Salário', 'salary', 1700),
+(DEFAULT, 1619, 'Salário', 'salary', 1700),
+(DEFAULT, 1620, 'Salário', 'salary', 1700),
+(DEFAULT, 1621, 'Salário', 'salary', 1700),
+(DEFAULT, 1622, 'Salário', 'salary', 1700),
+(DEFAULT, 1623, 'Salário', 'salary', 1700),
+(DEFAULT, 1624, 'Salário', 'salary', 1700),
+(DEFAULT, 1625, 'Salário', 'salary', 1700),
+(DEFAULT, 1626, 'Salário', 'salary', 1700),
+(DEFAULT, 1627, 'Salário', 'salary', 1700),
+(DEFAULT, 1628, 'Salário', 'salary', 1700),
+(DEFAULT, 1629, 'Salário', 'salary', 1700),
+(DEFAULT, 1630, 'Salário', 'salary', 1700),
+(DEFAULT, 1631, 'Salário', 'salary', 1700),
+(DEFAULT, 1632, 'Salário', 'salary', 1700),
+(DEFAULT, 1633, 'Salário', 'salary', 1700),
+(DEFAULT, 1634, 'Salário', 'salary', 1700),
+(DEFAULT, 1635, 'Salário', 'salary', 1700),
+(DEFAULT, 1636, 'Salário', 'salary', 1700),
+(DEFAULT, 1637, 'Salário', 'salary', 1700),
+(DEFAULT, 1638, 'Salário', 'salary', 1700),
+(DEFAULT, 1639, 'Salário', 'salary', 1700),
+(DEFAULT, 1640, 'Salário', 'salary', 1700),
+(DEFAULT, 1641, 'Salário', 'salary', 1700),
+(DEFAULT, 1642, 'Salário', 'salary', 1700),
+(DEFAULT, 1643, 'Salário', 'salary', 1700),
+(DEFAULT, 1644, 'Salário', 'salary', 1700),
+(DEFAULT, 1645, 'Salário', 'salary', 1700),
+(DEFAULT, 1646, 'Salário', 'salary', 1800),
+(DEFAULT, 1647, 'Salário', 'salary', 1800),
+(DEFAULT, 1648, 'Salário', 'salary', 1800),
+(DEFAULT, 1649, 'Salário', 'salary', 1800),
+(DEFAULT, 1650, 'Salário', 'salary', 1800),
+(DEFAULT, 1651, 'Salário', 'salary', 1800),
+(DEFAULT, 1652, 'Salário', 'salary', 1800),
+(DEFAULT, 1653, 'Salário', 'salary', 1800),
+(DEFAULT, 1654, 'Salário', 'salary', 1800),
+(DEFAULT, 1655, 'Salário', 'salary', 1800),
+(DEFAULT, 1656, 'Salário', 'salary', 1800),
+(DEFAULT, 1657, 'Salário', 'salary', 1800),
+(DEFAULT, 1658, 'Salário', 'salary', 1800),
+(DEFAULT, 1659, 'Salário', 'salary', 1800),
+(DEFAULT, 1660, 'Salário', 'salary', 1800),
+(DEFAULT, 1661, 'Salário', 'salary', 1800),
+(DEFAULT, 1662, 'Salário', 'salary', 1800),
+(DEFAULT, 1663, 'Salário', 'salary', 2000),
+(DEFAULT, 1664, 'Salário', 'salary', 2000),
+(DEFAULT, 1665, 'Salário', 'salary', 2000),
+(DEFAULT, 1666, 'Salário', 'salary', 2000),
+(DEFAULT, 1667, 'Salário', 'salary', 2000),
+(DEFAULT, 1668, 'Salário', 'salary', 2000),
+(DEFAULT, 1669, 'Salário', 'salary', 2000),
+(DEFAULT, 1670, 'Salário', 'salary', 2000),
+(DEFAULT, 1671, 'Salário', 'salary', 2000),
+(DEFAULT, 1672, 'Salário', 'salary', 2000),
+(DEFAULT, 1673, 'Salário', 'salary', 2000),
+(DEFAULT, 1674, 'Salário', 'salary', 2000),
+(DEFAULT, 1675, 'Salário', 'salary', 1700),
+(DEFAULT, 1676, 'Salário', 'salary', 1700),
+(DEFAULT, 1677, 'Salário', 'salary', 1700),
+(DEFAULT, 1678, 'Salário', 'salary', 1700),
+(DEFAULT, 1679, 'Salário', 'salary', 1700),
+(DEFAULT, 1680, 'Salário', 'salary', 1700),
+(DEFAULT, 1681, 'Salário', 'salary', 1700),
+(DEFAULT, 1682, 'Salário', 'salary', 1700),
+(DEFAULT, 1683, 'Salário', 'salary', 1700),
+(DEFAULT, 1684, 'Salário', 'salary', 1700),
+(DEFAULT, 1685, 'Salário', 'salary', 1700),
+(DEFAULT, 1686, 'Salário', 'salary', 1700),
+(DEFAULT, 1687, 'Salário', 'salary', 1700),
+(DEFAULT, 1688, 'Salário', 'salary', 1700),
+(DEFAULT, 1689, 'Salário', 'salary', 1700),
+(DEFAULT, 1690, 'Salário', 'salary', 1700),
+(DEFAULT, 1691, 'Salário', 'salary', 1700),
+(DEFAULT, 1692, 'Salário', 'salary', 1700),
+(DEFAULT, 1693, 'Salário', 'salary', 1700),
+(DEFAULT, 1694, 'Salário', 'salary', 1700),
+(DEFAULT, 1695, 'Salário', 'salary', 1700),
+(DEFAULT, 1696, 'Salário', 'salary', 1700),
+(DEFAULT, 1697, 'Salário', 'salary', 1700),
+(DEFAULT, 1698, 'Salário', 'salary', 1700),
+(DEFAULT, 1699, 'Salário', 'salary', 1700),
+(DEFAULT, 1700, 'Salário', 'salary', 1700),
+(DEFAULT, 1701, 'Salário', 'salary', 1700),
+(DEFAULT, 1702, 'Salário', 'salary', 1700),
+(DEFAULT, 1703, 'Salário', 'salary', 1700),
+(DEFAULT, 1704, 'Salário', 'salary', 1700),
+(DEFAULT, 1705, 'Salário', 'salary', 1700),
+(DEFAULT, 1706, 'Salário', 'salary', 1800),
+(DEFAULT, 1707, 'Salário', 'salary', 1800),
+(DEFAULT, 1708, 'Salário', 'salary', 1800),
+(DEFAULT, 1709, 'Salário', 'salary', 1800),
+(DEFAULT, 1710, 'Salário', 'salary', 1800),
+(DEFAULT, 1711, 'Salário', 'salary', 1800),
+(DEFAULT, 1712, 'Salário', 'salary', 2000),
+(DEFAULT, 1713, 'Salário', 'salary', 2000),
+(DEFAULT, 1714, 'Salário', 'salary', 2000),
+(DEFAULT, 1715, 'Salário', 'salary', 2000),
+(DEFAULT, 1716, 'Salário', 'salary', 1700),
+(DEFAULT, 1717, 'Salário', 'salary', 1700),
+(DEFAULT, 1718, 'Salário', 'salary', 1700),
+(DEFAULT, 1719, 'Salário', 'salary', 1700),
+(DEFAULT, 1720, 'Salário', 'salary', 1700),
+(DEFAULT, 1721, 'Salário', 'salary', 1700),
+(DEFAULT, 1722, 'Salário', 'salary', 1700),
+(DEFAULT, 1723, 'Salário', 'salary', 1700),
+(DEFAULT, 1724, 'Salário', 'salary', 1700),
+(DEFAULT, 1725, 'Salário', 'salary', 1700),
+(DEFAULT, 1726, 'Salário', 'salary', 1700),
+(DEFAULT, 1727, 'Salário', 'salary', 1700),
+(DEFAULT, 1728, 'Salário', 'salary', 1700),
+(DEFAULT, 1729, 'Salário', 'salary', 1700),
+(DEFAULT, 1730, 'Salário', 'salary', 1700),
+(DEFAULT, 1731, 'Salário', 'salary', 1700),
+(DEFAULT, 1732, 'Salário', 'salary', 1700),
+(DEFAULT, 1733, 'Salário', 'salary', 1700),
+(DEFAULT, 1734, 'Salário', 'salary', 1700),
+(DEFAULT, 1735, 'Salário', 'salary', 1700),
+(DEFAULT, 1736, 'Salário', 'salary', 1700),
+(DEFAULT, 1737, 'Salário', 'salary', 1700),
+(DEFAULT, 1738, 'Salário', 'salary', 1700),
+(DEFAULT, 1739, 'Salário', 'salary', 1700),
+(DEFAULT, 1740, 'Salário', 'salary', 1700),
+(DEFAULT, 1741, 'Salário', 'salary', 1700),
+(DEFAULT, 1742, 'Salário', 'salary', 1800),
+(DEFAULT, 1743, 'Salário', 'salary', 1800),
+(DEFAULT, 1744, 'Salário', 'salary', 1800),
+(DEFAULT, 1745, 'Salário', 'salary', 1800),
+(DEFAULT, 1746, 'Salário', 'salary', 1800),
+(DEFAULT, 1747, 'Salário', 'salary', 1800),
+(DEFAULT, 1748, 'Salário', 'salary', 1800),
+(DEFAULT, 1749, 'Salário', 'salary', 2000),
+(DEFAULT, 1750, 'Salário', 'salary', 2000),
+(DEFAULT, 1751, 'Salário', 'salary', 2000),
+(DEFAULT, 1752, 'Salário', 'salary', 2000),
+(DEFAULT, 1753, 'Salário', 'salary', 2000),
+(DEFAULT, 1754, 'Salário', 'salary', 2000),
+(DEFAULT, 1755, 'Salário', 'salary', 2000),
+(DEFAULT, 1756, 'Salário', 'salary', 2000),
+(DEFAULT, 1757, 'Salário', 'salary', 2000),
+(DEFAULT, 1758, 'Salário', 'salary', 2000),
+(DEFAULT, 1759, 'Salário', 'salary', 2000),
+(DEFAULT, 1760, 'Salário', 'salary', 2000),
+(DEFAULT, 1761, 'Salário', 'salary', 2000),
+(DEFAULT, 1762, 'Salário', 'salary', 2000),
+(DEFAULT, 1763, 'Salário', 'salary', 2000),
+(DEFAULT, 1764, 'Salário', 'salary', 1700),
+(DEFAULT, 1765, 'Salário', 'salary', 1700),
+(DEFAULT, 1766, 'Salário', 'salary', 1700),
+(DEFAULT, 1767, 'Salário', 'salary', 1700),
+(DEFAULT, 1768, 'Salário', 'salary', 1700),
+(DEFAULT, 1769, 'Salário', 'salary', 1700),
+(DEFAULT, 1770, 'Salário', 'salary', 1700),
+(DEFAULT, 1771, 'Salário', 'salary', 1700),
+(DEFAULT, 1772, 'Salário', 'salary', 1700),
+(DEFAULT, 1773, 'Salário', 'salary', 1700),
+(DEFAULT, 1774, 'Salário', 'salary', 1700),
+(DEFAULT, 1775, 'Salário', 'salary', 1700),
+(DEFAULT, 1776, 'Salário', 'salary', 1700),
+(DEFAULT, 1777, 'Salário', 'salary', 1700),
+(DEFAULT, 1778, 'Salário', 'salary', 1700),
+(DEFAULT, 1779, 'Salário', 'salary', 1700),
+(DEFAULT, 1780, 'Salário', 'salary', 1700),
+(DEFAULT, 1781, 'Salário', 'salary', 1700),
+(DEFAULT, 1782, 'Salário', 'salary', 1700),
+(DEFAULT, 1783, 'Salário', 'salary', 1700),
+(DEFAULT, 1784, 'Salário', 'salary', 1700),
+(DEFAULT, 1785, 'Salário', 'salary', 1700),
+(DEFAULT, 1786, 'Salário', 'salary', 1700),
+(DEFAULT, 1787, 'Salário', 'salary', 1700),
+(DEFAULT, 1788, 'Salário', 'salary', 1700),
+(DEFAULT, 1789, 'Salário', 'salary', 1700),
+(DEFAULT, 1790, 'Salário', 'salary', 1700),
+(DEFAULT, 1791, 'Salário', 'salary', 1700),
+(DEFAULT, 1792, 'Salário', 'salary', 1700),
+(DEFAULT, 1793, 'Salário', 'salary', 1700),
+(DEFAULT, 1794, 'Salário', 'salary', 1700),
+(DEFAULT, 1795, 'Salário', 'salary', 1700),
+(DEFAULT, 1796, 'Salário', 'salary', 1700),
+(DEFAULT, 1797, 'Salário', 'salary', 1700),
+(DEFAULT, 1798, 'Salário', 'salary', 1800),
+(DEFAULT, 1799, 'Salário', 'salary', 1800),
+(DEFAULT, 1800, 'Salário', 'salary', 1800),
+(DEFAULT, 1801, 'Salário', 'salary', 1800),
+(DEFAULT, 1802, 'Salário', 'salary', 1800),
+(DEFAULT, 1803, 'Salário', 'salary', 1800),
+(DEFAULT, 1804, 'Salário', 'salary', 1800),
+(DEFAULT, 1805, 'Salário', 'salary', 1800),
+(DEFAULT, 1806, 'Salário', 'salary', 1800),
+(DEFAULT, 1807, 'Salário', 'salary', 1800),
+(DEFAULT, 1808, 'Salário', 'salary', 1800),
+(DEFAULT, 1809, 'Salário', 'salary', 1800),
+(DEFAULT, 1810, 'Salário', 'salary', 1800),
+(DEFAULT, 1811, 'Salário', 'salary', 1800),
+(DEFAULT, 1812, 'Salário', 'salary', 1800),
+(DEFAULT, 1813, 'Salário', 'salary', 1800),
+(DEFAULT, 1814, 'Salário', 'salary', 1800),
+(DEFAULT, 1815, 'Salário', 'salary', 1800),
+(DEFAULT, 1816, 'Salário', 'salary', 1800),
+(DEFAULT, 1817, 'Salário', 'salary', 1800),
+(DEFAULT, 1818, 'Salário', 'salary', 1800),
+(DEFAULT, 1819, 'Salário', 'salary', 2000),
+(DEFAULT, 1820, 'Salário', 'salary', 2000),
+(DEFAULT, 1821, 'Salário', 'salary', 2000),
+(DEFAULT, 1822, 'Salário', 'salary', 2000),
+(DEFAULT, 1823, 'Salário', 'salary', 2000),
+(DEFAULT, 1824, 'Salário', 'salary', 2000),
+(DEFAULT, 1825, 'Salário', 'salary', 2000),
+(DEFAULT, 1826, 'Salário', 'salary', 2000),
+(DEFAULT, 1827, 'Salário', 'salary', 1700),
+(DEFAULT, 1828, 'Salário', 'salary', 1700),
+(DEFAULT, 1829, 'Salário', 'salary', 1700),
+(DEFAULT, 1830, 'Salário', 'salary', 1700),
+(DEFAULT, 1831, 'Salário', 'salary', 1700),
+(DEFAULT, 1832, 'Salário', 'salary', 1700),
+(DEFAULT, 1833, 'Salário', 'salary', 1700),
+(DEFAULT, 1834, 'Salário', 'salary', 1700),
+(DEFAULT, 1835, 'Salário', 'salary', 1700),
+(DEFAULT, 1836, 'Salário', 'salary', 1700),
+(DEFAULT, 1837, 'Salário', 'salary', 1700),
+(DEFAULT, 1838, 'Salário', 'salary', 1700),
+(DEFAULT, 1839, 'Salário', 'salary', 1700),
+(DEFAULT, 1840, 'Salário', 'salary', 1700),
+(DEFAULT, 1841, 'Salário', 'salary', 1700),
+(DEFAULT, 1842, 'Salário', 'salary', 1700),
+(DEFAULT, 1843, 'Salário', 'salary', 1700),
+(DEFAULT, 1844, 'Salário', 'salary', 1700),
+(DEFAULT, 1845, 'Salário', 'salary', 1700),
+(DEFAULT, 1846, 'Salário', 'salary', 1700),
+(DEFAULT, 1847, 'Salário', 'salary', 1700),
+(DEFAULT, 1848, 'Salário', 'salary', 1700),
+(DEFAULT, 1849, 'Salário', 'salary', 1700),
+(DEFAULT, 1850, 'Salário', 'salary', 1700),
+(DEFAULT, 1851, 'Salário', 'salary', 1700),
+(DEFAULT, 1852, 'Salário', 'salary', 1700),
+(DEFAULT, 1853, 'Salário', 'salary', 1700),
+(DEFAULT, 1854, 'Salário', 'salary', 1700),
+(DEFAULT, 1855, 'Salário', 'salary', 1700),
+(DEFAULT, 1856, 'Salário', 'salary', 1700),
+(DEFAULT, 1857, 'Salário', 'salary', 1700),
+(DEFAULT, 1858, 'Salário', 'salary', 1700),
+(DEFAULT, 1859, 'Salário', 'salary', 1700),
+(DEFAULT, 1860, 'Salário', 'salary', 1700),
+(DEFAULT, 1861, 'Salário', 'salary', 1700),
+(DEFAULT, 1862, 'Salário', 'salary', 1700),
+(DEFAULT, 1863, 'Salário', 'salary', 1700),
+(DEFAULT, 1864, 'Salário', 'salary', 1800),
+(DEFAULT, 1865, 'Salário', 'salary', 1800),
+(DEFAULT, 1866, 'Salário', 'salary', 1800),
+(DEFAULT, 1867, 'Salário', 'salary', 1800),
+(DEFAULT, 1868, 'Salário', 'salary', 1800),
+(DEFAULT, 1869, 'Salário', 'salary', 1800),
+(DEFAULT, 1870, 'Salário', 'salary', 1800),
+(DEFAULT, 1871, 'Salário', 'salary', 1800),
+(DEFAULT, 1872, 'Salário', 'salary', 1800),
+(DEFAULT, 1873, 'Salário', 'salary', 2000),
+(DEFAULT, 1874, 'Salário', 'salary', 2000),
+(DEFAULT, 1875, 'Salário', 'salary', 2000),
+(DEFAULT, 1876, 'Salário', 'salary', 2000),
+(DEFAULT, 1877, 'Salário', 'salary', 2000),
+(DEFAULT, 1878, 'Salário', 'salary', 2000),
+(DEFAULT, 1879, 'Salário', 'salary', 2000),
+(DEFAULT, 1880, 'Salário', 'salary', 2000),
+(DEFAULT, 1881, 'Salário', 'salary', 2000),
+(DEFAULT, 1882, 'Salário', 'salary', 2000),
+(DEFAULT, 1883, 'Salário', 'salary', 2000),
+(DEFAULT, 1884, 'Salário', 'salary', 1700),
+(DEFAULT, 1885, 'Salário', 'salary', 1700),
+(DEFAULT, 1886, 'Salário', 'salary', 1700),
+(DEFAULT, 1887, 'Salário', 'salary', 1700),
+(DEFAULT, 1888, 'Salário', 'salary', 1700),
+(DEFAULT, 1889, 'Salário', 'salary', 1700),
+(DEFAULT, 1890, 'Salário', 'salary', 1700),
+(DEFAULT, 1891, 'Salário', 'salary', 1700),
+(DEFAULT, 1892, 'Salário', 'salary', 1700),
+(DEFAULT, 1893, 'Salário', 'salary', 1700),
+(DEFAULT, 1894, 'Salário', 'salary', 1700),
+(DEFAULT, 1895, 'Salário', 'salary', 1700),
+(DEFAULT, 1896, 'Salário', 'salary', 1700),
+(DEFAULT, 1897, 'Salário', 'salary', 1700),
+(DEFAULT, 1898, 'Salário', 'salary', 1700),
+(DEFAULT, 1899, 'Salário', 'salary', 1700),
+(DEFAULT, 1900, 'Salário', 'salary', 1700),
+(DEFAULT, 1901, 'Salário', 'salary', 1700),
+(DEFAULT, 1902, 'Salário', 'salary', 1700),
+(DEFAULT, 1903, 'Salário', 'salary', 1700),
+(DEFAULT, 1904, 'Salário', 'salary', 1700),
+(DEFAULT, 1905, 'Salário', 'salary', 1700),
+(DEFAULT, 1906, 'Salário', 'salary', 1700),
+(DEFAULT, 1907, 'Salário', 'salary', 1700),
+(DEFAULT, 1908, 'Salário', 'salary', 1700),
+(DEFAULT, 1909, 'Salário', 'salary', 1700),
+(DEFAULT, 1910, 'Salário', 'salary', 1700),
+(DEFAULT, 1911, 'Salário', 'salary', 1700),
+(DEFAULT, 1912, 'Salário', 'salary', 1700),
+(DEFAULT, 1913, 'Salário', 'salary', 1700),
+(DEFAULT, 1914, 'Salário', 'salary', 1700),
+(DEFAULT, 1915, 'Salário', 'salary', 1700),
+(DEFAULT, 1916, 'Salário', 'salary', 1700),
+(DEFAULT, 1917, 'Salário', 'salary', 1700),
+(DEFAULT, 1918, 'Salário', 'salary', 1800),
+(DEFAULT, 1919, 'Salário', 'salary', 1800),
+(DEFAULT, 1920, 'Salário', 'salary', 1800),
+(DEFAULT, 1921, 'Salário', 'salary', 1800),
+(DEFAULT, 1922, 'Salário', 'salary', 2000),
+(DEFAULT, 1923, 'Salário', 'salary', 2000),
+(DEFAULT, 1924, 'Salário', 'salary', 2000),
+(DEFAULT, 1925, 'Salário', 'salary', 2000),
+(DEFAULT, 1926, 'Salário', 'salary', 2000),
+(DEFAULT, 1927, 'Salário', 'salary', 2000),
+(DEFAULT, 1928, 'Salário', 'salary', 2000),
+(DEFAULT, 1929, 'Salário', 'salary', 2000),
+(DEFAULT, 1930, 'Salário', 'salary', 2000),
+(DEFAULT, 1931, 'Salário', 'salary', 2000),
+(DEFAULT, 1932, 'Salário', 'salary', 2000),
+(DEFAULT, 1933, 'Salário', 'salary', 2000),
+(DEFAULT, 1934, 'Salário', 'salary', 2000),
+(DEFAULT, 1935, 'Salário', 'salary', 1700),
+(DEFAULT, 1936, 'Salário', 'salary', 1700),
+(DEFAULT, 1937, 'Salário', 'salary', 1700),
+(DEFAULT, 1938, 'Salário', 'salary', 1700),
+(DEFAULT, 1939, 'Salário', 'salary', 1700),
+(DEFAULT, 1940, 'Salário', 'salary', 1700),
+(DEFAULT, 1941, 'Salário', 'salary', 1700),
+(DEFAULT, 1942, 'Salário', 'salary', 1700),
+(DEFAULT, 1943, 'Salário', 'salary', 1700),
+(DEFAULT, 1944, 'Salário', 'salary', 1700),
+(DEFAULT, 1945, 'Salário', 'salary', 1700),
+(DEFAULT, 1946, 'Salário', 'salary', 1700),
+(DEFAULT, 1947, 'Salário', 'salary', 1700),
+(DEFAULT, 1948, 'Salário', 'salary', 1700),
+(DEFAULT, 1949, 'Salário', 'salary', 1700),
+(DEFAULT, 1950, 'Salário', 'salary', 1700),
+(DEFAULT, 1951, 'Salário', 'salary', 1700),
+(DEFAULT, 1952, 'Salário', 'salary', 1700),
+(DEFAULT, 1953, 'Salário', 'salary', 1700),
+(DEFAULT, 1954, 'Salário', 'salary', 1700),
+(DEFAULT, 1955, 'Salário', 'salary', 1700),
+(DEFAULT, 1956, 'Salário', 'salary', 1700),
+(DEFAULT, 1957, 'Salário', 'salary', 1700),
+(DEFAULT, 1958, 'Salário', 'salary', 1700),
+(DEFAULT, 1959, 'Salário', 'salary', 1700),
+(DEFAULT, 1960, 'Salário', 'salary', 1700),
+(DEFAULT, 1961, 'Salário', 'salary', 1700),
+(DEFAULT, 1962, 'Salário', 'salary', 1700),
+(DEFAULT, 1963, 'Salário', 'salary', 1700),
+(DEFAULT, 1964, 'Salário', 'salary', 1800),
+(DEFAULT, 1965, 'Salário', 'salary', 1800),
+(DEFAULT, 1966, 'Salário', 'salary', 1800),
+(DEFAULT, 1967, 'Salário', 'salary', 1800),
+(DEFAULT, 1968, 'Salário', 'salary', 1800),
+(DEFAULT, 1969, 'Salário', 'salary', 1800),
+(DEFAULT, 1970, 'Salário', 'salary', 1800),
+(DEFAULT, 1971, 'Salário', 'salary', 1800),
+(DEFAULT, 1972, 'Salário', 'salary', 1800),
+(DEFAULT, 1973, 'Salário', 'salary', 1800),
+(DEFAULT, 1974, 'Salário', 'salary', 1800),
+(DEFAULT, 1975, 'Salário', 'salary', 1800),
+(DEFAULT, 1976, 'Salário', 'salary', 1800),
+(DEFAULT, 1977, 'Salário', 'salary', 2000),
+(DEFAULT, 1978, 'Salário', 'salary', 2000),
+(DEFAULT, 1979, 'Salário', 'salary', 1700),
+(DEFAULT, 1980, 'Salário', 'salary', 1700),
+(DEFAULT, 1981, 'Salário', 'salary', 1700),
+(DEFAULT, 1982, 'Salário', 'salary', 1700),
+(DEFAULT, 1983, 'Salário', 'salary', 1700),
+(DEFAULT, 1984, 'Salário', 'salary', 1700),
+(DEFAULT, 1985, 'Salário', 'salary', 1700),
+(DEFAULT, 1986, 'Salário', 'salary', 1700),
+(DEFAULT, 1987, 'Salário', 'salary', 1700),
+(DEFAULT, 1988, 'Salário', 'salary', 1700),
+(DEFAULT, 1989, 'Salário', 'salary', 1700),
+(DEFAULT, 1990, 'Salário', 'salary', 1700),
+(DEFAULT, 1991, 'Salário', 'salary', 1700),
+(DEFAULT, 1992, 'Salário', 'salary', 1700),
+(DEFAULT, 1993, 'Salário', 'salary', 1700),
+(DEFAULT, 1994, 'Salário', 'salary', 1700),
+(DEFAULT, 1995, 'Salário', 'salary', 1700),
+(DEFAULT, 1996, 'Salário', 'salary', 1700),
+(DEFAULT, 1997, 'Salário', 'salary', 1700),
+(DEFAULT, 1998, 'Salário', 'salary', 1700),
+(DEFAULT, 1999, 'Salário', 'salary', 1700),
+(DEFAULT, 2000, 'Salário', 'salary', 1700),
+(DEFAULT, 2001, 'Salário', 'salary', 1700),
+(DEFAULT, 2002, 'Salário', 'salary', 1700),
+(DEFAULT, 2003, 'Salário', 'salary', 1700),
+(DEFAULT, 2004, 'Salário', 'salary', 1700),
+(DEFAULT, 2005, 'Salário', 'salary', 1700),
+(DEFAULT, 2006, 'Salário', 'salary', 1800),
+(DEFAULT, 2007, 'Salário', 'salary', 1800),
+(DEFAULT, 2008, 'Salário', 'salary', 1800),
+(DEFAULT, 2009, 'Salário', 'salary', 1800),
+(DEFAULT, 2010, 'Salário', 'salary', 1800),
+(DEFAULT, 2011, 'Salário', 'salary', 1800),
+(DEFAULT, 2012, 'Salário', 'salary', 1800),
+(DEFAULT, 2013, 'Salário', 'salary', 1800),
+(DEFAULT, 2014, 'Salário', 'salary', 2000),
+(DEFAULT, 2015, 'Salário', 'salary', 2000),
+(DEFAULT, 2016, 'Salário', 'salary', 2000),
+(DEFAULT, 2017, 'Salário', 'salary', 2000),
+(DEFAULT, 2018, 'Salário', 'salary', 2000),
+(DEFAULT, 2019, 'Salário', 'salary', 2000),
+(DEFAULT, 2020, 'Salário', 'salary', 2000),
+(DEFAULT, 2021, 'Salário', 'salary', 2000),
+(DEFAULT, 2022, 'Salário', 'salary', 2000),
+(DEFAULT, 2023, 'Salário', 'salary', 2000),
+(DEFAULT, 2024, 'Salário', 'salary', 2000),
+(DEFAULT, 2025, 'Salário', 'salary', 2000),
+(DEFAULT, 2026, 'Salário', 'salary', 2000),
+(DEFAULT, 2027, 'Salário', 'salary', 2000),
+(DEFAULT, 2028, 'Salário', 'salary', 2000),
+(DEFAULT, 2029, 'Salário', 'salary', 2000),
+(DEFAULT, 2030, 'Salário', 'salary', 1700),
+(DEFAULT, 2031, 'Salário', 'salary', 1700),
+(DEFAULT, 2032, 'Salário', 'salary', 1700),
+(DEFAULT, 2033, 'Salário', 'salary', 1700),
+(DEFAULT, 2034, 'Salário', 'salary', 1700),
+(DEFAULT, 2035, 'Salário', 'salary', 1700),
+(DEFAULT, 2036, 'Salário', 'salary', 1700),
+(DEFAULT, 2037, 'Salário', 'salary', 1700),
+(DEFAULT, 2038, 'Salário', 'salary', 1700),
+(DEFAULT, 2039, 'Salário', 'salary', 1700),
+(DEFAULT, 2040, 'Salário', 'salary', 1700),
+(DEFAULT, 2041, 'Salário', 'salary', 1700),
+(DEFAULT, 2042, 'Salário', 'salary', 1700),
+(DEFAULT, 2043, 'Salário', 'salary', 1700),
+(DEFAULT, 2044, 'Salário', 'salary', 1700),
+(DEFAULT, 2045, 'Salário', 'salary', 1700),
+(DEFAULT, 2046, 'Salário', 'salary', 1700),
+(DEFAULT, 2047, 'Salário', 'salary', 1700),
+(DEFAULT, 2048, 'Salário', 'salary', 1700),
+(DEFAULT, 2049, 'Salário', 'salary', 1700),
+(DEFAULT, 2050, 'Salário', 'salary', 1700),
+(DEFAULT, 2051, 'Salário', 'salary', 1700),
+(DEFAULT, 2052, 'Salário', 'salary', 1700),
+(DEFAULT, 2053, 'Salário', 'salary', 1700),
+(DEFAULT, 2054, 'Salário', 'salary', 1700),
+(DEFAULT, 2055, 'Salário', 'salary', 1700),
+(DEFAULT, 2056, 'Salário', 'salary', 1700),
+(DEFAULT, 2057, 'Salário', 'salary', 1700),
+(DEFAULT, 2058, 'Salário', 'salary', 1700),
+(DEFAULT, 2059, 'Salário', 'salary', 1700),
+(DEFAULT, 2060, 'Salário', 'salary', 1700),
+(DEFAULT, 2061, 'Salário', 'salary', 1700),
+(DEFAULT, 2062, 'Salário', 'salary', 1700),
+(DEFAULT, 2063, 'Salário', 'salary', 1700),
+(DEFAULT, 2064, 'Salário', 'salary', 1700),
+(DEFAULT, 2065, 'Salário', 'salary', 1700),
+(DEFAULT, 2066, 'Salário', 'salary', 1700),
+(DEFAULT, 2067, 'Salário', 'salary', 1700),
+(DEFAULT, 2068, 'Salário', 'salary', 1700),
+(DEFAULT, 2069, 'Salário', 'salary', 1700),
+(DEFAULT, 2070, 'Salário', 'salary', 1700),
+(DEFAULT, 2071, 'Salário', 'salary', 1700),
+(DEFAULT, 2072, 'Salário', 'salary', 1700),
+(DEFAULT, 2073, 'Salário', 'salary', 1700),
+(DEFAULT, 2074, 'Salário', 'salary', 1700),
+(DEFAULT, 2075, 'Salário', 'salary', 1700),
+(DEFAULT, 2076, 'Salário', 'salary', 1700),
+(DEFAULT, 2077, 'Salário', 'salary', 2000),
+(DEFAULT, 2078, 'Salário', 'salary', 2000),
+(DEFAULT, 2079, 'Salário', 'salary', 2000),
+(DEFAULT, 2080, 'Salário', 'salary', 2000),
+(DEFAULT, 2081, 'Salário', 'salary', 2000),
+(DEFAULT, 2082, 'Salário', 'salary', 1700),
+(DEFAULT, 2083, 'Salário', 'salary', 1700),
+(DEFAULT, 2084, 'Salário', 'salary', 1700),
+(DEFAULT, 2085, 'Salário', 'salary', 1700),
+(DEFAULT, 2086, 'Salário', 'salary', 1700),
+(DEFAULT, 2087, 'Salário', 'salary', 1700),
+(DEFAULT, 2088, 'Salário', 'salary', 1700),
+(DEFAULT, 2089, 'Salário', 'salary', 1700),
+(DEFAULT, 2090, 'Salário', 'salary', 1700),
+(DEFAULT, 2091, 'Salário', 'salary', 1700),
+(DEFAULT, 2092, 'Salário', 'salary', 1700),
+(DEFAULT, 2093, 'Salário', 'salary', 1700),
+(DEFAULT, 2094, 'Salário', 'salary', 1700),
+(DEFAULT, 2095, 'Salário', 'salary', 1700),
+(DEFAULT, 2096, 'Salário', 'salary', 1700),
+(DEFAULT, 2097, 'Salário', 'salary', 1700),
+(DEFAULT, 2098, 'Salário', 'salary', 1700),
+(DEFAULT, 2099, 'Salário', 'salary', 1700),
+(DEFAULT, 2100, 'Salário', 'salary', 1700),
+(DEFAULT, 2101, 'Salário', 'salary', 1700),
+(DEFAULT, 2102, 'Salário', 'salary', 1700),
+(DEFAULT, 2103, 'Salário', 'salary', 1700),
+(DEFAULT, 2104, 'Salário', 'salary', 1700),
+(DEFAULT, 2105, 'Salário', 'salary', 1700),
+(DEFAULT, 2106, 'Salário', 'salary', 1700),
+(DEFAULT, 2107, 'Salário', 'salary', 1700),
+(DEFAULT, 2108, 'Salário', 'salary', 1700),
+(DEFAULT, 2109, 'Salário', 'salary', 1700),
+(DEFAULT, 2110, 'Salário', 'salary', 1700),
+(DEFAULT, 2111, 'Salário', 'salary', 1700),
+(DEFAULT, 2112, 'Salário', 'salary', 1700),
+(DEFAULT, 2113, 'Salário', 'salary', 1700),
+(DEFAULT, 2114, 'Salário', 'salary', 1700),
+(DEFAULT, 2115, 'Salário', 'salary', 1700),
+(DEFAULT, 2116, 'Salário', 'salary', 1700),
+(DEFAULT, 2117, 'Salário', 'salary', 1700),
+(DEFAULT, 2118, 'Salário', 'salary', 1700),
+(DEFAULT, 2119, 'Salário', 'salary', 1700),
+(DEFAULT, 2120, 'Salário', 'salary', 1800),
+(DEFAULT, 2121, 'Salário', 'salary', 1800),
+(DEFAULT, 2122, 'Salário', 'salary', 1800),
+(DEFAULT, 2123, 'Salário', 'salary', 1800),
+(DEFAULT, 2124, 'Salário', 'salary', 1800),
+(DEFAULT, 2125, 'Salário', 'salary', 1800),
+(DEFAULT, 2126, 'Salário', 'salary', 1800),
+(DEFAULT, 2127, 'Salário', 'salary', 1800),
+(DEFAULT, 2128, 'Salário', 'salary', 1800),
+(DEFAULT, 2129, 'Salário', 'salary', 1800),
+(DEFAULT, 2130, 'Salário', 'salary', 1800),
+(DEFAULT, 2131, 'Salário', 'salary', 1800),
+(DEFAULT, 2132, 'Salário', 'salary', 1800),
+(DEFAULT, 2133, 'Salário', 'salary', 1800),
+(DEFAULT, 2134, 'Salário', 'salary', 1800),
+(DEFAULT, 2135, 'Salário', 'salary', 1800),
+(DEFAULT, 2136, 'Salário', 'salary', 1800),
+(DEFAULT, 2137, 'Salário', 'salary', 1800),
+(DEFAULT, 2138, 'Salário', 'salary', 1800),
+(DEFAULT, 2139, 'Salário', 'salary', 1800),
+(DEFAULT, 2140, 'Salário', 'salary', 2000),
+(DEFAULT, 2141, 'Salário', 'salary', 2000),
+(DEFAULT, 2142, 'Salário', 'salary', 2000),
+(DEFAULT, 2143, 'Salário', 'salary', 2000),
+(DEFAULT, 2144, 'Salário', 'salary', 2000),
+(DEFAULT, 2145, 'Salário', 'salary', 2000),
+(DEFAULT, 2146, 'Salário', 'salary', 2000),
+(DEFAULT, 2147, 'Salário', 'salary', 2000),
+(DEFAULT, 2148, 'Salário', 'salary', 2000),
+(DEFAULT, 2149, 'Salário', 'salary', 2000),
+(DEFAULT, 2150, 'Salário', 'salary', 2000),
+(DEFAULT, 2151, 'Salário', 'salary', 2000),
+(DEFAULT, 2152, 'Salário', 'salary', 2000),
+(DEFAULT, 2153, 'Salário', 'salary', 2000),
+(DEFAULT, 2154, 'Salário', 'salary', 2000),
+(DEFAULT, 2155, 'Salário', 'salary', 1700),
+(DEFAULT, 2156, 'Salário', 'salary', 1700),
+(DEFAULT, 2157, 'Salário', 'salary', 1700),
+(DEFAULT, 2158, 'Salário', 'salary', 1700),
+(DEFAULT, 2159, 'Salário', 'salary', 1700),
+(DEFAULT, 2160, 'Salário', 'salary', 1700),
+(DEFAULT, 2161, 'Salário', 'salary', 1700),
+(DEFAULT, 2162, 'Salário', 'salary', 1700),
+(DEFAULT, 2163, 'Salário', 'salary', 1700),
+(DEFAULT, 2164, 'Salário', 'salary', 1700),
+(DEFAULT, 2165, 'Salário', 'salary', 1700),
+(DEFAULT, 2166, 'Salário', 'salary', 1700),
+(DEFAULT, 2167, 'Salário', 'salary', 1700),
+(DEFAULT, 2168, 'Salário', 'salary', 1700),
+(DEFAULT, 2169, 'Salário', 'salary', 1700),
+(DEFAULT, 2170, 'Salário', 'salary', 1700),
+(DEFAULT, 2171, 'Salário', 'salary', 1700),
+(DEFAULT, 2172, 'Salário', 'salary', 1700),
+(DEFAULT, 2173, 'Salário', 'salary', 1700),
+(DEFAULT, 2174, 'Salário', 'salary', 1700),
+(DEFAULT, 2175, 'Salário', 'salary', 1700),
+(DEFAULT, 2176, 'Salário', 'salary', 1700),
+(DEFAULT, 2177, 'Salário', 'salary', 1700),
+(DEFAULT, 2178, 'Salário', 'salary', 1700),
+(DEFAULT, 2179, 'Salário', 'salary', 1700),
+(DEFAULT, 2180, 'Salário', 'salary', 1700),
+(DEFAULT, 2181, 'Salário', 'salary', 1700),
+(DEFAULT, 2182, 'Salário', 'salary', 1700),
+(DEFAULT, 2183, 'Salário', 'salary', 1700),
+(DEFAULT, 2184, 'Salário', 'salary', 1700),
+(DEFAULT, 2185, 'Salário', 'salary', 1700),
+(DEFAULT, 2186, 'Salário', 'salary', 1700),
+(DEFAULT, 2187, 'Salário', 'salary', 1700),
+(DEFAULT, 2188, 'Salário', 'salary', 1700),
+(DEFAULT, 2189, 'Salário', 'salary', 1700),
+(DEFAULT, 2190, 'Salário', 'salary', 1700),
+(DEFAULT, 2191, 'Salário', 'salary', 1700),
+(DEFAULT, 2192, 'Salário', 'salary', 1700),
+(DEFAULT, 2193, 'Salário', 'salary', 1700),
+(DEFAULT, 2194, 'Salário', 'salary', 1700),
+(DEFAULT, 2195, 'Salário', 'salary', 1700),
+(DEFAULT, 2196, 'Salário', 'salary', 1700),
+(DEFAULT, 2197, 'Salário', 'salary', 1700),
+(DEFAULT, 2198, 'Salário', 'salary', 1700),
+(DEFAULT, 2199, 'Salário', 'salary', 1700),
+(DEFAULT, 2200, 'Salário', 'salary', 1700);
