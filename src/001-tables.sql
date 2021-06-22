@@ -209,7 +209,7 @@ CREATE TABLE package
     id           SERIAL PRIMARY KEY,
     recipient_id INTEGER NOT NULL,
     sender_id    INTEGER NOT NULL,
-    due_date     DATE    NOT NULL,
+    receipt_date DATE,
     source       INTEGER NOT NULL,
     destination  INTEGER NOT NULL,
     x_size       DECIMAL NOT NULL,

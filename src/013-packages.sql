@@ -36,14 +36,14 @@ INSERT INTO location VALUES
 (DEFAULT, 'Via de Pedestre Tapia', '', 'Guaçu', '08210790', 1, 'SP', 'POINT (-46.446419 -23.530625)', 'Package 8 - 2 step'),
 (DEFAULT, 'R. Araçoiaba, 780', '', 'Jardim do Algarve', '08571840', 8, 'SP', 'POINT (-46.337242 -23.504811)', 'Package 8 - 3 step');
 
-INSERT INTO package VALUES(DEFAULT, 5, 1, '2021-06-24', 19, 24, 50, 50, 20, 2, 'Kit de trabalho', 'in_transit');
-INSERT INTO package VALUES(DEFAULT, 8, 10, '2021-07-09', 25, 27, 40, 30, 15, 1.7, 'Notebook', 'delivered');
-INSERT INTO package VALUES(DEFAULT, 9, 13, '2021-06-24', 28, 30, 20, 20, 20, 0.3, 'Cubo mágico', 'delivered');
-INSERT INTO package VALUES(DEFAULT, 12, 15, '2021-06-26', 31, 35, 40, 50, 40, 5, 'Impressora', 'delivered');
-INSERT INTO package VALUES(DEFAULT, 14, 16, '2021-07-11', 36, 39, 100, 120, 100, 30, 'Fogão', 'in_transit');
-INSERT INTO package VALUES(DEFAULT, 19, 26, '2021-07-17', 40, 45, 50, 50, 50, 2, 'Caixa de Som', 'in_transit');
-INSERT INTO package VALUES(DEFAULT, 20, 29, '2021-06-22', 46, 50, 20, 10, 20, 0.7, 'Celular', 'in_transit');
-INSERT INTO package VALUES(DEFAULT, 24, 32, '2021-07-16', 51, 54, 50, 50, 50, 6, 'Ventilador', 'in_transit');
+INSERT INTO package VALUES(DEFAULT, 5, 1, NULL, 19, 24, 50, 50, 20, 2, 'Kit de trabalho', 'in_transit');
+INSERT INTO package VALUES(DEFAULT, 8, 10, NULL, 25, 27, 40, 30, 15, 1.7, 'Notebook', 'in_transit');
+INSERT INTO package VALUES(DEFAULT, 9, 13, NULL, 28, 30, 20, 20, 20, 0.3, 'Cubo mágico', 'lost');
+INSERT INTO package VALUES(DEFAULT, 12, 15, '2021-06-19', 31, 35, 40, 50, 40, 5, 'Impressora', 'delivered');
+INSERT INTO package VALUES(DEFAULT, 14, 16, NULL, 36, 39, 100, 120, 100, 30, 'Fogão', 'in_transit');
+INSERT INTO package VALUES(DEFAULT, 19, 26, NULL, 40, 45, 50, 50, 50, 2, 'Caixa de Som', 'in_transit');
+INSERT INTO package VALUES(DEFAULT, 20, 29, NULL, 46, 50, 20, 10, 20, 0.7, 'Celular', 'in_transit');
+INSERT INTO package VALUES(DEFAULT, 24, 32, NULL, 51, 54, 50, 50, 50, 6, 'Ventilador', 'in_transit');
 
 INSERT INTO travel_plan (id,package_id,step_number,step_started,step_finished,description,source,destination,status,notes) VALUES
 (DEFAULT,1,1,'2021-06-18 00:00:00','2021-06-18 00:00:00','Objeto Postado',19,20,'completed',NULL),
