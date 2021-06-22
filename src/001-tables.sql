@@ -313,7 +313,8 @@ CREATE TABLE truck
 CREATE TYPE driver_status AS ENUM (
     'working',
     'not_working',
-    'vacation'
+    'vacation',
+    'fired'
     );
 
 CREATE TABLE driver
