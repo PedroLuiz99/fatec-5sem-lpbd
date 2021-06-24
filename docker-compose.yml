@@ -6,3 +6,5 @@ services:
       context: "./"
     ports:
       - 5433:5432
+    volumes: 
+      - ./backup:/backup
