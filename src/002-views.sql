@@ -32,6 +32,17 @@ GROUP BY pay_month, pay_year
 ORDER BY pay_year, pay_month;
 
 
+CREATE OR REPLACE VIEW view_packages_payment AS
+SELECT 
+       p.id,
+       p.description,
+       i.due_date,
+       i.status
+FROM package p
+      LEFT JOIN invoice_item ii ON (p.id = ii.package_id)
+      LEFT JOIN invoice i ON (ii.invoice_id = i.id);
+
+
 CREATE OR REPLACE VIEW view_consolidated_staff_info AS
 SELECT u.name,
        u.email,
